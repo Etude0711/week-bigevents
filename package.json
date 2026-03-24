@@ -1,0 +1,9 @@
+{
+  "name": "sports-fitness-weekly-brief",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "generate:weekly": "node scripts/generate-weekly-brief.mjs"
+  }
+}

@@ -1,0 +1,42 @@
+name: Weekly Brief Refresh
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 1 * * 1"
+
+permissions:
+  contents: write
+
+jobs:
+  refresh-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Generate weekly brief data
+        env:
+          ITEMS_PER_FEED: 6
+          ITEMS_PER_CATEGORY: 4
+          FEATURED_LIMIT: 4
+        run: npm run generate:weekly
+
+      - name: Commit refreshed data
+        shell: bash
+        run: |
+          if git diff --quiet -- data/news.json data/news.js; then
+            echo "No data changes to commit."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/news.json data/news.js
+          git commit -m "chore: refresh weekly brief data"
+          git push

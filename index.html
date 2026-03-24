@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>全球体育与健身行业周报</title>
+    <meta
+      name="description"
+      content="面向运营团队的全球体育与健身行业周报单页，支持按分类、地区、语言浏览近一周资讯。"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Noto+Sans+SC:wght@400;500;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+    <script src="data/news.js" defer></script>
+    <script src="scripts/render.js" defer></script>
+  </head>
+  <body>
+    <div class="page-shell">
+      <header class="hero">
+        <div class="hero-copy">
+          <p class="eyebrow">Global Sports & Fitness Weekly Brief</p>
+          <h1>全球体育与健身行业周报</h1>
+          <p class="hero-text">
+            适合运营团队每周快速浏览全球体育产业、体育赛事、健身市场与品牌动态；当前页面已按未来接入
+            RSS、API、爬虫的方式组织数据和模块。
+          </p>
+          <div class="hero-actions">
+            <a class="primary-action" href="#featured">查看本周精选</a>
+            <a class="secondary-action" href="#sources">查看来源结构</a>
+          </div>
+        </div>
+
+        <div class="hero-panel">
+          <p class="panel-label">本周速览</p>
+          <div class="week-pill" id="week-pill">加载中...</div>
+          <p class="hero-summary" id="hero-summary">正在读取本周资讯...</p>
+          <dl class="hero-stats" id="hero-stats"></dl>
+        </div>
+      </header>
+
+      <main>
+        <section class="notice-card" id="notice-card" aria-live="polite"></section>
+
+        <section class="controls-card" aria-labelledby="filters-title">
+          <div class="controls-head">
+            <div>
+              <p class="section-kicker">运营筛选台</p>
+              <h2 id="filters-title">按分类、地区、语言快速定位</h2>
+            </div>
+            <button class="ghost-button" id="reset-filters" type="button">恢复默认</button>
+          </div>
+
+          <div class="chip-group" id="category-chips" aria-label="资讯分类"></div>
+
+          <div class="filter-grid">
+            <label class="field" for="region-select">
+              <span>地区</span>
+              <select id="region-select" name="region"></select>
+            </label>
+
+            <label class="field" for="language-select">
+              <span>语言</span>
+              <select id="language-select" name="language"></select>
+            </label>
+
+            <label class="field" for="sort-select">
+              <span>排序</span>
+              <select id="sort-select" name="sort">
+                <option value="priority">按优先级</option>
+                <option value="newest">按发布时间</option>
+                <option value="source">按来源名称</option>
+              </select>
+            </label>
+
+            <label class="field field-search" for="search-input">
+              <span>关键词</span>
+              <input
+                id="search-input"
+                name="search"
+                type="search"
+                placeholder="搜索标题、来源、标签"
+                autocomplete="off"
+              />
+            </label>
+          </div>
+
+          <p class="results-hint" id="results-hint" aria-live="polite"></p>
+        </section>
+
+        <section class="section-block" id="featured" aria-labelledby="featured-title">
+          <div class="section-head">
+            <div>
+              <p class="section-kicker">优先关注</p>
+              <h2 id="featured-title">本周精选</h2>
+            </div>
+            <p class="section-subtext">优先展示适合直接进入选题会、投放会或品牌跟踪会的高优先级条目。</p>
+          </div>
+          <div class="featured-grid" id="featured-grid"></div>
+        </section>
+
+        <section class="digest-layout" id="weekly-digest">
+          <div class="main-column" id="category-sections"></div>
+
+          <aside class="side-column">
+            <section class="side-card">
+              <p class="section-kicker">本周说明</p>
+              <h2>这页可以怎么用</h2>
+              <ul class="bullet-list" id="brief-highlights"></ul>
+            </section>
+
+            <section class="side-card">
+              <p class="section-kicker">后续自动化</p>
+              <h2>数据接入流程</h2>
+              <ol class="pipeline-list" id="pipeline-list"></ol>
+            </section>
+
+            <section class="side-card">
+              <p class="section-kicker">当前视图</p>
+              <h2>覆盖概览</h2>
+              <div class="coverage-grid" id="coverage-grid"></div>
+            </section>
+          </aside>
+        </section>
+
+        <section class="section-block" id="sources" aria-labelledby="sources-title">
+          <div class="section-head">
+            <div>
+              <p class="section-kicker">来源与口径</p>
+              <h2 id="sources-title">媒体来源结构</h2>
+            </div>
+            <p class="section-subtext">既可展示当前视图下的媒体分布，也保留未来 RSS/API/爬虫的数据入口说明。</p>
+          </div>
+
+          <div class="sources-summary" id="sources-summary"></div>
+          <div class="feed-list" id="feed-list"></div>
+        </section>
+      </main>
+    </div>
+
+    <noscript>
+      <div class="noscript-card">
+        这个页面需要启用 JavaScript 才能加载筛选、分组和数据渲染逻辑。
+      </div>
+    </noscript>
+  </body>
+</html>
