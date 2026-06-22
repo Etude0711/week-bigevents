@@ -1,16 +1,16 @@
 window.__WEEKLY_BRIEF_DATA__ = {
   "title": "全球体育与健身行业周报",
-  "weekLabel": "2026 第24周",
+  "weekLabel": "2026 第25周",
   "weekRange": {
-    "start": "2026-06-08",
-    "end": "2026-06-14"
+    "start": "2026-06-15",
+    "end": "2026-06-21"
   },
-  "generatedAt": "2026-06-15T06:31:24.868Z",
+  "generatedAt": "2026-06-22T06:34:29.921Z",
   "disclaimer": "当前页面已接入自动周更流程。资讯由 GitHub Actions 按 sourceFeeds 配置自动抓取 Google News RSS 生成，中文标题与摘要为程序化整理结果；正式对外使用前建议运营团队做一次人工复核。",
   "briefHighlights": [
     "聚合近 7 日体育产业、体育赛事、健身市场、品牌动态共 16 条资讯。",
-    "当前自动样例覆盖 16 家来源、5 个地区、3 种语言。",
-    "高优先级条目 12 条，重点信号包括 世界杯、产业观察、场馆升级。",
+    "当前自动样例覆盖 16 家来源、4 个地区、2 种语言。",
+    "高优先级条目 11 条，重点信号包括 世界杯、产业观察、场馆升级。",
     "当前页面已适配 GitHub Actions 周更流程，前端继续复用同一份 news.json / news.js 数据结构。"
   ],
   "automationSteps": [
@@ -96,12 +96,12 @@ window.__WEEKLY_BRIEF_DATA__ = {
       "category": "sports-industry",
       "region": "china",
       "language": "zh",
-      "source": "证券时报",
+      "source": "新浪新闻_手机新浪网",
       "sourceKind": "media",
-      "titleOriginal": "从世界杯观察我国体育产业突围之路",
-      "titleZh": "从世界杯观察我国体育产业突围之路",
-      "summaryZh": "证券时报 报道，适合跟踪产业规模、资本和技术投入变化；当前信号更偏向区域产业政策、场馆升级与文体融合，可优先关注 世界杯、场馆升级、产业观察。",
-      "publishedAt": "2026-06-10T00:38:00.000Z",
+      "titleOriginal": "刷屏世界杯，中国城市竞速“7万亿元”新主场",
+      "titleZh": "刷屏世界杯，中国城市竞速“7万亿元”新主场",
+      "summaryZh": "新浪新闻_手机新浪网 报道，适合跟踪产业规模、资本和技术投入变化；当前信号更偏向区域产业政策、场馆升级与文体融合，可优先关注 世界杯、场馆升级、产业观察。",
+      "publishedAt": "2026-06-15T18:13:00.000Z",
       "tags": [
         "世界杯",
         "场馆升级",
@@ -109,41 +109,20 @@ window.__WEEKLY_BRIEF_DATA__ = {
       ],
       "priority": 2,
       "featured": false,
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BTktvSDhlaHptNmh1Mk5lSXFYeHd4RGVuV2lZTXF2TGU1eklURXNnbmFXa2xTSmhiM3NxMDJRT2ctcEdLS0dTY1NVWTRtd1g3UDZQRFVOTDlObWVJ?oc=5",
-      "searchQuery": "从世界杯观察我国体育产业突围之路 证券时报",
-      "id": "wk24-industry-001"
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBhVV9BZ2dUc3JtWENmdHBQOWR5YUplV0Q3Mnp1NTNMYzlvNFZWOEEtVEdxc214SDVUby0zYVUwbXMtYTlnSXNBZ1VucEZwRTNoZUtoVUd4YWtCYzR2a0o2T1dzR2cwLWR1bFdkbkRNaUF2TWxhMzZzeQ?oc=5",
+      "searchQuery": "刷屏世界杯，中国城市竞速“7万亿元”新主场 新浪新闻_手机新浪网",
+      "id": "wk25-industry-001"
     },
     {
       "category": "sports-industry",
       "region": "china",
       "language": "zh",
-      "source": "hnzy.gov.cn",
-      "sourceKind": "institution",
-      "titleOriginal": "谢兵 艾斯卡尔·巴吐尔：弘扬湖湘体育文化 夯筑体育强省根基_湖南探索",
-      "titleZh": "谢兵 艾斯卡尔·巴吐尔：弘扬湖湘体育文化 夯筑体育强省根基_湖南探索",
-      "summaryZh": "hnzy.gov.cn 报道，适合跟踪产业规模、资本和技术投入变化；当前信号更偏向区域产业政策、场馆升级与文体融合，可优先关注 场馆升级、产业观察、商业化。",
-      "publishedAt": "2026-06-09T03:39:40.000Z",
-      "tags": [
-        "场馆升级",
-        "产业观察",
-        "商业化"
-      ],
-      "priority": 2,
-      "featured": false,
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBnZTcyT3BHT3E1TkRsWFZTZ2tvMk5RLW00WVY0WnhqeXNjR2s3bjQyMXludVVyemdaMmp5TGpmczM5Ykpsek9qU0RZaDNibURzcEVZZmp1ZXNOdnFFSnhvZTlSY3E?oc=5",
-      "searchQuery": "谢兵 艾斯卡尔·巴吐尔：弘扬湖湘体育文化 夯筑体育强省根基_湖南探索 hnzy.gov.cn",
-      "id": "wk24-industry-002"
-    },
-    {
-      "category": "sports-industry",
-      "region": "china",
-      "language": "zh",
-      "source": "thepaper.cn",
+      "source": "大众网",
       "sourceKind": "media",
-      "titleOriginal": "龚正调研体育产业和文商旅体展融合重点项目，并出席上海男篮赛季总结大会",
-      "titleZh": "龚正调研体育产业和文商旅体展融合重点项目，并出席上海男篮赛季总结大会",
-      "summaryZh": "thepaper.cn 报道，适合跟踪产业规模、资本和技术投入变化；当前信号更偏向区域产业政策、场馆升级与文体融合，可优先关注 场馆升级、产业观察、商业化。",
-      "publishedAt": "2026-06-11T14:54:00.000Z",
+      "titleOriginal": "两万亿赛道重新洗牌，山东体育用品制造业如何破圈突围_山东新闻",
+      "titleZh": "两万亿赛道重新洗牌，山东体育用品制造业如何破圈突围_山东新闻",
+      "summaryZh": "大众网 报道，适合跟踪产业规模、资本和技术投入变化；当前信号更偏向区域产业政策、场馆升级与文体融合，可优先关注 场馆升级、产业观察、商业化。",
+      "publishedAt": "2026-06-21T22:49:00.000Z",
       "tags": [
         "场馆升级",
         "产业观察",
@@ -151,20 +130,20 @@ window.__WEEKLY_BRIEF_DATA__ = {
       ],
       "priority": 3,
       "featured": false,
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE14djVJQWd4UmdiNFpQT2N5Y2FKVzFlUlprV1lmLVVDaEdlZlpWX3F6bFVpUWRKajE0TjNiLXl2R3hjVS1leDBtdll2UXpKYlAxbVFTdnpzX25LbnlUUWlZbg?oc=5",
-      "searchQuery": "龚正调研体育产业和文商旅体展融合重点项目，并出席上海男篮赛季总结大会 thepaper.cn",
-      "id": "wk24-industry-003"
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5HV1U3TEZXLWJnOEJCM0w2V05JMlpEX3UyaUd0YTlrSnh3UTdlWVRMU0tiTEFOb3ZaVl9Ib0d4LTBwODNUaURzSzZGWmJvbHB1WklLZGFfNk1lek0wdElfMEd5UkRkR0hu?oc=5",
+      "searchQuery": "两万亿赛道重新洗牌，山东体育用品制造业如何破圈突围_山东新闻 大众网",
+      "id": "wk25-industry-002"
     },
     {
       "category": "sports-industry",
       "region": "china",
       "language": "zh",
-      "source": "Sina finance",
+      "source": "新华网",
       "sourceKind": "media",
-      "titleOriginal": "【要闻】龚正调研体育产业和文商旅体展融合重点项目，出席上海久事男篮CBA联赛总结大会",
-      "titleZh": "【要闻】龚正调研体育产业和文商旅体展融合重点项目，出席上海久事男篮CBA联赛总结大会",
-      "summaryZh": "Sina finance 报道，适合跟踪产业规模、资本和技术投入变化；当前信号更偏向区域产业政策、场馆升级与文体融合，可优先关注 场馆升级、产业观察、商业化。",
-      "publishedAt": "2026-06-11T14:51:00.000Z",
+      "titleOriginal": "扬帆奋进体育强国建设新征程",
+      "titleZh": "扬帆奋进体育强国建设新征程",
+      "summaryZh": "新华网 报道，适合跟踪产业规模、资本和技术投入变化；当前信号更偏向区域产业政策、场馆升级与文体融合，可优先关注 场馆升级、产业观察、商业化。",
+      "publishedAt": "2026-06-21T13:56:20.000Z",
       "tags": [
         "场馆升级",
         "产业观察",
@@ -172,9 +151,93 @@ window.__WEEKLY_BRIEF_DATA__ = {
       ],
       "priority": 3,
       "featured": false,
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9RMmJ3RVM2c3RURzRJZHEtZHZuSk95dU5DRjMzYkJ1UkJBZ2tPZGQ4R056Y2V0ZUt5a09WemlVU2tMUDZCMXBuNkJreGtSVnB2YVdxMDZtZGpZNDJERnEyUUsyQVBWekNHS0hEXzY1Mzc3WGxuclE?oc=5",
-      "searchQuery": "【要闻】龚正调研体育产业和文商旅体展融合重点项目，出席上海久事男篮CBA联赛总结大会 Sina finance",
-      "id": "wk24-industry-004"
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1XT29OZ0tSR3FrNTc4c1g2UVFxd215UkZvdlpsbUpBRURXRWl1MEZYb2J4dUVvMVA5X1RGcW5wZFZEeUNiZEpRbVhEMkxnM1NNMTR5REFENVA1YzlYU1hIUTdaTkJNQmdoUFhEcUQxMHZSWl9GQlc4?oc=5",
+      "searchQuery": "扬帆奋进体育强国建设新征程 新华网",
+      "id": "wk25-industry-003"
+    },
+    {
+      "category": "sports-industry",
+      "region": "china",
+      "language": "zh",
+      "source": "抚州新闻网",
+      "sourceKind": "media",
+      "titleOriginal": "动跃体育： 跃动体育产业园赛事资讯与数据平台解析",
+      "titleZh": "动跃体育： 跃动体育产业园赛事资讯与数据平台解析",
+      "summaryZh": "抚州新闻网 报道，适合跟踪产业规模、资本和技术投入变化；当前信号更偏向区域产业政策、场馆升级与文体融合，可优先关注 场馆升级、产业观察、商业化。",
+      "publishedAt": "2026-06-18T20:50:34.000Z",
+      "tags": [
+        "场馆升级",
+        "产业观察",
+        "商业化"
+      ],
+      "priority": 3,
+      "featured": false,
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE12YzF6T1lGVGxLdjMwd3JkOHpOaXpGZTVhTlN0emZnYk5jX0hKZGdvWGNzWWZhcUEzT0lDdzVYeWh5Rkt4S3M4SGUtUUNFbFRXbVlNdndBR0RZV1NyMko0bzZ6TGZadDQ1QkVLNg?oc=5",
+      "searchQuery": "动跃体育： 跃动体育产业园赛事资讯与数据平台解析 抚州新闻网",
+      "id": "wk25-industry-004"
+    },
+    {
+      "category": "sports-events",
+      "region": "global",
+      "language": "en",
+      "source": "FOX Sports",
+      "sourceKind": "media",
+      "titleOriginal": "How to Watch the 2026 FIFA World Cup: Scores, Schedule, Dates for Every Match",
+      "titleZh": "如何观看 2026 年 FIFA 世界杯：每场比赛的比分、赛程、日期",
+      "summaryZh": "FOX Sports 报道，适合跟踪赛事运营、票务机制与城市联动节点；当前信号更偏向票务、公平性、主办城市与赛事商业化，可优先关注 世界杯、票务、赛程。",
+      "publishedAt": "2026-06-22T01:37:00.000Z",
+      "tags": [
+        "世界杯",
+        "票务",
+        "赛程"
+      ],
+      "priority": 1,
+      "featured": true,
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUVFCYXl0QkQ3TVVHMFlVZmFTVU5ZYkFIbkVOVUJzTUJxWU9lSU9ocDV5OGZxX2Y2MzM3RXpSOHJmTkYyS3Y3OXRWelBmMWdDNDdvZ1lnTDhFZnVWSjJNeC1GZ3VBMmdwUEF6aXVEd3pKdGEtakI5VFVLaXpTTUNrUGd6UVlpTWFfZmZ0MnNGZHZPZGdWV2YxRHVHV1cyM1prcTl2RtIBpAFBVV95cUxNQnBNVzFVejlFR0RBdTZSRUtvX19acUd4VTNKc3lLVFQ4eFRGV3ZFc202eDJIOWNzenFSUklSdHJLZFBRMGdYZE84UUtYVEVuckRoY0xsVnNvWndKTEcxdUFQLWVad0JzcV9qT0VBRzUyTFowYnQ4V1ExS2lGWFFaWjZ2TTVTeS1EOFh0RkYwWno0YzVFMGphLU9nRDlaZm5uV2Fudg?oc=5",
+      "searchQuery": "How to Watch the 2026 FIFA World Cup: Scores, Schedule, Dates for Every Match FOX Sports",
+      "id": "wk25-events-001"
+    },
+    {
+      "category": "sports-events",
+      "region": "global",
+      "language": "en",
+      "source": "CBS News",
+      "sourceKind": "media",
+      "titleOriginal": "The 2026 FIFA Men's World Cup schedule and how to watch",
+      "titleZh": "2026 年国际足联男子世界杯赛程及观看方式",
+      "summaryZh": "CBS News 报道，适合跟踪赛事运营、票务机制与城市联动节点；当前信号更偏向票务、公平性、主办城市与赛事商业化，可优先关注 世界杯、票务、赛程。",
+      "publishedAt": "2026-06-22T01:00:59.000Z",
+      "tags": [
+        "世界杯",
+        "票务",
+        "赛程"
+      ],
+      "priority": 1,
+      "featured": true,
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9KaFpoWEtMdUpCOWUwZC1CWVhjcFp0SVdDY1I1bkxFY3N1azdHbmh0aTRXZEI2VlpEZEdUQnU0aThkZUp6SE1sa2hMNDFBOC1aTzdCZkFlT3czMlhXYUR5VG1jSEdHbFVsTWhuZmVhd25xSlph?oc=5",
+      "searchQuery": "The 2026 FIFA Men's World Cup schedule and how to watch CBS News",
+      "id": "wk25-events-002"
+    },
+    {
+      "category": "sports-events",
+      "region": "global",
+      "language": "en",
+      "source": "Sounder at Heart",
+      "sourceKind": "media",
+      "titleOriginal": "How to find your perfect World Cup watch spot",
+      "titleZh": "如何找到完美的世界杯观看地点",
+      "summaryZh": "Sounder at Heart 报道，适合跟踪赛事运营、票务机制与城市联动节点；当前信号更偏向票务、公平性、主办城市与赛事商业化，可优先关注 世界杯、票务、赛事运营。",
+      "publishedAt": "2026-06-19T01:24:59.000Z",
+      "tags": [
+        "世界杯",
+        "票务",
+        "赛事运营"
+      ],
+      "priority": 1,
+      "featured": false,
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQd2Z6MlpWV0JmbDRTcUVUWmRRTWRMRklLb0szQ1BWSnZ6aF95S1djNkRadlRmWTlfWXRZQlhIV2JaX1hVeEJQcnY5MnhmdXRraWNqZjh4STNXVlpKVEdJMDNKR01MbUMzcFJKRi1XSC1oNS1LdU9HVGZfQndVZ3VISnNablNka3FNQ3Voa2VB?oc=5",
+      "searchQuery": "How to find your perfect World Cup watch spot Sounder at Heart",
+      "id": "wk25-events-003"
     },
     {
       "category": "sports-events",
@@ -182,83 +245,83 @@ window.__WEEKLY_BRIEF_DATA__ = {
       "language": "en",
       "source": "The New Yorker",
       "sourceKind": "media",
-      "titleOriginal": "Will Americans Start to Care About the World Cup Now?",
-      "titleZh": "美国人现在会开始关心世界杯吗？",
+      "titleOriginal": "How to Canoe to the World Cup in New Jersey",
+      "titleZh": "如何划独木舟前往新泽西观看世界杯",
       "summaryZh": "The New Yorker 报道，适合跟踪赛事运营、票务机制与城市联动节点；当前信号更偏向票务、公平性、主办城市与赛事商业化，可优先关注 世界杯、票务、赛事运营。",
-      "publishedAt": "2026-06-13T15:30:51.000Z",
+      "publishedAt": "2026-06-16T20:58:01.000Z",
       "tags": [
         "世界杯",
         "票务",
         "赛事运营"
+      ],
+      "priority": 1,
+      "featured": false,
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbzVqdjN3SVJWWnhSd0xFbDFjV3gwMlJlWE4tcHktX0RGQWJkaHRqcFBPamR1NUxXQ29jcUZpWDMtTFB2STRBZ1JsN1M5RGxzZmFJRjh6VEFHWEVhM0pmQzhOV0dNV25TcDFWRTZXRmlpZkFUVXNVaGpUMTVMaTliV3lzYXhiQ1JHNnVYMGp4cw?oc=5",
+      "searchQuery": "How to Canoe to the World Cup in New Jersey The New Yorker",
+      "id": "wk25-events-004"
+    },
+    {
+      "category": "fitness-market",
+      "region": "north-america",
+      "language": "en",
+      "source": "TMX Newsfile",
+      "sourceKind": "media",
+      "titleOriginal": "Turbuster and Ecdesign Announce Strategic Partnership to Expand Premium Fitness Equipment Offerings",
+      "titleZh": "Turbuster 和 Ecdesign 宣布建立战略合作伙伴关系，扩大优质健身器材产品范围",
+      "summaryZh": "TMX Newsfile 报道，适合跟踪健身消费、设备渠道和健康管理趋势；当前信号更偏向商用器材、品牌扩张与健身消费，可优先关注 消费、商用健身、设备。",
+      "publishedAt": "2026-06-18T16:07:00.000Z",
+      "tags": [
+        "消费",
+        "商用健身",
+        "设备"
       ],
       "priority": 1,
       "featured": true,
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTXN3d1I0c1pfaURsMmZzQmQ0eFRVcDNiNHJMa21Hdk1YTWdwZ2c1NkFMUnRFSzBmOF9VYWdRZ1ptUmVkYV9ETnV5UmhjUzlPY3MzUDdIaTlOUjloZEphMjBYbElwUXFHT3JJLXhlZktRZTM5czQyV20wNmd3aE8wZTRXN3ZOcVFyalBWV0RDSk9lXzlpbTVLUC1ERlpJOTkxNXc?oc=5",
-      "searchQuery": "Will Americans Start to Care About the World Cup Now? The New Yorker",
-      "id": "wk24-events-001"
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZ1otTzhoY2dzYXZpME14ODh0Rm92UVBtN3ZVVURDTmhjeHgtTjAxcFBlLTI2Wk11X1VsdC0tTXBmVl9OazVNcVpZcW5Fck45a0xZS0JVYzdQY3NHazlFV0hiODlKdFA4M2EydGFBTXlsOHd3UUFYWXItTjhFMnN3aUUtVmplLS1UQU1STFU0RmY1WkZnVjRhaWRYRnV3WGpKQ1dsVEVrbThxcTFVUFdzVWZTYmxscHppTVBXWC11YzBTOGM2a0Q1UGMtV2NwZ2JDaDdwUHNkMXNTanc?oc=5",
+      "searchQuery": "Turbuster and Ecdesign Announce Strategic Partnership to Expand Premium Fitness Equipment Offerings TMX Newsfile",
+      "id": "wk25-fitness-001"
     },
     {
-      "category": "sports-events",
-      "region": "global",
+      "category": "fitness-market",
+      "region": "north-america",
       "language": "en",
-      "source": "AP News",
+      "source": "Barchart.com",
       "sourceKind": "media",
-      "titleOriginal": "World Cup 2026: Who’s in, where to watch, betting odds, schedules and more",
-      "titleZh": "2026 年世界杯：谁参加、在哪里观看、投注赔率、赛程表等",
-      "summaryZh": "AP News 报道，适合跟踪赛事运营、票务机制与城市联动节点；当前信号更偏向票务、公平性、主办城市与赛事商业化，可优先关注 世界杯、票务、赛程。",
-      "publishedAt": "2026-06-11T14:57:41.000Z",
+      "titleOriginal": "Online Fitness Market Forecast to Reach USD 120.13 Billion by 2031, Driven by AI Personalization",
+      "titleZh": "在人工智能个性化的推动下，在线健身市场预计到 2031 年将达到 1201.3 亿美元",
+      "summaryZh": "Barchart.com 报道，适合跟踪健身消费、设备渠道和健康管理趋势；当前信号更偏向商用器材、品牌扩张与健身消费，可优先关注 AI、消费、商用健身。",
+      "publishedAt": "2026-06-15T23:34:21.000Z",
       "tags": [
-        "世界杯",
-        "票务",
-        "赛程"
+        "AI",
+        "消费",
+        "商用健身"
       ],
       "priority": 1,
       "featured": false,
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd1liRTVNaUdvTlZiYV9EX2FLd3ZpNk0zcnFYWFVmMUU5bzhwUGwyZmY4Q1VCUmY3cUNsVlRTRmhXeV9FSmR4YzFKU0tWNWV1RGJGMGkzRDBlczhaSDkyTXNxTHgweWhtU1V3bmRKNlVMMXBIdVAzSmZzYU5ncXItbU5mYkhSbGto?oc=5",
-      "searchQuery": "World Cup 2026: Who’s in, where to watch, betting odds, schedules and more AP News",
-      "id": "wk24-events-002"
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVjU2MzJBRF92OWtFYVpKMW9NWUdGTVpSODlVazMxZFl3SEFIWTV1LWd2V0c5YWc5R1NtWDVzOVFoTjZyZDlKMVo3V29PVy1Mb0t1NDJpUnJWU0hha0dOS3hyQ3BrN1E4cVFrLXotNGVZNEdEMGoweURDZFNNS1NBZnFVaW1UN1E2OEtobEFncDlwN3BVZ3kzaEtla29mRmhwOGQ2bWhFN3RMRUVUY0Y5TFY1WmNPZGM5dmdKb0lLdXdwYTBHekJCYkRxeEdMYm9zV3Q0OA?oc=5",
+      "searchQuery": "Online Fitness Market Forecast to Reach USD 120.13 Billion by 2031, Driven by AI Personalization Barchart.com",
+      "id": "wk25-fitness-002"
     },
     {
-      "category": "sports-events",
-      "region": "global",
+      "category": "fitness-market",
+      "region": "north-america",
       "language": "en",
-      "source": "NPR",
+      "source": "The Business Journals",
       "sourceKind": "media",
-      "titleOriginal": "World Cup facts and figures to get you sounding like an expert",
-      "titleZh": "世界杯的事实和数据让您听起来像个专家",
-      "summaryZh": "NPR 报道，适合跟踪赛事运营、票务机制与城市联动节点；当前信号更偏向票务、公平性、主办城市与赛事商业化，可优先关注 世界杯、票务、赛事运营。",
-      "publishedAt": "2026-06-11T09:00:00.000Z",
+      "titleOriginal": "Wichita entrepreneur partners with longtime gym to integrate AI into fitness industry",
+      "titleZh": "威奇托企业家与长期健身房合作将人工智能融入健身行业",
+      "summaryZh": "The Business Journals 报道，适合跟踪健身消费、设备渠道和健康管理趋势；当前信号更偏向商用器材、品牌扩张与健身消费，可优先关注 AI、消费、商用健身。",
+      "publishedAt": "2026-06-15T19:42:00.000Z",
       "tags": [
-        "世界杯",
-        "票务",
-        "赛事运营"
+        "AI",
+        "消费",
+        "商用健身"
       ],
       "priority": 1,
       "featured": false,
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5yby1EclR1NzhaWXRIcGxkY0tQc2Ztek0tVkIyTmZNWkZjbnJHODVGSmhjcUFVZFBvY3dGYTgtX1YyZ3RrTDVFZkE1b2JhTWxIQUhPOVdiOWhfVU0xNlhBYVlwdjJqVlFWR2ZRbVg0MFJiM0IxNFphVF8yeDJkdw?oc=5",
-      "searchQuery": "World Cup facts and figures to get you sounding like an expert NPR",
-      "id": "wk24-events-003"
-    },
-    {
-      "category": "sports-events",
-      "region": "global",
-      "language": "en",
-      "source": "ESPN",
-      "sourceKind": "media",
-      "titleOriginal": "The World Cup of more: There's never been a tournament like this one",
-      "titleZh": "世界杯更多：从未有过像这样的赛事",
-      "summaryZh": "ESPN 报道，适合跟踪赛事运营、票务机制与城市联动节点；当前信号更偏向票务、公平性、主办城市与赛事商业化，可优先关注 世界杯、票务、赛事运营。",
-      "publishedAt": "2026-06-11T06:48:00.000Z",
-      "tags": [
-        "世界杯",
-        "票务",
-        "赛事运营"
-      ],
-      "priority": 1,
-      "featured": false,
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcFVzSV9tbVBrUFVkam1HQi0wZEFLZV9vZUlSNVk2eks3bTExazg2ZzBtN1MtbFN3VFpzZmRVa1ZfdnJkQjVqdDdINmF3ejJEYjRtQ2NEMG9GTmFCcHhTYnZnWlBNc1JrYTF1SS1OT19YV01YOFU5Qm1NMnN5RmlNMjFJalhYYlhzekwwd3BLMXpuUkZBZGdCM0hIczhsRGJaR2VtNlUycUk?oc=5",
-      "searchQuery": "The World Cup of more: There's never been a tournament like this one ESPN",
-      "id": "wk24-events-004"
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeDgyWHhtREkzRDhoN1hYVlZhSjBodkhlaXloQ3YtT3VzQ21seDRuYndYNll0dDlLZ09xZmpjWndGSzg0RGZybW9uU1p2ZXlNVlpENlN2bHZQaGxUWnpKdzRJb0pwNXJPSzlCMjJSZC1oSDdQSUlVV1l3V3NLcHRFTmNSMFB4U3NlRzkwdnhoaUl4ZWlsRy1jUW1iVVhZWVk5dUdGQWR4RnF4WGM?oc=5",
+      "searchQuery": "Wichita entrepreneur partners with longtime gym to integrate AI into fitness industry The Business Journals",
+      "id": "wk25-fitness-003"
     },
     {
       "category": "fitness-market",
@@ -266,52 +329,10 @@ window.__WEEKLY_BRIEF_DATA__ = {
       "language": "en",
       "source": "Health & Fitness Association",
       "sourceKind": "institution",
-      "titleOriginal": "From Weight Loss to Lasting Value: Structured Exercise and the Economics of GLP-1 Therapy",
-      "titleZh": "从减肥到持久价值：结构化锻炼和 GLP-1 疗法的经济学",
+      "titleOriginal": "Adding Exercise to GLP‑1 Therapy Improves Long-Term Benefits, Multinational Study Finds",
+      "titleZh": "跨国研究发现，在 GLP-1 疗法中添加运动可改善长期效益",
       "summaryZh": "Health & Fitness Association 报道，适合跟踪健身消费、设备渠道和健康管理趋势；当前信号更偏向商用器材、品牌扩张与健身消费，可优先关注 消费、商用健身、设备。",
-      "publishedAt": "2026-06-15T02:04:13.000Z",
-      "tags": [
-        "消费",
-        "商用健身",
-        "设备"
-      ],
-      "priority": 1,
-      "featured": true,
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPV2RhN2hYV2JhRHpjNEpUbGFyb2o1UDBCRWFJeTJ2bTBQZktIZ3dPVWRDaC1JRFQ0X1AtZk9fSzlRTXA5Q3VMSVNPc2pvQWJnaTV1MmNoUnB6WnRfUFdTaE5jZEZCZDVzTmp4WVU1bUhhVm9laDRPSUV4NlBUak41T2ZLWkpfSVZGbF8tbGE0dEo2Ujlzekl3VC1MVGt6U19sdzBvMmNJQnVkeEZ6SG1YdTRncmp3blVNc2xlMkE5WQ?oc=5",
-      "searchQuery": "From Weight Loss to Lasting Value: Structured Exercise and the Economics of GLP-1 Therapy Health & Fitness Association",
-      "id": "wk24-fitness-001"
-    },
-    {
-      "category": "fitness-market",
-      "region": "north-america",
-      "language": "en",
-      "source": "Athletech News",
-      "sourceKind": "media",
-      "titleOriginal": "The Most Innovative Fitness & Wellness Companies of 2026",
-      "titleZh": "2026 年最具创新力的健身与健康公司",
-      "summaryZh": "Athletech News 报道，适合跟踪健身消费、设备渠道和健康管理趋势；当前信号更偏向商用器材、品牌扩张与健身消费，可优先关注 体育科技、消费、商用健身。",
-      "publishedAt": "2026-06-12T09:20:58.000Z",
-      "tags": [
-        "体育科技",
-        "消费",
-        "商用健身"
-      ],
-      "priority": 1,
-      "featured": true,
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYWNReU9kcE5ISDlEWnQ5VzBXa2dQMEJ5aW5jZGJ2c1laVl96eDFiakNUUEJBanc5SXUzQUxxZVpaaUVVS0pDSUJubGJEdmY0VnZvSkxaUUFONm1JbklOeEtTNTExSU0yU1RWYmx6UmIxV3ZTMlJyVU5oV1RCWkpRWXFBbXdQd25S?oc=5",
-      "searchQuery": "The Most Innovative Fitness & Wellness Companies of 2026 Athletech News",
-      "id": "wk24-fitness-002"
-    },
-    {
-      "category": "fitness-market",
-      "region": "north-america",
-      "language": "en",
-      "source": "The New York Times",
-      "sourceKind": "media",
-      "titleOriginal": "Do Women Really Need a Menopause Workout?",
-      "titleZh": "女性更年期真的需要锻炼吗？",
-      "summaryZh": "The New York Times 报道，适合跟踪健身消费、设备渠道和健康管理趋势；当前信号更偏向商用器材、品牌扩张与健身消费，可优先关注 消费、商用健身、设备。",
-      "publishedAt": "2026-06-10T15:00:08.000Z",
+      "publishedAt": "2026-06-15T12:00:00.000Z",
       "tags": [
         "消费",
         "商用健身",
@@ -319,93 +340,30 @@ window.__WEEKLY_BRIEF_DATA__ = {
       ],
       "priority": 1,
       "featured": false,
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTWczb09sQzZNWTUtSlZCVTVFTThGYWhWRFNQSW9sazVKYXhKc094YWtXcGdZNjNkM3c4aVZnWFdaTEVWc1ZiWVpYd3UyZHZUeV9oTlgzMHBYY2hRUmx6RkZMZmNPZkw1WDJTSEVkY2RFc3NVZGRya0ZLRERBVkRnaHNqUjY?oc=5",
-      "searchQuery": "Do Women Really Need a Menopause Workout? The New York Times",
-      "id": "wk24-fitness-003"
-    },
-    {
-      "category": "fitness-market",
-      "region": "latin-america",
-      "language": "es",
-      "source": "GYM FACTORY Revista",
-      "sourceKind": "media",
-      "titleOriginal": "El grupo de Solinca, SC Fitness, alcanza los 100 gimnasios y supera los 200.000 socios",
-      "titleZh": "Solinca 集团 SC Fitness 拥有 100 家健身房和超过 200,000 名会员",
-      "summaryZh": "GYM FACTORY Revista 报道，适合跟踪健身消费、设备渠道和健康管理趋势；当前信号更偏向拉美精品工作室与智能健身，可优先关注 商用健身、精品工作室、供应链。",
-      "publishedAt": "2026-06-09T08:50:49.000Z",
-      "tags": [
-        "商用健身",
-        "精品工作室",
-        "供应链"
-      ],
-      "priority": 1,
-      "featured": false,
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSkpJOUk1c2FqaFBPTS1oby1ZMUtfVjhnVkM1dWZKR0RCVVRPdm5ickdrWTlITHk3MFFhX0JnYVhiNFhwUTVEVjNZblRPXzhWNktxZnNJOVR2YU5KUGlMUkpRT0FjTkFrVTR3Y3BEQmFDbnA1RTE1UmxNUmZmTEhUYjN1ZG8wZXk3S2piNFg4WEU2SkprNjBHNkZ1am5hZjdJaHZLNlFqeEFMcjFMYXJ5R282VGNBd21qUTU4?oc=5",
-      "searchQuery": "El grupo de Solinca, SC Fitness, alcanza los 100 gimnasios y supera los 200.000 socios GYM FACTORY Revista",
-      "id": "wk24-fitness-004"
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZExrUGhvOUctbFFRN19VaEtSdmtvZy1CQlNzc0FCM2NkWGdKVWhuWUl3cDF6ZDdQeWg4ZDhkdzB3dEFITjZBQjAtdUo1VzlreWd6bjhSZjVSWHBhRUtOVGJYODdvT0pIaEF3VHc3OGZLTHhJLXZidzF6SlRMWU8xb3lLZEQ2eURqRUlNM3BfX2U4ZHlyTXdYYkxmUXJJWU5Pdnlwbjl1N08xUnJBdWN2ZnNrM1pTOGRoazBlMw?oc=5",
+      "searchQuery": "Adding Exercise to GLP‑1 Therapy Improves Long-Term Benefits, Multinational Study Finds Health & Fitness Association",
+      "id": "wk25-fitness-004"
     },
     {
       "category": "brand-dynamics",
       "region": "global",
       "language": "en",
-      "source": "Retail Dive",
+      "source": "adidas Group",
       "sourceKind": "brand",
-      "titleOriginal": "Nordstrom, Adidas team up for World Cup style",
-      "titleZh": "Nordstrom 与阿迪达斯联手打造世界杯风格",
-      "summaryZh": "Retail Dive 报道，适合跟踪品牌新品、供应链与区域扩张动作；当前信号更偏向鞋服设计、营销与法务动态，可优先关注 Adidas、消费、世界杯。",
-      "publishedAt": "2026-06-11T14:33:44.000Z",
+      "titleOriginal": "Hybrid Hotel: Launching the Adizero Dropset Pro on the Global Stage",
+      "titleZh": "混合酒店：在全球舞台上推出 Adizero Dropset Pro",
+      "summaryZh": "adidas Group 报道，适合跟踪品牌新品、供应链与区域扩张动作；当前信号更偏向鞋服设计、营销与法务动态，可优先关注 Adidas、法务、新品发布。",
+      "publishedAt": "2026-06-19T13:32:25.000Z",
       "tags": [
         "Adidas",
-        "消费",
-        "世界杯"
+        "法务",
+        "新品发布"
       ],
       "priority": 1,
       "featured": true,
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPR01lYmVrdDA2aDVlQTYzSHR2S2RkRmVvYmpIYUsxYlBWc0xPSVg0VHN4WUltck5MWUVBOXZxYWRNeEVDR3owLXN5YzJwcUFCd0UzTFBoel80dmVSeDVvbUZBaHY1aFlGbzJTMFdFckNBcXIxTzVPLUktZHJTNE5rUUg4NDRySjlFRjZvVGxuV0xDNkxmSXc?oc=5",
-      "searchQuery": "Nordstrom, Adidas team up for World Cup style Retail Dive",
-      "id": "wk24-brand-001"
-    },
-    {
-      "category": "brand-dynamics",
-      "region": "global",
-      "language": "en",
-      "source": "Reuters",
-      "sourceKind": "brand",
-      "titleOriginal": "Nike's World Cup play: take on Adidas and revitalize the brand",
-      "titleZh": "耐克世界杯之战：挑战阿迪达斯，重振品牌",
-      "summaryZh": "Reuters 报道，适合跟踪品牌新品、供应链与区域扩张动作；当前信号更偏向鞋服设计、营销与法务动态，可优先关注 Nike、Adidas、世界杯。",
-      "publishedAt": "2026-06-11T14:15:08.000Z",
-      "tags": [
-        "Nike",
-        "Adidas",
-        "世界杯"
-      ],
-      "priority": 1,
-      "featured": false,
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWnJOcE9OYTBnb29UTG1Sek4tcjNJRjdfV3J3TTA0dGhEdFhoX0tvMlktZTRXX3hnS0VmVDJBejEtZVFNRUFoUGM1T2ttR0NvQ1lSeUVsLXItQ0tIVlBDeFh2eDluN21nOFdaemE1ZnVlRkM3MDVnUWN4ZmVKWVFtV1c2TG1tMWhqLWo0Um5IMmRUbWxBRDZB?oc=5",
-      "searchQuery": "Nike's World Cup play: take on Adidas and revitalize the brand Reuters",
-      "id": "wk24-brand-002"
-    },
-    {
-      "category": "brand-dynamics",
-      "region": "asia-pacific",
-      "language": "en",
-      "source": "The Straits Times",
-      "sourceKind": "brand",
-      "titleOriginal": "Nike’s World Cup play: Take on Adidas and revitalise the brand",
-      "titleZh": "耐克世界杯之战：挑战阿迪达斯，重振品牌",
-      "summaryZh": "The Straits Times 报道，适合跟踪品牌新品、供应链与区域扩张动作；当前信号更偏向品牌供应链与工厂布局，可优先关注 Nike、Adidas、世界杯。",
-      "publishedAt": "2026-06-11T14:08:28.000Z",
-      "tags": [
-        "Nike",
-        "Adidas",
-        "世界杯"
-      ],
-      "priority": 1,
-      "featured": false,
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSklHeF9uaWQzbHl2bWduRW5HeThSTUtDWTg3Q1JkRXktMjFmN0F1MnZaYjdIaHNuZllORnJDbU1Va3hYM0dkYmQ0V0NjUllqNndmdVo2dUI2a0k4OWEtVXdsalAySXNpNDZfY1B6RnRyZ3dWM0xSWGQ3clBtcHBaREtURWZSaGhXcm5JNG41aHZjaF9KZ3hPaUJ0MW14ZnlkRDZGMDZxNA?oc=5",
-      "searchQuery": "Nike’s World Cup play: Take on Adidas and revitalise the brand The Straits Times",
-      "id": "wk24-brand-003"
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbVVTejhsQUk4Sjg0XzJnNHVwdnI0ZmNMNnZBNGVNZm9fRUgzZVFUUEwtbHJ3ZllMZ1R4Qzd4NmdaTDJUS2VidTRheGk5bk1tYTR0dzk4cDF1QXRvTmtVTW85SklVaTd3VWwzLTAta0Z5N2QtdVVhWWZVU0FBUndaYVV4SmpnNXd0TDZPREtacno2NF84b3prbHVKWnNxM2dIM3dySm5RVFlXblN3R3hSV3MyTEpaZw?oc=5",
+      "searchQuery": "Hybrid Hotel: Launching the Adizero Dropset Pro on the Global Stage adidas Group",
+      "id": "wk25-brand-001"
     },
     {
       "category": "brand-dynamics",
@@ -413,10 +371,10 @@ window.__WEEKLY_BRIEF_DATA__ = {
       "language": "en",
       "source": "Forbes",
       "sourceKind": "brand",
-      "titleOriginal": "Adidas And Nike Face Off As 2026 Could See World Cup Of Retro Jersey",
-      "titleZh": "阿迪达斯与耐克对决 2026年世界杯复古球衣即将亮相",
+      "titleOriginal": "Adidas Leans Into Soccer While Nike Chases Culture In World Cup Marketing Showdown",
+      "titleZh": "阿迪达斯进军足球，耐克在世界杯营销对决中追逐文化",
       "summaryZh": "Forbes 报道，适合跟踪品牌新品、供应链与区域扩张动作；当前信号更偏向鞋服设计、营销与法务动态，可优先关注 Nike、Adidas、世界杯。",
-      "publishedAt": "2026-06-10T12:56:07.000Z",
+      "publishedAt": "2026-06-17T14:08:35.000Z",
       "tags": [
         "Nike",
         "Adidas",
@@ -424,9 +382,51 @@ window.__WEEKLY_BRIEF_DATA__ = {
       ],
       "priority": 1,
       "featured": false,
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQmtGUHlBU0VyTkhhd3oxTVJyT3JCOVRQU0VscG9hZHJaeHo4R1RDTmdXMGpROU1ON1hhcXRTVTRtSDJtM3AyT2JQTW12aUlzQWUyRE4yeTVzTERhWE9peTQ5ZGlSSkZrZWpuVWJ2VXJqM3BpNThza05TdDVoZE50bURMeW9lQkxSWnhiWWRqd0t5ZkxNQUtFajhpaGstQVhheVMxZHFWLVNHa0Ixa1p0V0pXZFVhYlVTZEJ5Mm5FZkQ?oc=5",
-      "searchQuery": "Adidas And Nike Face Off As 2026 Could See World Cup Of Retro Jersey Forbes",
-      "id": "wk24-brand-004"
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRXc4LThxUG40aWNEMndtdGpWLU1VdnoxUHV4YUxWeG1TblNiSXdRaXdxcW5zMFozd1BBN3RwcUlFTWhWSzdRMzZvanJoRzFIRmQ2b3B3RlhZUmZUV1BZbnctS1dIaVl1MVdtaWFpdlhOSlNRSXlVSU5wdm9xSUFRQnlhWFRfUDc4WDlKelZUZ2k5TW01X3NPenBjUXFVQTE3ODlwMXFfRVV4VXpfNWtwQnM4NjhCczlHcGZHM1lsZkJLclk?oc=5",
+      "searchQuery": "Adidas Leans Into Soccer While Nike Chases Culture In World Cup Marketing Showdown Forbes",
+      "id": "wk25-brand-002"
+    },
+    {
+      "category": "brand-dynamics",
+      "region": "asia-pacific",
+      "language": "en",
+      "source": "SportsPro",
+      "sourceKind": "media",
+      "titleOriginal": "The participation premium: Why investors are backing specialist brands for sportswear’s next growth story",
+      "titleZh": "参与溢价：为什么投资者支持运动服装下一个增长故事的专业品牌",
+      "summaryZh": "SportsPro 报道，适合跟踪品牌新品、供应链与区域扩张动作；当前信号更偏向品牌供应链与工厂布局，可优先关注 营收、供应链、投资回报。",
+      "publishedAt": "2026-06-15T23:44:12.000Z",
+      "tags": [
+        "营收",
+        "供应链",
+        "投资回报"
+      ],
+      "priority": 1,
+      "featured": false,
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTTBUdUhUQl90TG5UMXdCRTZJTVBwblBJLVZjU0JmckEtdEktYzZ4cUp2dDVvVjY4ZFJuVDc2WFF1NEdFd3pUNGJPdzVicndvRmw0M2ljY0tvTjdBX3Z2XzhHZ2pXcjY3S2lrQURpdDJHRmdTWnhNTEhyZHZzTGFJZnpjeFVPNWdsbUU5bDdXbndLdEVCNXk2TjdHaGdGRDFIRnZ4VXRrQTlWa3NTZlYtaVFSRXpSSEROc1ZPV2drTDJKWEZ6X3c?oc=5",
+      "searchQuery": "The participation premium: Why investors are backing specialist brands for sportswear’s next growth story SportsPro",
+      "id": "wk25-brand-003"
+    },
+    {
+      "category": "brand-dynamics",
+      "region": "global",
+      "language": "en",
+      "source": "huskers.com",
+      "sourceKind": "brand",
+      "titleOriginal": "Nebraska Athletics and adidas Release New Football Uniforms",
+      "titleZh": "内布拉斯加州田径队与阿迪达斯发布新款足球队服",
+      "summaryZh": "huskers.com 报道，适合跟踪品牌新品、供应链与区域扩张动作；当前信号更偏向鞋服设计、营销与法务动态，可优先关注 Adidas、法务、新品发布。",
+      "publishedAt": "2026-06-21T04:18:58.000Z",
+      "tags": [
+        "Adidas",
+        "法务",
+        "新品发布"
+      ],
+      "priority": 2,
+      "featured": false,
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUUEyYTF1TWdDbVhhQU5tVmNOTjNMelZYTWJaSUd1ZTlrNWRKLXNmZzQtZmI0aS0zQjdBR3RzcllFaS1xaENLX05VM0JYMDRXcWRNMTdQaW1paUJCUlpEX1k1R3QtOTYzWU5hemlFZlZmVUdzMm80TWRNcC1Sd0FORWxaYk5sWmdoOEdKYW9tNnZONXZld2dUQm9ibw?oc=5",
+      "searchQuery": "Nebraska Athletics and adidas Release New Football Uniforms huskers.com",
+      "id": "wk25-brand-004"
     }
   ]
 };
