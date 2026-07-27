@@ -1,16 +1,16 @@
 window.__WEEKLY_BRIEF_DATA__ = {
   "title": "全球体育与健身行业周报",
-  "weekLabel": "2026 第29周",
+  "weekLabel": "2026 第30周",
   "weekRange": {
-    "start": "2026-07-13",
-    "end": "2026-07-19"
+    "start": "2026-07-20",
+    "end": "2026-07-26"
   },
-  "generatedAt": "2026-07-20T04:40:47.278Z",
+  "generatedAt": "2026-07-27T04:42:31.503Z",
   "disclaimer": "当前页面已接入自动周更流程。资讯由 GitHub Actions 按 sourceFeeds 配置自动抓取 Google News RSS 生成，中文标题与摘要为程序化整理结果；正式对外使用前建议运营团队做一次人工复核。",
   "briefHighlights": [
     "聚合近 7 日体育产业、体育赛事、健身市场、品牌动态共 16 条资讯。",
-    "当前自动样例覆盖 15 家来源、4 个地区、2 种语言。",
-    "高优先级条目 10 条，重点信号包括 世界杯、产业观察、场馆升级。",
+    "当前自动样例覆盖 16 家来源、5 个地区、3 种语言。",
+    "高优先级条目 11 条，重点信号包括 世界杯、营收、产业观察。",
     "当前页面已适配 GitHub Actions 周更流程，前端继续复用同一份 news.json / news.js 数据结构。"
   ],
   "automationSteps": [
@@ -96,54 +96,75 @@ window.__WEEKLY_BRIEF_DATA__ = {
       "category": "sports-industry",
       "region": "china",
       "language": "zh",
-      "source": "banyuetan.org",
+      "source": "新浪新闻_手机新浪网",
       "sourceKind": "media",
-      "titleOriginal": "专业健身运动拒绝老年人？——体育产业“适老化”（之一）",
-      "titleZh": "专业健身运动拒绝老年人？——体育产业“适老化”（之一）",
-      "summaryZh": "banyuetan.org 报道，适合跟踪产业规模、资本和技术投入变化；当前信号更偏向区域产业政策、场馆升级与文体融合，可优先关注 场馆升级、产业观察、商业化。",
-      "publishedAt": "2026-07-20T01:56:30.000Z",
+      "titleOriginal": "体育强国“十五五”：7万亿如何达成？六大新增长极在哪？丨正解",
+      "titleZh": "体育强国“十五五”：7万亿如何达成？六大新增长极在哪？丨正解",
+      "summaryZh": "新浪新闻_手机新浪网 报道，适合跟踪产业规模、资本和技术投入变化；当前信号更偏向区域产业政策、场馆升级与文体融合，可优先关注 营收、场馆升级、产业观察。",
+      "publishedAt": "2026-07-23T09:02:56.000Z",
       "tags": [
+        "营收",
         "场馆升级",
-        "产业观察",
-        "商业化"
+        "产业观察"
       ],
-      "priority": 3,
+      "priority": 2,
       "featured": false,
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPM2V6X1JtZzRlS2dCbGo0YWNNZTh4UTFfR21mdVRwbE9Ec01Qc3Y2SGdOUWdTRlU1WlBxZmlFZF9kdnRpMi1EczN0X3I5VWN5MWpQQ2xBUWxtQ0w5YUw5SHpzR3VWZmVQNFlndHlNeFFhYnlzQkRncEJXcVJfUzUwZmFKczRxMklMZ3lDSjktQQ?oc=5",
-      "searchQuery": "专业健身运动拒绝老年人？——体育产业“适老化”（之一） banyuetan.org",
-      "id": "wk29-industry-001"
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5nb1lqQTd0MjZleVFkd0RCejlUYTR5ei1lVXJLWExuT1VSNkVSOEJMclJDeTVzanhpNkVyNEgwRkJ5LW9MMVc4YUZoUEhXRHJxM3VsbnJrcGtVaUhiQkpJZ1NrdzR5SENWVTlRUDhjQ2xVNTBE?oc=5",
+      "searchQuery": "体育强国“十五五”：7万亿如何达成？六大新增长极在哪？丨正解 新浪新闻_手机新浪网",
+      "id": "wk30-industry-001"
+    },
+    {
+      "category": "sports-industry",
+      "region": "global",
+      "language": "en",
+      "source": "Sports Video Group",
+      "sourceKind": "media",
+      "titleOriginal": "Australian Sports Technologies Network Reports Industry Growth of 16% in 2026",
+      "titleZh": "澳大利亚体育技术网络报告 2026 年行业增长 16%",
+      "summaryZh": "Sports Video Group 报道，适合跟踪产业规模、资本和技术投入变化；当前信号更偏向宏观产业规模、技术应用与商业化，可优先关注 体育科技、营收、产业观察。",
+      "publishedAt": "2026-07-22T11:49:44.000Z",
+      "tags": [
+        "体育科技",
+        "营收",
+        "产业观察"
+      ],
+      "priority": 2,
+      "featured": false,
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYUg0bVpkbDQ1aXVyVW8wRGc2ODVudnNLbG9hLXhPYmhXN3ZobTQxM3NOb2N4akxJWTAxZEpoRHNkRGFRSWJzOFVFcVFPVHJkTXUzSjVpSnZVcWtUcXFHRFNPRUxxT21jYW9SNk1JcDk0ZUhkb01NTW9ZQkp0bkxBMmpGUTY3RHZvOFpoYTAzS0hnQjNfcDNnanpfVTFyUzgzMVRXVjJNQUNmR3M2Rnh3NDVJSEU2LUU?oc=5",
+      "searchQuery": "Australian Sports Technologies Network Reports Industry Growth of 16% in 2026 Sports Video Group",
+      "id": "wk30-industry-002"
     },
     {
       "category": "sports-industry",
       "region": "china",
       "language": "zh",
-      "source": "新浪网",
+      "source": "财联社",
       "sourceKind": "media",
-      "titleOriginal": "赛动京津冀 产融新未来",
-      "titleZh": "赛动京津冀 产融新未来",
-      "summaryZh": "新浪网 报道，适合跟踪产业规模、资本和技术投入变化；当前信号更偏向区域产业政策、场馆升级与文体融合，可优先关注 场馆升级、产业观察、商业化。",
-      "publishedAt": "2026-07-19T06:22:00.000Z",
+      "titleOriginal": "体育强国建设“十五五”规划发布 到2030年产业规模破7万亿元",
+      "titleZh": "体育强国建设“十五五”规划发布 到2030年产业规模破7万亿元",
+      "summaryZh": "财联社 报道，适合跟踪产业规模、资本和技术投入变化；当前信号更偏向区域产业政策、场馆升级与文体融合，可优先关注 新品发布、场馆升级、产业观察。",
+      "publishedAt": "2026-07-22T09:05:00.000Z",
       "tags": [
+        "新品发布",
         "场馆升级",
-        "产业观察",
-        "商业化"
+        "产业观察"
       ],
-      "priority": 3,
+      "priority": 2,
       "featured": false,
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdHRXT0ZzaGpGWC1POE8xSUxnRjkzbk1LMUllcGdkQVpfNEd2M2V2ak9hTEZTbHI2RmhWUXNDdThaRVBLazVEWko2NjBmbDZPV3gyUlh4MC11b3k5My1TOHZHQmMxajBqQlA3ZUJ0TnpHX01ic1V0YUdUY0U4RVFfVWxrbkt0Sm9NYzN1NnhscUszX2JkS3UxRTNURkR2anhXeF9JdUptejdIWXpZWkdOT0JXZThibUQ0bU5tREdYZ2VDc2NuWDc1M2xSV0Ywb09kT1hXWl9XT3VtUQ?oc=5",
-      "searchQuery": "赛动京津冀 产融新未来 新浪网",
-      "id": "wk29-industry-002"
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9yenk1NzB3MFBkaFpDcldENDdyX1hfdGlDbFJ6UTl5ZGkwU09PcjRjUkc2MUlKSmxlNFluMWpzSXNtdUJ5RmxJZg?oc=5",
+      "searchQuery": "体育强国建设“十五五”规划发布 到2030年产业规模破7万亿元 财联社",
+      "id": "wk30-industry-003"
     },
     {
       "category": "sports-industry",
       "region": "china",
       "language": "zh",
-      "source": "新浪财经",
+      "source": "手机新浪网",
       "sourceKind": "media",
-      "titleOriginal": "京津冀体育产业大会在蔚县举行",
-      "titleZh": "京津冀体育产业大会在蔚县举行",
-      "summaryZh": "新浪财经 报道，适合跟踪产业规模、资本和技术投入变化；当前信号更偏向区域产业政策、场馆升级与文体融合，可优先关注 场馆升级、产业观察、商业化。",
-      "publishedAt": "2026-07-18T22:35:47.000Z",
+      "titleOriginal": "赛事赋能 产业深耕 陕西体育产业正迈向高质量发展新阶段",
+      "titleZh": "赛事赋能 产业深耕 陕西体育产业正迈向高质量发展新阶段",
+      "summaryZh": "手机新浪网 报道，适合跟踪产业规模、资本和技术投入变化；当前信号更偏向区域产业政策、场馆升级与文体融合，可优先关注 场馆升级、产业观察、商业化。",
+      "publishedAt": "2026-07-24T21:23:01.000Z",
       "tags": [
         "场馆升级",
         "产业观察",
@@ -151,30 +172,9 @@ window.__WEEKLY_BRIEF_DATA__ = {
       ],
       "priority": 3,
       "featured": false,
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNS1MyNkRMZFdEZTloN2dSMDFQT3hpNkRIY2tLaVF5QmRaMWtManpmdDBKaDZoN2JWWDkzbzNhdU5qVFMwZHBxcGtGSGFMa014UkJyNktudGRTRm9LVjhOWmgxZDhRWGcxdEpDN0Zaa0tJOGFwTXI1ODIza3ByNDREbUozbkI?oc=5",
-      "searchQuery": "京津冀体育产业大会在蔚县举行 新浪财经",
-      "id": "wk29-industry-003"
-    },
-    {
-      "category": "sports-industry",
-      "region": "china",
-      "language": "zh",
-      "source": "四川在线",
-      "sourceKind": "media",
-      "titleOriginal": "赛事矩阵初成 雅安如何下好“体育+”这盘棋",
-      "titleZh": "赛事矩阵初成 雅安如何下好“体育+”这盘棋",
-      "summaryZh": "四川在线 报道，适合跟踪产业规模、资本和技术投入变化；当前信号更偏向区域产业政策、场馆升级与文体融合，可优先关注 场馆升级、产业观察、商业化。",
-      "publishedAt": "2026-07-17T15:12:43.000Z",
-      "tags": [
-        "场馆升级",
-        "产业观察",
-        "商业化"
-      ],
-      "priority": 3,
-      "featured": false,
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9tdFlkVE5EVlVqXzYtYmJWQmVnRV9seFI2eHNNR2gySW9fZFQxUGdIUmFXZEo2WTFrR2d3T3drLWFTT0tkZFV2bUtPZWcxaHFCQ1FyeFJ6VV9MMTI0eldz?oc=5",
-      "searchQuery": "赛事矩阵初成 雅安如何下好“体育+”这盘棋 四川在线",
-      "id": "wk29-industry-004"
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbUlGTTI0aEkxaEtCYXhqNDNDOFNBTE9EeDlVaFVhOWNYS2FLcm05QjZzQzFWV2k2RkFQOVd6TWZLYmlTTHlLUjRiSnZZUEg5Q3lrZGZHSm9xM05pd3UySm96X2hrbXFHZmhNOElTaVFpZlIxcVFfR2lCa3AtdUk1UEhn?oc=5",
+      "searchQuery": "赛事赋能 产业深耕 陕西体育产业正迈向高质量发展新阶段 手机新浪网",
+      "id": "wk30-industry-004"
     },
     {
       "category": "sports-events",
@@ -182,10 +182,10 @@ window.__WEEKLY_BRIEF_DATA__ = {
       "language": "en",
       "source": "The New York Times",
       "sourceKind": "media",
-      "titleOriginal": "Did This World Cup Change Soccer Forever?",
-      "titleZh": "这届世界杯永远改变了足球吗？",
+      "titleOriginal": "My (Crazy, Heartbreaking, Glorious) World Cup Adventure",
+      "titleZh": "我的（疯狂、心碎、光荣）世界杯冒险",
       "summaryZh": "The New York Times 报道，适合跟踪赛事运营、票务机制与城市联动节点；当前信号更偏向票务、公平性、主办城市与赛事商业化，可优先关注 世界杯、票务、赛事运营。",
-      "publishedAt": "2026-07-19T23:47:28.000Z",
+      "publishedAt": "2026-07-22T20:37:46.000Z",
       "tags": [
         "世界杯",
         "票务",
@@ -193,9 +193,51 @@ window.__WEEKLY_BRIEF_DATA__ = {
       ],
       "priority": 1,
       "featured": true,
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0xNzUxcU9IV2xtXzFZWHo3V0x4OGpRZ0ZVcTUwMHhnc1RTeVJUVWFGbktZNENQcU0wcWRwa2xNZndCVVVCVFczLUVNdk96SEQ5QmpEVWtIWDVSYjM1UkEyRjBlZkY1RFdodGdXTDVVTmFSLUNjWVNXcmZmam5tZw?oc=5",
-      "searchQuery": "Did This World Cup Change Soccer Forever? The New York Times",
-      "id": "wk29-events-001"
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1zVjhXNnFvVk15amRvdDd1MzRHVHRjVVhLRkdDbFJMNU1NUEt0eERZSlNhczF6cjhXNTllTWEzUzAtRTU1QU9OLTYtbmtKMHVTclgzYUR1RmhKWGFOQVlqLTJGUEl4d2xPMGY0S2RSS3dJdw?oc=5",
+      "searchQuery": "My (Crazy, Heartbreaking, Glorious) World Cup Adventure The New York Times",
+      "id": "wk30-events-001"
+    },
+    {
+      "category": "sports-events",
+      "region": "global",
+      "language": "en",
+      "source": "Axios",
+      "sourceKind": "media",
+      "titleOriginal": "World Cup final draws record 62.8M U.S. viewers",
+      "titleZh": "世界杯决赛吸引了创纪录的 6280 万美国观众",
+      "summaryZh": "Axios 报道，适合跟踪赛事运营、票务机制与城市联动节点；当前信号更偏向票务、公平性、主办城市与赛事商业化，可优先关注 世界杯、票务、赛事运营。",
+      "publishedAt": "2026-07-21T23:37:49.000Z",
+      "tags": [
+        "世界杯",
+        "票务",
+        "赛事运营"
+      ],
+      "priority": 1,
+      "featured": false,
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1pQ21aOGZpU2VGNE9LMnFmTzQtRDZNa0FERWxpYU1fVERCLVFJMTdyaWF3bFdLOWdkRWZSSl8xUDNqMmVlcFhHX1RvVkRFQlIxQUdtalo3UmhiU0JGeTN4MG9GTzBveFluRm1yVVRfQy03QkhP?oc=5",
+      "searchQuery": "World Cup final draws record 62.8M U.S. viewers Axios",
+      "id": "wk30-events-002"
+    },
+    {
+      "category": "sports-events",
+      "region": "global",
+      "language": "en",
+      "source": "FOX Sports",
+      "sourceKind": "media",
+      "titleOriginal": "Here's To The Best World Cup Of All Time. The Memories Will Live Forever.",
+      "titleZh": "这是有史以来最好的世界杯。记忆将永远存在。",
+      "summaryZh": "FOX Sports 报道，适合跟踪赛事运营、票务机制与城市联动节点；当前信号更偏向票务、公平性、主办城市与赛事商业化，可优先关注 世界杯、票务、赛事运营。",
+      "publishedAt": "2026-07-21T20:05:24.000Z",
+      "tags": [
+        "世界杯",
+        "票务",
+        "赛事运营"
+      ],
+      "priority": 1,
+      "featured": false,
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORHE4OWltaUExSzlwdzg2UDE5VkhBOVA2eE9RN1FyWE4wWXFldDA5WDJXeGJXWDY0MVpVNUdFRWNSRGVUUU9fdW1fX3RlZmtVWWdOMHpRNUQ5YnZXT0w1bWtiWDJQZUI4R3NQMnNCZ2IxLVVXTFBJdUJtRUZHNDU4eVZ0SmVvUVZTMjN6Q2xMc2M1RFFSX3YySjF30gGaAUFVX3lxTE83aHA1UXc5SDQ4TjdwRG92ZTFOVHhBUHh6d0dLcnl2Sm9laGx2RFZRUmhDSk1wZzZDMmpQYzQ1YThJV05rZWZ4cTdrRTNpOEhYVnFobDZkV0RSU3NVTFhqUGZIZEJHSGJmYWNLVUhza0J3bmZEdGpsNzRkUmpMLTVDUVdnZGtUMXZRaERBZnN5dlFydWQ0Q0xZWFE?oc=5",
+      "searchQuery": "Here's To The Best World Cup Of All Time. The Memories Will Live Forever. FOX Sports",
+      "id": "wk30-events-003"
     },
     {
       "category": "sports-events",
@@ -203,31 +245,10 @@ window.__WEEKLY_BRIEF_DATA__ = {
       "language": "en",
       "source": "ESPN",
       "sourceKind": "media",
-      "titleOriginal": "Spain's persistence pays off to win 2026 World Cup as Messi, Argentina exit quietly",
-      "titleZh": "西班牙的坚持得到了回报，赢得了 2026 年世界杯，梅西、阿根廷悄然退出",
+      "titleOriginal": "Grading the 2026 World Cup from Spain's A to Infantino's F",
+      "titleZh": "2026年世界杯分级从西班牙A级到因凡蒂诺F级",
       "summaryZh": "ESPN 报道，适合跟踪赛事运营、票务机制与城市联动节点；当前信号更偏向票务、公平性、主办城市与赛事商业化，可优先关注 世界杯、票务、赛事运营。",
-      "publishedAt": "2026-07-19T23:11:00.000Z",
-      "tags": [
-        "世界杯",
-        "票务",
-        "赛事运营"
-      ],
-      "priority": 1,
-      "featured": true,
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSTB5eURmRnlsZHpLNUVIMXJrTXNrZUlIUzR2a3czOHZWaF9VT2lvOW5mYnR5UW11VnV5M2wyUkJwVmZBWndvN2RHTllsTlpaWktuRXBmdVZPWnpvRzdac3R5Sll2YjdXMWpjX1lySV83OW5aWWgyR0VmVXctdkdrb0pCMWVkQWRSYWNCRVY5dE1lRjE4aU5ZYlNHLXBWcFdrYmFrQ2ZNMUhya3ViVDEwajQtLVNzT3p2YXVRTjdJQQ?oc=5",
-      "searchQuery": "Spain's persistence pays off to win 2026 World Cup as Messi, Argentina exit quietly ESPN",
-      "id": "wk29-events-002"
-    },
-    {
-      "category": "sports-events",
-      "region": "global",
-      "language": "en",
-      "source": "NPR",
-      "sourceKind": "media",
-      "titleOriginal": "Spain is the 2026 World Cup champion, defeating Argentina for its 2nd title",
-      "titleZh": "西班牙队夺得2026年世界杯冠军，击败阿根廷队第二次夺冠",
-      "summaryZh": "NPR 报道，适合跟踪赛事运营、票务机制与城市联动节点；当前信号更偏向票务、公平性、主办城市与赛事商业化，可优先关注 世界杯、票务、赛事运营。",
-      "publishedAt": "2026-07-19T04:00:00.000Z",
+      "publishedAt": "2026-07-21T07:33:00.000Z",
       "tags": [
         "世界杯",
         "票务",
@@ -235,62 +256,41 @@ window.__WEEKLY_BRIEF_DATA__ = {
       ],
       "priority": 1,
       "featured": false,
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORldyT1lCVzFrYVlTaHk3c0pOalB0ZzZQdngxSTN4YkdUMU9IaEtjUWVpRGRhMkVINGxfRTlYY2pOU2tHSFRvV2pnTnpOVUp5TFdhaUxyM25WekRrMDc4bVJVYmFZSDdncUxTSWExeVJEWkFjYkJzYWpteWhreXdBWFF3U0FPODhuczFPRjFMOWNFdTdNMEpldTJjMTRpbnlx?oc=5",
-      "searchQuery": "Spain is the 2026 World Cup champion, defeating Argentina for its 2nd title NPR",
-      "id": "wk29-events-003"
-    },
-    {
-      "category": "sports-events",
-      "region": "global",
-      "language": "en",
-      "source": "The New York Times",
-      "sourceKind": "media",
-      "titleOriginal": "Delightful World Cup Stories",
-      "titleZh": "精彩的世界杯故事",
-      "summaryZh": "The New York Times 报道，适合跟踪赛事运营、票务机制与城市联动节点；当前信号更偏向票务、公平性、主办城市与赛事商业化，可优先关注 世界杯、票务、赛事运营。",
-      "publishedAt": "2026-07-16T20:56:53.000Z",
-      "tags": [
-        "世界杯",
-        "票务",
-        "赛事运营"
-      ],
-      "priority": 1,
-      "featured": false,
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWTVMUU1sWUxyLU1nNjRoelBqN3cxMHVlS0IwTHdnb0VpcEM5eDRYSURQWGkyLVlmMmNtRlptY0lTWGJuLWFrY0REVGZOc3BSb2JxVFluS3d6QmZhVHA3R0U0TEhkSGU5d1lnU3BWZlJiVlNqeXlqeGZIZVFpc3FadFR5aTRCQQ?oc=5",
-      "searchQuery": "Delightful World Cup Stories The New York Times",
-      "id": "wk29-events-004"
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSnoyQ3lqcGxjQkZfZ0xrNWdmUmh3OTdfaG85a2hjRGFxTEdWYnQ0ams4ZG1GZGdKVmVJcEliNDVQRnpzWUNxdmVaWGtlSHdYUFRxVTFnNEhPbHJEX0V6TmMwdXUydFN2UXhwYjlZUml2cGlocUtHWk51cU1ZYW5SQ1NPcktFcDFzdWlLSWRrWkVrNE42?oc=5",
+      "searchQuery": "Grading the 2026 World Cup from Spain's A to Infantino's F ESPN",
+      "id": "wk30-events-004"
     },
     {
       "category": "fitness-market",
       "region": "north-america",
       "language": "en",
-      "source": "PR Newswire",
+      "source": "Fitt Insider",
       "sourceKind": "media",
-      "titleOriginal": "PLNT Lawsuit Alert: Planet Fitness Sued for Securities Fraud After Stock Plummets Over 31% Over Marketing and Growth Issues",
-      "titleZh": "PLNT 诉讼提醒：Planet Fitness 因营销和增长问题股价暴跌 31% 以上后因证券欺诈被起诉",
-      "summaryZh": "PR Newswire 报道，适合跟踪健身消费、设备渠道和健康管理趋势；当前信号更偏向商用器材、品牌扩张与健身消费，可优先关注 营收、消费、商用健身。",
-      "publishedAt": "2026-07-15T19:23:00.000Z",
+      "titleOriginal": "Urban Gym Group Acquires Iconic Health Clubs Dublin, Enters Irish Market",
+      "titleZh": "Urban Gym Group 收购都柏林标志性健身俱乐部，进军爱尔兰市场",
+      "summaryZh": "Fitt Insider 报道，适合跟踪健身消费、设备渠道和健康管理趋势；当前信号更偏向商用器材、品牌扩张与健身消费，可优先关注 消费、商用健身、设备。",
+      "publishedAt": "2026-07-25T16:19:43.000Z",
       "tags": [
-        "营收",
         "消费",
-        "商用健身"
+        "商用健身",
+        "设备"
       ],
       "priority": 1,
       "featured": true,
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNVWU5ODhQRlBSZTdJM0tZTHk5N1hwbHRoQXNCNXJ3bnMzNzhBb09iTkkwa0xKT1d0U3BzYXJMZk1mNkJJUXk5b2poLUpRZWZzX25teEZHQmNpeHFGa2RBRVZuLVVEaWRnbExxc1F0dThlcmt4anA1X044SkREOUtkbEd3U294aFZCOXZ1Z3NXTWZxZU4xMmY3Wmw2ekJ3NVZaZXVqbjFwcWJsMkN6OTJjOXdXSm9IXzJ3MVhSeTlodGtRQjlmNDhlekF5dUYtV19KWVhNVWtGSnQ2Tm1Tc1lfZjgxQVRtejNQMTM3NUk4MDhqVXVRUDdsdUpfc1BBN2l0bjdmN0RXSUs?oc=5",
-      "searchQuery": "PLNT Lawsuit Alert: Planet Fitness Sued for Securities Fraud After Stock Plummets Over 31% Over Marketing and Growth Issues PR Newswire",
-      "id": "wk29-fitness-001"
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcTVkaUpDRHNKS3RkNWdwZ1FNOWxpdEdjczFmZS1fLTh3d0ZVOFlzTjdOWjl3Vmozb0k2amFNdXQ1U1JZTmZubEVvWjM1d3ViSUx6UUhNNW1JZVdVdWl5Q1lUQ1lZSXhNT3prUXJEcGlMRGxzMlJhVFN6WWNTYjhkYWdNUW1BbHEtUHotMWRYM3laTWRRUXVxbU9QcEt0T1R1T1NTLXRMX0Jud1ZmdHdB?oc=5",
+      "searchQuery": "Urban Gym Group Acquires Iconic Health Clubs Dublin, Enters Irish Market Fitt Insider",
+      "id": "wk30-fitness-001"
     },
     {
       "category": "fitness-market",
       "region": "north-america",
       "language": "en",
-      "source": "The Motley Fool",
+      "source": "Valor International",
       "sourceKind": "media",
-      "titleOriginal": "Best Gym Stocks for 2026 and How to Invest",
-      "titleZh": "2026 年最佳健身房股票以及如何投资",
-      "summaryZh": "The Motley Fool 报道，适合跟踪健身消费、设备渠道和健康管理趋势；当前信号更偏向商用器材、品牌扩张与健身消费，可优先关注 消费、商用健身、设备。",
-      "publishedAt": "2026-07-15T02:12:00.000Z",
+      "titleOriginal": "Luxury fitness market grows with R$7,000-a-month studio in São Paulo",
+      "titleZh": "圣保罗每月 7,000 雷亚尔的工作室推动豪华健身市场增长",
+      "summaryZh": "Valor International 报道，适合跟踪健身消费、设备渠道和健康管理趋势；当前信号更偏向商用器材、品牌扩张与健身消费，可优先关注 消费、商用健身、设备。",
+      "publishedAt": "2026-07-21T13:35:52.000Z",
       "tags": [
         "消费",
         "商用健身",
@@ -298,83 +298,125 @@ window.__WEEKLY_BRIEF_DATA__ = {
       ],
       "priority": 1,
       "featured": false,
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZjliZmJub181MUd6Ql9rWlZfeXdrazVlTVhJWWx5OXNPSURFSnpSTGRGNzVHT2J4TEdaMzBmMWczaU55NFJ0MzgzcWJuN0RncjJ1TGFGQjVnVHBXWmtQMXd0dU03S2RndDNHMEx3c200UWNfNVRDM1JlUUl0NXJRZW5MM194VjNMV2JONUVYNWU?oc=5",
-      "searchQuery": "Best Gym Stocks for 2026 and How to Invest The Motley Fool",
-      "id": "wk29-fitness-002"
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPemZFN3BMN0NJMTZsM1BsU3A1VkwyeHFYZnhfWXBlQ05uMExVTG9PLXJjNEpuUWgzMlZBVFdqZjBiZXdqUlM5Y2hsSnRBLWV5aVZmMVkzamsyZDc0OEJUUnJ2Njl5c3hlSmEtWnNOdE5McXJZM28wUkJLTlpZTndqbWg4YzNOVTFkV2x4ZGllTGJrbUI5dkI1SlF0M3hBYzlMRGFTeU4yYXhaNExBUmhLWTZrNmVkWHpVanY2N1VtYVh1TWVZMmlwNXJETjlFUzDSAd4BQVVfeXFMTmtocFhvUjNKRERleUF1S29nd24wTjkxUXQteWdOU3hYQlZfQnVRSFhlM3NVYVhTcVBwUXJfemctZVIyVnR1Ny1rMUUwNXRNRlAtNlpuamYteFY3Qng5TzdSOUNrMVhBT3ZBT2pLaUNsWjVYbGtrSmtDNk4ySU1tVkN3N05rRGI0dmZVbHg2Zk9Lb0kwSjlNV3NEc1NVOGV4akdqbWVla0h5Q016UEVNSk0yZEJxM2tWVTNFLWlocmV2cldsTE5lY1pzNm92T2ZNaXkzVGUtR2d6SFlLS3l3?oc=5",
+      "searchQuery": "Luxury fitness market grows with R$7,000-a-month studio in São Paulo Valor International",
+      "id": "wk30-fitness-002"
     },
     {
       "category": "fitness-market",
-      "region": "china",
-      "language": "zh",
-      "source": "中华网",
+      "region": "latin-america",
+      "language": "es",
+      "source": "GYM FACTORY Revista",
       "sourceKind": "media",
-      "titleOriginal": "直击场馆经营痛点丨舒华商用AI健身方案亮相2026CHINAFIT北京健身大会",
-      "titleZh": "直击场馆经营痛点丨舒华商用AI健身方案亮相2026CHINAFIT北京健身大会",
-      "summaryZh": "中华网 报道，适合跟踪健身消费、设备渠道和健康管理趋势；当前信号更偏向器材、展会和出海案例，可优先关注 AI、商用健身、设备。",
-      "publishedAt": "2026-07-14T01:39:48.000Z",
+      "titleOriginal": "U Can acelera su expansión global y lleva el wellness mexicano a Europa",
+      "titleZh": "U Can 加速全球扩张，将墨西哥健康带到欧洲",
+      "summaryZh": "GYM FACTORY Revista 报道，适合跟踪健身消费、设备渠道和健康管理趋势；当前信号更偏向拉美精品工作室与智能健身，可优先关注 商用健身、精品工作室、健康管理。",
+      "publishedAt": "2026-07-21T04:04:27.000Z",
       "tags": [
-        "AI",
         "商用健身",
-        "设备"
+        "精品工作室",
+        "健康管理"
       ],
       "priority": 1,
       "featured": false,
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE14VzZBdjc2emYyclBnRnpXNW1ndUR3UHRLcVhjZG9ESEx1d2lOU09fUlgwSFllMEVKc0NsV1RPdTZwa2ZmTUlRWlMyU0R2amhhT1ozeVp2X3AtSTE4TU9DZUk0N3ZySHlzX1h2NA?oc=5",
-      "searchQuery": "直击场馆经营痛点丨舒华商用AI健身方案亮相2026CHINAFIT北京健身大会 中华网",
-      "id": "wk29-fitness-003"
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLXFraFV3WF9zZ2RKNVJDbjc1cHBwVDlEZGFsdEhtYndxdUN3NDZWaVl6U0o1amhxY2Q5VEQ1MDJZOTNIYUJBaGoyb096cFA2bzhEU0R2NnoycnNDZzJ0aWMzalZ3ODVuT2x4UjJlVXc4Wm9iTTctTVBwd0Q2WVFJSHZGbkxmU3JTNEUxNm0yZk1vNG9NM3hEOHZCSlR1VVUydmhVazl4RDJrUQ?oc=5",
+      "searchQuery": "U Can acelera su expansión global y lleva el wellness mexicano a Europa GYM FACTORY Revista",
+      "id": "wk30-fitness-003"
     },
     {
       "category": "fitness-market",
       "region": "north-america",
       "language": "en",
-      "source": "GlobeNewswire",
+      "source": "The Daily News | Texas' Oldest Newspaper",
       "sourceKind": "media",
-      "titleOriginal": "[Latest] Commercial Fitness Equipment Market to Grow Rapidly, Hitting US$ 29.87 Billion by 2034 at a 8.42% CAGR, due to Increasing Gym Franchising, Corporate Wellness, Preventative Health Trends, and Connected Fitness Tech, says ZMR",
-      "titleZh": "[最新] ZMR 表示，由于健身房特许经营、企业健康、预防性健康趋势和互联健身技术的增加，商用健身设备市场将快速增长，到 2034 年将达到 298.7 亿美元，复合年增长率为 8.42%",
-      "summaryZh": "GlobeNewswire 报道，适合跟踪健身消费、设备渠道和健康管理趋势；当前信号更偏向商用器材、品牌扩张与健身消费，可优先关注 体育科技、消费、商用健身。",
-      "publishedAt": "2026-07-13T13:06:19.000Z",
+      "titleOriginal": "Biz Buzz: Longtime Texas bank enters market; Planet Fitness musclebound for Galveston",
+      "titleZh": "商业热潮：德克萨斯州老牌银行进入市场；加尔维斯顿的 Planet Fitness 肌肉发达",
+      "summaryZh": "The Daily News | Texas' Oldest Newspaper 报道，适合跟踪健身消费、设备渠道和健康管理趋势；当前信号更偏向商用器材、品牌扩张与健身消费，可优先关注 消费、商用健身、设备。",
+      "publishedAt": "2026-07-25T00:30:00.000Z",
       "tags": [
-        "体育科技",
         "消费",
-        "商用健身"
+        "商用健身",
+        "设备"
       ],
-      "priority": 1,
+      "priority": 2,
       "featured": false,
-      "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxOeUd6cXVvY1R1U2FIN09jdU52NnhISXEwcXB6RkJZSEkzbkVvUld1YlY1RHI5d2VWRlk5WmtjaXZianZnRUdsVlBLcVF2aU1aSU11dUZ6N08wWGwwaVdLSnZjTDZBbWh6dWJJV2FSVDR2dXltY1NIWGVpR1BraGVaXzFhTE4yMjR6NDRhS0JYNVA2SjBkSHFPTENyc2k1NU04NHZ6VkVpSzhmMlFBM05ObVpKaWxCNkF5a0ZyaTNPZ1MyNEE2alh1UVZrVXdYZ3NKbGhZMWt4YmlfdnV3dUVWOWRRVDJXOHVpbkNBXzNPU2puOERRek5KTHp5SlFTb2RlWHdhZWhSeHhjZF81UEVUR0J0RG44dlMzOEpsd29XWl9LaXhtMlVsM3hjdTRMekRzWTd2R215M20ydmVsdkxWUkpJLWM2VlgyMngxblk4ZUxwY0wxSXRsdVVYVkt6eWNhazVLeXpDdzhLWENf?oc=5",
-      "searchQuery": "[Latest] Commercial Fitness Equipment Market to Grow Rapidly, Hitting US$ 29.87 Billion by 2034 at a 8.42% CAGR, due to Increasing Gym Franchising, Corporate Wellness, Preventative Health Trends, and Connected Fitness Tech, says ZMR GlobeNewswire",
-      "id": "wk29-fitness-004"
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPX29kSGJaUlJTOWZHSjJqUWkzT2ZLeHhOY1k3VGpRODJQbV95SVlqVkJac1l4TENnenA2YWhWUG5rQmxzV2RLM1RHZjBIWDRMZU82Qldsc2hsVW5NbjNOU19VRzJ0Q1M4cDBZTUNmeTVLZ0lJb0c0Q1Y1eG9WMk40WS1xUHgydVBuMVREdTF1cGI4a2pHMmxYQTF6SzR1XzltWFN2a2VPUnVGUDFsLUh5V3p2R05QY3VraGtnTGZvN1lkd2lqd0FjTVBLUDd1RWt2TmI4VDhoR0dneWc2YTloMGg2SE1NMGNwOXIyTERRX0VlMWJHdnV1VnlpRDB5VUM5eHc?oc=5",
+      "searchQuery": "Biz Buzz: Longtime Texas bank enters market; Planet Fitness musclebound for Galveston The Daily News | Texas' Oldest Newspaper",
+      "id": "wk30-fitness-004"
     },
     {
       "category": "brand-dynamics",
-      "region": "global",
+      "region": "asia-pacific",
       "language": "en",
-      "source": "OregonLive.com",
+      "source": "The Business Times",
       "sourceKind": "brand",
-      "titleOriginal": "At World Cup 2026, Nike and Adidas clash over growing North American soccer market",
-      "titleZh": "2026 年世界杯上，耐克和阿迪达斯在不断增长的北美足球市场上发生冲突",
-      "summaryZh": "OregonLive.com 报道，适合跟踪品牌新品、供应链与区域扩张动作；当前信号更偏向鞋服设计、营销与法务动态，可优先关注 Nike、Adidas、世界杯。",
-      "publishedAt": "2026-07-18T23:49:00.000Z",
+      "titleOriginal": "Nike to tighten online sales in China amid ‘fragmented’ marketplace",
+      "titleZh": "耐克将在“碎片化”的市场中收紧在中国的在线销售",
+      "summaryZh": "The Business Times 报道，适合跟踪品牌新品、供应链与区域扩张动作；当前信号更偏向品牌供应链与工厂布局，可优先关注 Nike、营收、供应链。",
+      "publishedAt": "2026-07-22T02:05:00.000Z",
       "tags": [
         "Nike",
-        "Adidas",
-        "世界杯"
+        "营收",
+        "供应链"
       ],
       "priority": 1,
       "featured": true,
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOVJOc3NqazBYU00xOU52eHlUbWFZYlJ6RVV2U3NBRlZGTjhscV9LNkJKS0JOZnlpX2NkMUtGY3Iza2NFQXZNaGp0V3pUUWZwTGt5WlY1d0JsNEhSYlJIOVhjb3VCc1dXT2g2SXVPc0dhRU81NlpMYjlHTHVXMDIxR3ZldG1rRTRuLWNRdHFqcU9GSEJaYUx0NU05bzZTRGJxUTg3RW1BUGowcG9oa3lLQXR3YWZtWmNYaGwxYWRVSUhOMHFUbnAxNUZn0gHeAUFVX3lxTFBQSDU5alJKQ0hqNVFYVUV5YVVHOExUbTlSeHU3SW1vbXZHNGs5b1pXb0hQaE16VVN0OGw4RFhyQ3V0OWFmWjdfMXhERWVqMzZPdmNLZG1iSjBJSUVZMjBMWGxqVXhyUW9iNEx1RURKLWlpc0oyc1BkcXJPNFRoUXc5SzFDcmdFa2lSbW1DeEcxc21semJ4dTdjdzYwOENRNFZXSFRoM2kzeG9MLVdOX3VNdmF2S05MbFE2eVFLUDRLa01mUVlxQzRvQ1dWMVhyZzQzb3UzdjFxV3ZRYTVfQQ?oc=5",
-      "searchQuery": "At World Cup 2026, Nike and Adidas clash over growing North American soccer market OregonLive.com",
-      "id": "wk29-brand-001"
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPX09DX2c0T2Z2TXExWFgzRTIwN3pWdjZ4cldVZEtONDV0UmxQc2hnbGQzWHEyOGdDaEM5dTJIY3dBdTZqczBVTFVVUFNlOURUNkpHN0I4djY5VXFzTHUzbVpsOVFfQkNUWEswRF9rNXBrRUdET1RJMEZtakpFQjRsaVBCLXdyb2padUcyM2hLYUczZk51ZG5KMjJ3aXNQNDl3SlRrZVRGcnFvWVJZaGtyNFZhdjR0S1BDeGg5bFdiNEpVYnBOdnAzM2d3?oc=5",
+      "searchQuery": "Nike to tighten online sales in China amid ‘fragmented’ marketplace The Business Times",
+      "id": "wk30-brand-001"
     },
     {
       "category": "brand-dynamics",
-      "region": "global",
+      "region": "asia-pacific",
       "language": "en",
       "source": "Reuters",
       "sourceKind": "brand",
-      "titleOriginal": "Nike out of World Cup contention as Adidas-outfitted teams head to final",
-      "titleZh": "耐克退出世界杯争夺，阿迪达斯装备的球队进入决赛",
-      "summaryZh": "Reuters 报道，适合跟踪品牌新品、供应链与区域扩张动作；当前信号更偏向鞋服设计、营销与法务动态，可优先关注 Nike、Adidas、世界杯。",
-      "publishedAt": "2026-07-16T13:59:31.000Z",
+      "titleOriginal": "Nike to tighten online sales in China amid 'fragmented' marketplace",
+      "titleZh": "耐克将在“碎片化”的市场中收紧中国的在线销售",
+      "summaryZh": "Reuters 报道，适合跟踪品牌新品、供应链与区域扩张动作；当前信号更偏向品牌供应链与工厂布局，可优先关注 Nike、营收、供应链。",
+      "publishedAt": "2026-07-22T00:03:00.000Z",
+      "tags": [
+        "Nike",
+        "营收",
+        "供应链"
+      ],
+      "priority": 1,
+      "featured": true,
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMXJzMG5xNDRMSG9tcmVKZURYbHozYnhDVzM3V0RObWozaVZCOVlaaEd3eFBKb0lqcmdQYi1DSnhpRXVtZFZKZXpiYXRrWXMtTWVrLWw3cXBsb1YtN3VBbUwxc2o5V0JkZy1qVWxBUzk3VW05MW5WeGFNUl9fazNhdVNnem53d0NHNkQxNzhTLXZLbE9hVUhBOTZicDU3YVlMcW1oRmdQcV9TZkZqRWNBdmV2amdVSGdP?oc=5",
+      "searchQuery": "Nike to tighten online sales in China amid 'fragmented' marketplace Reuters",
+      "id": "wk30-brand-002"
+    },
+    {
+      "category": "brand-dynamics",
+      "region": "asia-pacific",
+      "language": "en",
+      "source": "Snow Industry News",
+      "sourceKind": "media",
+      "titleOriginal": "Anta Sports Reports Slower Retail Growth for Core Brand in Second Quarter",
+      "titleZh": "安踏体育报告第二季度核心品牌零售增长放缓",
+      "summaryZh": "Snow Industry News 报道，适合跟踪品牌新品、供应链与区域扩张动作；当前信号更偏向品牌供应链与工厂布局，可优先关注 营收、消费、供应链。",
+      "publishedAt": "2026-07-21T07:21:29.000Z",
+      "tags": [
+        "营收",
+        "消费",
+        "供应链"
+      ],
+      "priority": 1,
+      "featured": false,
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQaVkzZXdOaHJZWi1PQTB0Nm45TlZqcXpGWmxManV4MWNfN05tNldQS2s5b3ZiMVpTcEZ5ZWxuS2pIRnVWdWJUYllRUGFDdmdaSTRFbi1JWHFSMm00MGg2b09OSHhzeWt2VXZxMzg3T3VRY2ZzQ2xOdDJpMUJuc3Z1aVJ4cFRiUUxqZnZ3OGRkRkxlWTI3Uk95dnF5emc1Rl85LUFsd3NxTXZWSzJBSlc5N0JHamFEQjVQc1J5eW5jOFh0N2FtVFRSZ2J3?oc=5",
+      "searchQuery": "Anta Sports Reports Slower Retail Growth for Core Brand in Second Quarter Snow Industry News",
+      "id": "wk30-brand-003"
+    },
+    {
+      "category": "brand-dynamics",
+      "region": "global",
+      "language": "en",
+      "source": "Digiday",
+      "sourceKind": "brand",
+      "titleOriginal": "Nike versus Adidas: Which brand won the World Cup?",
+      "titleZh": "耐克与阿迪达斯：哪个品牌赢得了世界杯？",
+      "summaryZh": "Digiday 报道，适合跟踪品牌新品、供应链与区域扩张动作；当前信号更偏向鞋服设计、营销与法务动态，可优先关注 Nike、Adidas、世界杯。",
+      "publishedAt": "2026-07-21T04:03:01.000Z",
       "tags": [
         "Nike",
         "Adidas",
@@ -382,51 +424,9 @@ window.__WEEKLY_BRIEF_DATA__ = {
       ],
       "priority": 1,
       "featured": false,
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNb3FzN2xGWmlaNy1XSUJwWmljUW1ObjI3dzhLT21uZFNSbnZ2SUI3aUZ5ejRpTE9zSTJLc3BiSUVHemxRV0JnX1hkMmpoTG5IalJKQkhOM2o4OGpGdkxiVzlSUFU2Q0dpSjE0VzF5TE45TkdHVnFnaU0zQkdkY1BDcGhCUnVXNmxFQ0k3cUNNZUcxbUdzWmNMYjVNOTltSTVzZjNIVW1kME9KVmZqYW96RXR1WQ?oc=5",
-      "searchQuery": "Nike out of World Cup contention as Adidas-outfitted teams head to final Reuters",
-      "id": "wk29-brand-002"
-    },
-    {
-      "category": "brand-dynamics",
-      "region": "asia-pacific",
-      "language": "en",
-      "source": "Nikkei Asia",
-      "sourceKind": "media",
-      "titleOriginal": "Chief of China's Anta sports brand resigns as growth slows",
-      "titleZh": "中国运动品牌安踏总裁因增长放缓而辞职",
-      "summaryZh": "Nikkei Asia 报道，适合跟踪品牌新品、供应链与区域扩张动作；当前信号更偏向品牌供应链与工厂布局，可优先关注 营收、供应链、品牌动作。",
-      "publishedAt": "2026-07-18T08:09:00.000Z",
-      "tags": [
-        "营收",
-        "供应链",
-        "品牌动作"
-      ],
-      "priority": 2,
-      "featured": false,
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVWxCNzRxR1MxWm9IQWdJRXlMQnI3QkhXRW5CcWJYN0xIMlgzb3c2bEh2SEd6cTI4OW5LODJCV0FSaWdQYXRma0xuUk1CRnRFQ0xVQzVTWXhIaFVKMWpXamgxSFlKRjE1VjdMMG1TNy1fZUZVMzlxQzJkaHhKbVRGNXJ3QjY0NDFQVkFDcnVvSEh5bk53TVNTakFoWWZObW9n?oc=5",
-      "searchQuery": "Chief of China's Anta sports brand resigns as growth slows Nikkei Asia",
-      "id": "wk29-brand-003"
-    },
-    {
-      "category": "brand-dynamics",
-      "region": "asia-pacific",
-      "language": "en",
-      "source": "Caixin Global",
-      "sourceKind": "media",
-      "titleOriginal": "Anta Brand CEO Resigns as Growth Slows",
-      "titleZh": "安踏品牌首席执行官因增长放缓而辞职",
-      "summaryZh": "Caixin Global 报道，适合跟踪品牌新品、供应链与区域扩张动作；当前信号更偏向品牌供应链与工厂布局，可优先关注 营收、供应链、品牌动作。",
-      "publishedAt": "2026-07-15T10:06:00.000Z",
-      "tags": [
-        "营收",
-        "供应链",
-        "品牌动作"
-      ],
-      "priority": 2,
-      "featured": false,
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVHdvMWJmV2NQTFF1bS1TaGtoMGRQSF9VdUd0d19EYmFWREs0c1BaVklsSFgtTW5oRkRQZ3FfQVM1SEtqN3VmMm5FM0tUV0hGMzN3V2lVTEktRDVodS12YTRYQWROM2FYRkpJRmtEVzcwWjJhR3NzdF81LWltdEpzYk0zSWg4NXZpNHFPeDdETlZOVVBEVnNzeA?oc=5",
-      "searchQuery": "Anta Brand CEO Resigns as Growth Slows Caixin Global",
-      "id": "wk29-brand-004"
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWUl0eVRDM28zWkFPTllXSWJXLWc3TVcwMWx1SkI5empPZElCSjNzNDBlaDVPb29Gd0E2MW95eFVOeXRZS2RLVWlPYnEyUjZBSjFPcWRSNVp1Y1JQNkx1ZUl0VUdLOHlBNFkxR0J5cUhPaW5ONS1VZWh3UGlCUTFtcUc5QWtFZw?oc=5",
+      "searchQuery": "Nike versus Adidas: Which brand won the World Cup? Digiday",
+      "id": "wk30-brand-004"
     }
   ]
 };
