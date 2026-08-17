@@ -1,16 +1,16 @@
 {
   "title": "全球体育与健身行业周报",
-  "weekLabel": "2026 第32周",
+  "weekLabel": "2026 第33周",
   "weekRange": {
-    "start": "2026-08-03",
-    "end": "2026-08-09"
+    "start": "2026-08-10",
+    "end": "2026-08-16"
   },
-  "generatedAt": "2026-08-10T03:14:16.605Z",
+  "generatedAt": "2026-08-17T02:21:47.214Z",
   "disclaimer": "当前页面已接入自动周更流程。资讯由 GitHub Actions 按 sourceFeeds 配置自动抓取 Google News RSS 生成，中文标题与摘要为程序化整理结果；正式对外使用前建议运营团队做一次人工复核。",
   "briefHighlights": [
     "聚合近 7 日体育产业、体育赛事、健身市场、品牌动态共 16 条资讯。",
-    "当前自动样例覆盖 16 家来源、4 个地区、2 种语言。",
-    "高优先级条目 7 条，重点信号包括 消费、世界杯、产业观察。",
+    "当前自动样例覆盖 15 家来源、4 个地区、2 种语言。",
+    "高优先级条目 12 条，重点信号包括 消费、产业观察、场馆升级。",
     "当前页面已适配 GitHub Actions 周更流程，前端继续复用同一份 news.json / news.js 数据结构。"
   ],
   "automationSteps": [
@@ -96,54 +96,12 @@
       "category": "sports-industry",
       "region": "china",
       "language": "zh",
-      "source": "sport.gov.cn",
+      "source": "上海市人民政府",
       "sourceKind": "institution",
-      "titleOriginal": "体育科普助力全民健身，2026体育科普中国行在佛山热力开启",
-      "titleZh": "体育科普助力全民健身，2026体育科普中国行在佛山热力开启",
-      "summaryZh": "sport.gov.cn 报道，适合跟踪产业规模、资本和技术投入变化；当前信号更偏向区域产业政策、场馆升级与文体融合，可优先关注 场馆升级、产业观察、商业化。",
-      "publishedAt": "2026-08-08T11:20:26.000Z",
-      "tags": [
-        "场馆升级",
-        "产业观察",
-        "商业化"
-      ],
-      "priority": 2,
-      "featured": false,
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5CdUJNRkhXQ0twMUtjZGVTcC1nNmxlVFVxRXpwbGIzV0lWTnNMSE9Sa0xndU1lNF9iWHBjOTRkWGZ0RUhGRHVrME5mUGtRdUlnQWMzRjVtQ2RWNTRHQjkxYWxyeFAyejNETzNBYjI1Yw?oc=5",
-      "searchQuery": "体育科普助力全民健身，2026体育科普中国行在佛山热力开启 sport.gov.cn",
-      "id": "wk32-industry-001"
-    },
-    {
-      "category": "sports-industry",
-      "region": "china",
-      "language": "zh",
-      "source": "央广网",
-      "sourceKind": "media",
-      "titleOriginal": "晶采观察丨全民健身热持续升温 体育产业成经济活力新增长极",
-      "titleZh": "晶采观察丨全民健身热持续升温 体育产业成经济活力新增长极",
-      "summaryZh": "央广网 报道，适合跟踪产业规模、资本和技术投入变化；当前信号更偏向区域产业政策、场馆升级与文体融合，可优先关注 营收、场馆升级、产业观察。",
-      "publishedAt": "2026-08-08T04:09:42.000Z",
-      "tags": [
-        "营收",
-        "场馆升级",
-        "产业观察"
-      ],
-      "priority": 2,
-      "featured": false,
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4QlVFZzJtWlpJUTI4ckNwemdhRkxGLW9WRncyMFN6Q2c5OU1Nb3ZfbmFKMHplME1XdHNtTmhpbGZfQmRwTExnR3hDa0Rfd1M2MWpwMDh1NXR3SVk0bXh2UmRrV2xrSDg?oc=5",
-      "searchQuery": "晶采观察丨全民健身热持续升温 体育产业成经济活力新增长极 央广网",
-      "id": "wk32-industry-002"
-    },
-    {
-      "category": "sports-industry",
-      "region": "china",
-      "language": "zh",
-      "source": "川观新闻",
-      "sourceKind": "media",
-      "titleOriginal": "好评中国丨全民参与、动力十足!万亿体育产业“炼”接消费新蓝海",
-      "titleZh": "好评中国丨全民参与、动力十足!万亿体育产业“炼”接消费新蓝海",
-      "summaryZh": "川观新闻 报道，适合跟踪产业规模、资本和技术投入变化；当前信号更偏向区域产业政策、场馆升级与文体融合，可优先关注 消费、场馆升级、产业观察。",
-      "publishedAt": "2026-08-07T04:48:00.000Z",
+      "titleOriginal": "年度宝山区居民体育消费调查等你参与2026-08-13",
+      "titleZh": "年度宝山区居民体育消费调查等你参与2026-08-13",
+      "summaryZh": "上海市人民政府 报道，适合跟踪产业规模、资本和技术投入变化；当前信号更偏向区域产业政策、场馆升级与文体融合，可优先关注 消费、场馆升级、产业观察。",
+      "publishedAt": "2026-08-13T19:55:51.000Z",
       "tags": [
         "消费",
         "场馆升级",
@@ -151,156 +109,156 @@
       ],
       "priority": 2,
       "featured": false,
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBqbEZ5X3dSQXVkelhtTFptZG9jMktYeWVPVVpxUWZxWW5UUzQtWHlZdG1WTW1QMTBMc180dmcyYm9OSkl6aTJocURhRXNfdw?oc=5",
-      "searchQuery": "好评中国丨全民参与、动力十足!万亿体育产业“炼”接消费新蓝海 川观新闻",
-      "id": "wk32-industry-003"
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMVJFSkRnWDJMeU1PWTRnci1ObEV4WEFxa2ZJUHgtNVBIWGFFSEhncTdIMVo1WU5rem1JUm42SDhoM2hEamI0b1NiR1VneGxZOER3TmRZVEZQTmZld1BSbnA5LVdiWUhtTUdBSXNjWW90dmF2UEcxMU9hVXJ5V2VkRDhKZXB3eFF0ZVE?oc=5",
+      "searchQuery": "年度宝山区居民体育消费调查等你参与2026-08-13 上海市人民政府",
+      "id": "wk33-industry-001"
     },
     {
       "category": "sports-industry",
-      "region": "global",
-      "language": "en",
-      "source": "Sports Business Journal",
+      "region": "china",
+      "language": "zh",
+      "source": "womenofchina.com",
       "sourceKind": "media",
-      "titleOriginal": "What can the North American sports industry learn from FIFA’s World Cup fan festivals?",
-      "titleZh": "北美体育产业可以从国际足联世界杯球迷节中学到什么？",
-      "summaryZh": "Sports Business Journal 报道，适合跟踪产业规模、资本和技术投入变化；当前信号更偏向宏观产业规模、技术应用与商业化，可优先关注 世界杯、产业观察、商业化。",
-      "publishedAt": "2026-08-03T10:30:07.000Z",
+      "titleOriginal": "2027年我国体育产业总规模将达5万亿元，申博网上平台网址多少等龙头企业领跑赛道，现存体育相关企业超200万家",
+      "titleZh": "2027年我国体育产业总规模将达5万亿元，申博网上平台网址多少等龙头企业领跑赛道，现存体育相关企业超200万家",
+      "summaryZh": "womenofchina.com 报道，适合跟踪产业规模、资本和技术投入变化；当前信号更偏向区域产业政策、场馆升级与文体融合，可优先关注 女性体育、场馆升级、产业观察。",
+      "publishedAt": "2026-08-12T03:01:03.000Z",
       "tags": [
-        "世界杯",
-        "产业观察",
-        "商业化"
+        "女性体育",
+        "场馆升级",
+        "产业观察"
       ],
       "priority": 2,
       "featured": false,
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTnZrR2YwZmVlam50MXVHNnBoVWxacmtDSjVOOHFIY0x2dENJekZ4WnNQWk11ZWFYY3M2ai12QXNHaF9GUkRldmR1ZllUd0I0UkhlbG1WR3dUZmRJUXZQOFlUZl95VV9JaE9faDI1R213UHVRdklHMmJmVXRFOHUtVlRacDJEMDdQNFBDUFRybXBHbWFBNTFxRmJDck9wNi13dTUtaU5Iclk1bV9aY29QYktWejdYQ3pBdlBpMlJzazVsYkNQel9rTEp5RWNuTFQ0WlJXZGlxdnFpUE0?oc=5",
-      "searchQuery": "What can the North American sports industry learn from FIFA’s World Cup fan festivals? Sports Business Journal",
-      "id": "wk32-industry-004"
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9wQktjTDJxYnBfc2ZNLWNZRDBiSW5oeVR0dG00b2pLUXVpWEpqTVRFTl9DQVJfaUlXaDBuUTdVeTZLRFRnREFiWV93cXRhUndaYklNaFhPeG95b1VoQlNGcQ?oc=5",
+      "searchQuery": "2027年我国体育产业总规模将达5万亿元，申博网上平台网址多少等龙头企业领跑赛道，现存体育相关企业超200万家 womenofchina.com",
+      "id": "wk33-industry-002"
+    },
+    {
+      "category": "sports-industry",
+      "region": "china",
+      "language": "zh",
+      "source": "北京商报",
+      "sourceKind": "media",
+      "titleOriginal": "服贸观澜｜从“卖产品”到“卖服务”，中国体育产业迈向能力出海",
+      "titleZh": "服贸观澜｜从“卖产品”到“卖服务”，中国体育产业迈向能力出海",
+      "summaryZh": "北京商报 报道，适合跟踪产业规模、资本和技术投入变化；当前信号更偏向区域产业政策、场馆升级与文体融合，可优先关注 场馆升级、产业观察、商业化。",
+      "publishedAt": "2026-08-16T21:33:48.000Z",
+      "tags": [
+        "场馆升级",
+        "产业观察",
+        "商业化"
+      ],
+      "priority": 3,
+      "featured": false,
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1uZXZjX1lXUWdCNmtNQm9OdEt5a3dsSV9wbS1QT0l2ZGNMQ2Y1TVNOVi1GMWpaM3lUamVEOVM4MkszOGdWemJYM0hvWWxsM1hKT3pLVWdEUHM1Q2hl?oc=5",
+      "searchQuery": "服贸观澜｜从“卖产品”到“卖服务”，中国体育产业迈向能力出海 北京商报",
+      "id": "wk33-industry-003"
+    },
+    {
+      "category": "sports-industry",
+      "region": "china",
+      "language": "zh",
+      "source": "新浪财经",
+      "sourceKind": "media",
+      "titleOriginal": "全民健身群众基础持续扩大，拉动体育产业规模稳步扩容｜新经济观察",
+      "titleZh": "全民健身群众基础持续扩大，拉动体育产业规模稳步扩容｜新经济观察",
+      "summaryZh": "新浪财经 报道，适合跟踪产业规模、资本和技术投入变化；当前信号更偏向区域产业政策、场馆升级与文体融合，可优先关注 场馆升级、产业观察、商业化。",
+      "publishedAt": "2026-08-16T06:00:00.000Z",
+      "tags": [
+        "场馆升级",
+        "产业观察",
+        "商业化"
+      ],
+      "priority": 3,
+      "featured": false,
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE96RVUyVFNIOHF1UW9GVUJiejUzM1VWWm41MWp6REhyeHlpVWJhN3FjaEJOT011TWZKWl82UEpIX3YzMHBiZkVjQXhVTU5jLU54TTBSdmF4RC1KU3ZfS2k0TXBHcElBNG9PenBEdXZpQUhJOUtPOExYVw?oc=5",
+      "searchQuery": "全民健身群众基础持续扩大，拉动体育产业规模稳步扩容｜新经济观察 新浪财经",
+      "id": "wk33-industry-004"
+    },
+    {
+      "category": "sports-events",
+      "region": "china",
+      "language": "zh",
+      "source": "womenofchina.com",
+      "sourceKind": "media",
+      "titleOriginal": "AI赋能、生态驱动 2026人人体育赛事直播重构体育科技新体验",
+      "titleZh": "AI赋能、生态驱动 2026人人体育赛事直播重构体育科技新体验",
+      "summaryZh": "womenofchina.com 报道，适合跟踪赛事运营、票务机制与城市联动节点；当前信号更偏向赛事报名、地方 IP、文旅活动，可优先关注 AI、体育科技、文旅联动。",
+      "publishedAt": "2026-08-16T05:13:18.000Z",
+      "tags": [
+        "AI",
+        "体育科技",
+        "文旅联动"
+      ],
+      "priority": 1,
+      "featured": true,
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0xczZTXzRZeHQycTZXaEZxbkhmQnU4eGJhYkc1THE3ekU3Tk5wOFlTMDF5OUtkcWZkMzZHWFNqNHM4Vl9vQ3FxNnl4dEJzRDJPM2Zaam1YaHI3TGs4V3Z1b0ppZ3Jydw?oc=5",
+      "searchQuery": "AI赋能、生态驱动 2026人人体育赛事直播重构体育科技新体验 womenofchina.com",
+      "id": "wk33-events-001"
     },
     {
       "category": "sports-events",
       "region": "global",
       "language": "en",
-      "source": "NPR",
+      "source": "Encyclopedia Britannica",
       "sourceKind": "media",
-      "titleOriginal": "European nations say World Cup boycott is still on, keeping FIFA's Infantino in limbo",
-      "titleZh": "欧洲国家称世界杯抵制仍在继续，国际足联主席因凡蒂诺陷入困境",
-      "summaryZh": "NPR 报道，适合跟踪赛事运营、票务机制与城市联动节点；当前信号更偏向票务、公平性、主办城市与赛事商业化，可优先关注 世界杯、票务、赛事运营。",
-      "publishedAt": "2026-08-06T17:11:42.000Z",
+      "titleOriginal": "Economics of the World Cup | Ticket Prices, Revenue, Costs, & Social Impact",
+      "titleZh": "世界杯经济学|票价、收入、成本和社会影响",
+      "summaryZh": "Encyclopedia Britannica 报道，适合跟踪赛事运营、票务机制与城市联动节点；当前信号更偏向票务、公平性、主办城市与赛事商业化，可优先关注 营收、世界杯、票务。",
+      "publishedAt": "2026-08-15T07:00:00.000Z",
       "tags": [
+        "营收",
         "世界杯",
-        "票务",
-        "赛事运营"
+        "票务"
       ],
       "priority": 1,
       "featured": true,
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOV0ZSc2x2UnJ3S0RCS21MQlg4Q2dXUlAxeDQzRi1RYkRPUkQ4TG41NzN5M0FoSHNZNXVZWUtiX3VySzdWREs1bW81bVRiT08xWFFnSXgwZVZUbzRaU2hyNkdKal9Nd2NyaUhxQTNGVGoxTGRoQVFkT0pHNlJTOGM0MExvb2dTQk5k?oc=5",
-      "searchQuery": "European nations say World Cup boycott is still on, keeping FIFA's Infantino in limbo NPR",
-      "id": "wk32-events-001"
-    },
-    {
-      "category": "sports-events",
-      "region": "global",
-      "language": "en",
-      "source": "Tubi",
-      "sourceKind": "media",
-      "titleOriginal": "TUBI LAUNCHES 2026 FIFA WORLD CUP™ FOX HUB",
-      "titleZh": "TUBI 推出 2026 年 FIFA 世界杯™ FOX HUB",
-      "summaryZh": "Tubi 报道，适合跟踪赛事运营、票务机制与城市联动节点；当前信号更偏向票务、公平性、主办城市与赛事商业化，可优先关注 世界杯、票务、新品发布。",
-      "publishedAt": "2026-08-06T07:00:00.000Z",
-      "tags": [
-        "世界杯",
-        "票务",
-        "新品发布"
-      ],
-      "priority": 1,
-      "featured": true,
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZDhEMDlkUG9BUFBILV9pZDZueHVKTmlIZGxSX2V4dWJRbnRhM1RGaFpfVXQ4U0JsQ1dsVTRza0ZQR2J0OVlueklVWXd4aHFBUkJQN1d1VUxVejlHMXBfWWxTVjA1YlVNSEhISFZkd3lZV01sNm5HZWFjekZSVjRDcDlFTQ?oc=5",
-      "searchQuery": "TUBI LAUNCHES 2026 FIFA WORLD CUP™ FOX HUB Tubi",
-      "id": "wk32-events-002"
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9HNmJ3clJKQTExMFBrYTBIeWM5SkZFd1BiZlJicjhuOEZSa2wwMjlUbU0zX3RfT3hzSDl1QUJSUnBabGRaTHlVaFBBREZnWHkySDJNdVZaS1hRS20zcU9OdDVQVlA0c3A1c0ZNS2g0TkFqdw?oc=5",
+      "searchQuery": "Economics of the World Cup | Ticket Prices, Revenue, Costs, & Social Impact Encyclopedia Britannica",
+      "id": "wk33-events-002"
     },
     {
       "category": "sports-events",
       "region": "global",
       "language": "en",
       "source": "The New York Times",
-      "sourceKind": "media",
-      "titleOriginal": "U.S. cities chasing millions of dollars from FIFA after hosting World Cup games",
-      "titleZh": "美国城市在举办世界杯后向国际足联追索数百万美元",
-      "summaryZh": "The New York Times 报道，适合跟踪赛事运营、票务机制与城市联动节点；当前信号更偏向票务、公平性、主办城市与赛事商业化，可优先关注 世界杯、票务、投资回报。",
-      "publishedAt": "2026-08-04T14:14:50.000Z",
+      "sourceKind": "brand",
+      "titleOriginal": "Adidas, Levi’s and David Beckham – which brands won the World Cup?",
+      "titleZh": "阿迪达斯、李维斯和贝克汉姆——哪些品牌赢得了世界杯？",
+      "summaryZh": "The New York Times 报道，适合跟踪赛事运营、票务机制与城市联动节点；当前信号更偏向票务、公平性、主办城市与赛事商业化，可优先关注 Adidas、世界杯、票务。",
+      "publishedAt": "2026-08-12T04:14:54.000Z",
       "tags": [
+        "Adidas",
         "世界杯",
-        "票务",
-        "投资回报"
+        "票务"
       ],
       "priority": 1,
       "featured": false,
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbTZRQnItdG54Vy00bnBuemotbFpwaDJYQkVjXzFsZ2doNlNvTXB4cENvREpEd0JGcEtOdTJab0l0Z0hRUV9OQTg3T2l1LXc4cGxSMDBvY3VHRzBkNVROVVBBVks1UUZ1UnJRRWtZbnRfa3JKMGJRaHFpZVZYU2dMcjF5b3ZSYVRfT3p0alhaMmM?oc=5",
-      "searchQuery": "U.S. cities chasing millions of dollars from FIFA after hosting World Cup games The New York Times",
-      "id": "wk32-events-003"
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWFEtUy1TN2lvX0dUYXFDRjRYeEt4MHNwVXNYdW9tNzR1TWpYQTA5NmIwd0NHYXFpamhqVTdMQ0ZjM2RDaDZHb1BuZktGZmNSMzF3SWlJN0ZmOFV1UFp0QVdMalB3QW85dWlsbjJvbkp3ZXFRdkhReDRKM0FUaG5lQVhLbGtjVkdiOGdUN2Ffb1FWakxx?oc=5",
+      "searchQuery": "Adidas, Levi’s and David Beckham – which brands won the World Cup? The New York Times",
+      "id": "wk33-events-003"
     },
     {
       "category": "sports-events",
       "region": "global",
       "language": "en",
-      "source": "NBC News",
+      "source": "Forbes",
       "sourceKind": "media",
-      "titleOriginal": "Spain’s Ferran Torres on World Cup win, mental health and why he forgives Argentina",
-      "titleZh": "西班牙球员费兰·托雷斯谈世界杯胜利、心理健康以及他为何原谅阿根廷",
-      "summaryZh": "NBC News 报道，适合跟踪赛事运营、票务机制与城市联动节点；当前信号更偏向票务、公平性、主办城市与赛事商业化，可优先关注 世界杯、票务、健康管理。",
-      "publishedAt": "2026-08-03T13:36:34.000Z",
+      "titleOriginal": "64-Team FIFA World Cup? Infantino Reportedly Backing Major Expansion",
+      "titleZh": "世界杯有 64 支球队？据报道因凡蒂诺支持重大扩张",
+      "summaryZh": "Forbes 报道，适合跟踪赛事运营、票务机制与城市联动节点；当前信号更偏向票务、公平性、主办城市与赛事商业化，可优先关注 世界杯、票务、扩张。",
+      "publishedAt": "2026-08-11T21:30:18.000Z",
       "tags": [
         "世界杯",
         "票务",
-        "健康管理"
+        "扩张"
       ],
       "priority": 1,
       "featured": false,
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRm1pZFZrX01EcDdwS1hDV2lBX0FGNXJfV3g0V3NwWl9aMFJIcWw3SnJIdzdlV05yb2tld1pwcXhNMUlud3hwRGgwNFhZXzlEQ2xTdklMMXNER0ZCcDdMTUl0VC1UZ0lYTHVzSmxob2s4eG9iRDVGd2dwbG8tV2V3Zkl5TGpjRnp0VEJMVS03eG9XWGhLTkVYUmhncGFQdi1idnN3OTYxOUpDSms5SF96d2k2OFZCTWJwRU5v?oc=5",
-      "searchQuery": "Spain’s Ferran Torres on World Cup win, mental health and why he forgives Argentina NBC News",
-      "id": "wk32-events-004"
-    },
-    {
-      "category": "fitness-market",
-      "region": "north-america",
-      "language": "en",
-      "source": "Athletech News",
-      "sourceKind": "media",
-      "titleOriginal": "EGYM’s New Tech Integration Promises to Change the Fitness Industry",
-      "titleZh": "EGYM 的新技术整合有望改变健身行业",
-      "summaryZh": "Athletech News 报道，适合跟踪健身消费、设备渠道和健康管理趋势；当前信号更偏向商用器材、品牌扩张与健身消费，可优先关注 体育科技、消费、商用健身。",
-      "publishedAt": "2026-08-06T14:08:10.000Z",
-      "tags": [
-        "体育科技",
-        "消费",
-        "商用健身"
-      ],
-      "priority": 1,
-      "featured": true,
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZjlLaUNndEhyNHY0TnRJNHlGREZUU1hkTEU3aDhqVWo0VG1HaC1ON3ZJMlZKSHlqTlkyOTJ2WC1YTWt2VFhIdUJ1bG1lZE5DWVBBOVdiWDdjdFRQVnN3QXVjRmZaei15Z0ltM3BHai13LXNSUS1vVVF6TVpveVg5a0pIVzN2enR2bTRaTG16VzVVV3FzMFVTcg?oc=5",
-      "searchQuery": "EGYM’s New Tech Integration Promises to Change the Fitness Industry Athletech News",
-      "id": "wk32-fitness-001"
-    },
-    {
-      "category": "fitness-market",
-      "region": "north-america",
-      "language": "en",
-      "source": "PR Newswire",
-      "sourceKind": "media",
-      "titleOriginal": "PLNT DEADLINE: Levi & Korsinsky Reminds Planet Fitness, Inc. Investors of Upcoming Securities Class Action Deadline",
-      "titleZh": "PLNT 截止日期：Levi & Korsinsky 提醒 Planet Fitness, Inc. 投资者即将到来的证券集体诉讼截止日期",
-      "summaryZh": "PR Newswire 报道，适合跟踪健身消费、设备渠道和健康管理趋势；当前信号更偏向商用器材、品牌扩张与健身消费，可优先关注 消费、商用健身、设备。",
-      "publishedAt": "2026-08-05T14:09:00.000Z",
-      "tags": [
-        "消费",
-        "商用健身",
-        "设备"
-      ],
-      "priority": 1,
-      "featured": true,
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOWENRaHhIWTl5T2Y2YTcxVTdpbVZXa1Q0RFVKc2pBXzZKMFlHX0VTTVRaLTBYRnYwdUhwN2ZBaEU4Sm5wRElnYTVhbjI4VGZHYm5kekh3WjE4N3N1QlptRXNjNnZkeG9SUjlteVVqcjZDd0djSkpuY0hkVkpFSnpQUXpPTU9CLVZSOVQxX1p4OUtqWUoxUmpnUXc3ZDNiQ3FlQW1wd3hoc3pwcFZYMHdta1l1SVpJLWlyWW9GT3FsdF85ZkxqR3AxU3NWekZJZ3laMWVFUFN6S18tVWtHOVFhMW1xNm1zbW5paDRVRTJzcHlYeDRTM1pyWTZkNA?oc=5",
-      "searchQuery": "PLNT DEADLINE: Levi & Korsinsky Reminds Planet Fitness, Inc. Investors of Upcoming Securities Class Action Deadline PR Newswire",
-      "id": "wk32-fitness-002"
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRFh3MndsU0NQcjl2MHIxSEVKT1NscHRlYy1YdXg2eVJWbDkyQVNFd0Zxa1FCYlFpTlFJUDQ3R2gxN0JYYnZBZ3VWQjF5VnpIUC1SbGNnVVNKSkduNjNTMkRHbURVMG5GeWdwc0UyT2FxNlhNNlIyazZLdHQ1MGZoYWxpSnN0Y0Q4b3dlN0Y1di1FdHRjXzNZMzVhRmdsdEFnR0wwejlxMkFKbXIyeWR0cTcxRWEzQ1c0bjRLM2lwVHRUMndzWkJvOHktcw?oc=5",
+      "searchQuery": "64-Team FIFA World Cup? Infantino Reportedly Backing Major Expansion Forbes",
+      "id": "wk33-events-004"
     },
     {
       "category": "fitness-market",
@@ -308,10 +266,31 @@
       "language": "en",
       "source": "Yahoo Finance",
       "sourceKind": "media",
-      "titleOriginal": "Best Health & Fitness Stocks for Investors Amid Wellness Boom",
-      "titleZh": "在健康热潮中最适合投资者的健康与健身股票",
+      "titleOriginal": "Planet Fitness Director Spinelli Buys 10,000 Shares for $492,800 -- Should Investors Buy Too?",
+      "titleZh": "Planet Fitness 董事 Spinelli 以 492,800 美元购买 10,000 股股票——投资者也应该购买吗？",
       "summaryZh": "Yahoo Finance 报道，适合跟踪健身消费、设备渠道和健康管理趋势；当前信号更偏向商用器材、品牌扩张与健身消费，可优先关注 消费、商用健身、设备。",
-      "publishedAt": "2026-08-03T13:30:00.000Z",
+      "publishedAt": "2026-08-16T16:55:00.000Z",
+      "tags": [
+        "消费",
+        "商用健身",
+        "设备"
+      ],
+      "priority": 1,
+      "featured": true,
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSkVJZ1JhNm5YcDV4UDhjeG9EdmFuWk1tNV9YUWw1YTRWRkZiQTN1XzUyZi1XNURIemRBTHg5U2UxOUZYUzZRcXZXekhRV2pGVnVEUy02VnU5X19BckVENTZRWFpfV3VvTFpTd0JEcVhGNmduQlFoQWlVaHNGeEZzREU1aHo1aDIwMWQ5YVRxTl9YdXBxM3pXbmFuVW5GZE5rekJndw?oc=5",
+      "searchQuery": "Planet Fitness Director Spinelli Buys 10,000 Shares for $492,800 -- Should Investors Buy Too? Yahoo Finance",
+      "id": "wk33-fitness-001"
+    },
+    {
+      "category": "fitness-market",
+      "region": "north-america",
+      "language": "en",
+      "source": "The American Journal of Managed Care® (AJMC®)",
+      "sourceKind": "media",
+      "titleOriginal": "5 Things to Know About Retatrutide, the \"Trillion-Dollar\" Drug",
+      "titleZh": "关于“万亿美元”药物瑞他鲁肽需要了解的 5 件事",
+      "summaryZh": "The American Journal of Managed Care® (AJMC®) 报道，适合跟踪健身消费、设备渠道和健康管理趋势；当前信号更偏向商用器材、品牌扩张与健身消费，可优先关注 消费、商用健身、设备。",
+      "publishedAt": "2026-08-14T15:23:47.000Z",
       "tags": [
         "消费",
         "商用健身",
@@ -319,114 +298,135 @@
       ],
       "priority": 1,
       "featured": false,
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMEVqMnAwbUMyUDJ0ckdiVFVWa2FHSUZVS1lKUzByalBvdHlsWlBoSDduemd4a1R6OGNSNVVFQVZxckYyOTVpOXZOTk9hcm1zYVVQN2s1UmdTbWsyNURiWHdOUEx4MGdhQU5BUDNOemVEbThmMlB2a2psdFcwajJIUjI3UE10eThDRm5tdVBGbHh6NkptVlFGSnhJZWk5UQ?oc=5",
-      "searchQuery": "Best Health & Fitness Stocks for Investors Amid Wellness Boom Yahoo Finance",
-      "id": "wk32-fitness-003"
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQelVNeFJUUjlKbFNjSHFOM2JkZENUWE10MVkweE9XYWFDUWJJUE5DejlEdjcwWWMweG1YdWdVMy1hMHlzMkdMX0MzMTk4bG9GcHoxeTZ5TlFZVWF3VVI4SGtXQ1JIVG1Qc1NteE92RVRDZENQWHA4a0JSUDR5enRVWEp4RnZEZzFEQmJfQWRR?oc=5",
+      "searchQuery": "5 Things to Know About Retatrutide, the \"Trillion-Dollar\" Drug The American Journal of Managed Care® (AJMC®)",
+      "id": "wk33-fitness-002"
     },
     {
       "category": "fitness-market",
       "region": "north-america",
       "language": "en",
-      "source": "SouthTexasNews.com",
+      "source": "West Side Rag",
       "sourceKind": "media",
-      "titleOriginal": "Fighting everyday battles, War-Zone Fitness Co. brings specialized equipment to South Texas",
-      "titleZh": "War-Zone Fitness Co. 为南德克萨斯州带来专业设备，应对日常战斗",
-      "summaryZh": "SouthTexasNews.com 报道，适合跟踪健身消费、设备渠道和健康管理趋势；当前信号更偏向商用器材、品牌扩张与健身消费，可优先关注 消费、商用健身、设备。",
-      "publishedAt": "2026-08-07T13:00:00.000Z",
+      "titleOriginal": "Silver Stars Fitness: Attention NYC Men & Women 60+: Struggling To Improve Your Balance & Feel Like You're At Risk For A Fall? New Balance & Fall Prevention Masterclass Scheduled for September 26th",
+      "titleZh": "Silver Stars Fitness：注意纽约市 60 岁以上男性和女性：努力提高平衡能力并感觉自己有跌倒的风险？ New Balance 和防跌倒大师班定于 9 月 26 日举行",
+      "summaryZh": "West Side Rag 报道，适合跟踪健身消费、设备渠道和健康管理趋势；当前信号更偏向商用器材、品牌扩张与健身消费，可优先关注 消费、赛程、商用健身。",
+      "publishedAt": "2026-08-12T12:22:58.000Z",
       "tags": [
         "消费",
-        "商用健身",
-        "设备"
+        "赛程",
+        "商用健身"
       ],
-      "priority": 2,
+      "priority": 1,
       "featured": false,
-      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNUkE2U1ZULTlJWmhMV20wN01POU9jZ1JuM0Fla3RNN29WU2F2UWZ1WG84QnNQSGZhOGlTdHcyRFd6enlZRmZrcXlHN2lKVmRhT0ZKTmxKQ2otRGFtSG9GMGViWFQwbmpJRk5oVVJIczBLcUhNYXAyeGkzX3dkTkV1MFJjb0ZNd0FoWG42bTh5Tzd3QnA2RS1XMVRRTWFZemVaOVV2OFdIZG1lU1JqUUJabVBlcFJCS0NyRkZvaG42Q01VSlBLcExPS1RCSVd0WG5lN09uQjVsMjJwVFpzVUZjOWtPWEhJNU5vX0NNRnRxVTB4a3h4ZTlMZHNvTEpRZ0o0alE4SmtZZXpKYkJUckhFc2lBRDdCQXZRclhpaQ?oc=5",
-      "searchQuery": "Fighting everyday battles, War-Zone Fitness Co. brings specialized equipment to South Texas SouthTexasNews.com",
-      "id": "wk32-fitness-004"
+      "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxOWXE0ZzJuVi1UY3RldFRrLUZnaC1PWm04N0NQNEpxNVVsLUI4XzRGWnBaNUZBTDd4ekNiRXZWWVFleWhRZDVUbDJfb3pVb2hSbUNlMXFzS2hQWlZrazMxUWVpSEFqY2h5SkxHd29sZHVkZ0hsakQ4eVIxQktESlptZUwwdG5yUGxBTllBTXIwRWRDVFkzZWpqSGtxSjEzTlpSLU5rSU56RTZobXl3eUtRWTBveWxSZnlGMXoySkt6eDZKY2lqUGEtTWxXRkY0SWxuUnhVcllYYXRDMXdOaWRTUGZQN081NnBjdHdRRnYxWEVjYmdBSnlhbHRGa2FTUlA2eFdkYkRwUk5zMkZKMDdURjUxQnFvbXZ2ZngzNzlBcm0xeUZHc0lLYjdvNEcyU1YwNllPcy1Rc0RaQ1ltQ0E?oc=5",
+      "searchQuery": "Silver Stars Fitness: Attention NYC Men & Women 60+: Struggling To Improve Your Balance & Feel Like You're At Risk For A Fall? New Balance & Fall Prevention Masterclass Scheduled for September 26th West Side Rag",
+      "id": "wk33-fitness-003"
     },
     {
-      "category": "brand-dynamics",
-      "region": "asia-pacific",
+      "category": "fitness-market",
+      "region": "north-america",
       "language": "en",
-      "source": "People's Daily Online",
-      "sourceKind": "media",
-      "titleOriginal": "Sportswear giants expand Chinese presence amid sports consumption boom",
-      "titleZh": "运动服装巨头在体育消费热潮中扩大中国业务",
-      "summaryZh": "People's Daily Online 报道，适合跟踪品牌新品、供应链与区域扩张动作；当前信号更偏向品牌供应链与工厂布局，可优先关注 供应链、扩张、品牌动作。",
-      "publishedAt": "2026-08-10T00:35:00.000Z",
-      "tags": [
-        "供应链",
-        "扩张",
-        "品牌动作"
-      ],
-      "priority": 2,
-      "featured": false,
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9qejRJNnY2SGd1d2Z1dHpqUjFzU3o1UWtrRG56LUFJVkdCQV9KSkQ5SnBxcXRGU3lGXy1LbF9BWjA1RGJfMUhaMkhOZnE1cV9zSnlyb19pN1B3OVVFb2M5NFJCdw?oc=5",
-      "searchQuery": "Sportswear giants expand Chinese presence amid sports consumption boom People's Daily Online",
-      "id": "wk32-brand-001"
-    },
-    {
-      "category": "brand-dynamics",
-      "region": "global",
-      "language": "en",
-      "source": "shopping.yahoo.com",
+      "source": "The Fashion Law",
       "sourceKind": "brand",
-      "titleOriginal": "Amazon is selling $70 men's Adidas running shoes for $40 (plus 10 more fab deals)",
-      "titleZh": "亚马逊现价 70 美元的阿迪达斯男士跑鞋，现价 40 美元（另加 10 件超值优惠）",
-      "summaryZh": "shopping.yahoo.com 报道，适合跟踪品牌新品、供应链与区域扩张动作；当前信号更偏向鞋服设计、营销与法务动态，可优先关注 Adidas、消费、法务。",
-      "publishedAt": "2026-08-07T13:55:37.000Z",
-      "tags": [
-        "Adidas",
-        "消费",
-        "法务"
-      ],
-      "priority": 2,
-      "featured": false,
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOR1I0MWxKZmEwb0F0NmlhQVhSNG8tbncxaDVZZlZZUDNhR2RRcThTeVdTdmtTclRnOHgycGpXU3hqdHZoX2s3RWdXTGlMYy1HQTROa043TlZGRHp2Ti1wSlA1S05wQXhockVBaTZVSVBMVkZ1bHpEcjhmWEZ6UTdBclBucmJ3RUJ2eDdPZmhCSzQ4ZWhQWXM3bTQzSXJQSEwyanBtZnlCczREZ3BEemZLdjZUamtHWVJvOVVuNzc3NjRBX2MyYlJQS2FsejE?oc=5",
-      "searchQuery": "Amazon is selling $70 men's Adidas running shoes for $40 (plus 10 more fab deals) shopping.yahoo.com",
-      "id": "wk32-brand-002"
-    },
-    {
-      "category": "brand-dynamics",
-      "region": "global",
-      "language": "en",
-      "source": "CNN",
-      "sourceKind": "brand",
-      "titleOriginal": "Inside Penn State’s ‘organized chaos’ of switching from Nike to Adidas after 30 years",
-      "titleZh": "30年后，宾夕法尼亚州立大学从耐克转向阿迪达斯的“有组织的混乱”",
-      "summaryZh": "CNN 报道，适合跟踪品牌新品、供应链与区域扩张动作；当前信号更偏向鞋服设计、营销与法务动态，可优先关注 Nike、Adidas、法务。",
-      "publishedAt": "2026-08-07T10:00:30.000Z",
+      "titleOriginal": "Nike Loses Lululemon Patent Fight Over Fitness Tech",
+      "titleZh": "耐克在健身技术领域的 Lululemon 专利大战中败诉",
+      "summaryZh": "The Fashion Law 报道，适合跟踪健身消费、设备渠道和健康管理趋势；当前信号更偏向商用器材、品牌扩张与健身消费，可优先关注 Nike、体育科技、消费。",
+      "publishedAt": "2026-08-11T12:33:36.000Z",
       "tags": [
         "Nike",
-        "Adidas",
-        "法务"
+        "体育科技",
+        "消费"
       ],
-      "priority": 2,
+      "priority": 1,
       "featured": false,
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9JVHNMblloVUo0eFQ2ZDdTQ1VXaURyczlCMEVPMUt5V3YteEdtVi1QeEFzWXdhT29NVEJtcmktRTE0LUhlbnVsUVUtaXhsVVRXc1lHZlctd1k5Wmh0Q1hlOS1IZTFuZzZvWGJB?oc=5",
-      "searchQuery": "Inside Penn State’s ‘organized chaos’ of switching from Nike to Adidas after 30 years CNN",
-      "id": "wk32-brand-003"
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUEtVd0R2UVB3dGpKelkxUWxISEhPVnhwLUNLQkUtc2dXX0ZkQmRQclFldDFvQlRzSHdFak5pYUxnLV9rTmlpRlZFeXRERW5lVjlvc25ZMkc2SWw5ak5PbW5XdURCSFNuTEZtbEF5SzdkY1JqLVlMcTJzREtSUVM4Wl9Xa1lUUkJibVE4ZUNlbWZRYzZQ?oc=5",
+      "searchQuery": "Nike Loses Lululemon Patent Fight Over Fitness Tech The Fashion Law",
+      "id": "wk33-fitness-004"
+    },
+    {
+      "category": "brand-dynamics",
+      "region": "global",
+      "language": "en",
+      "source": "WWD",
+      "sourceKind": "brand",
+      "titleOriginal": "An AI Bama Rush Hopeful Is Going Viral in ‘Nike’ Sneakers That Technically Don’t Exist",
+      "titleZh": "人工智能巴马冲刺希望者穿着技术上不存在的“耐克”运动鞋走红",
+      "summaryZh": "WWD 报道，适合跟踪品牌新品、供应链与区域扩张动作；当前信号更偏向签名鞋、明星合作与新品发布，可优先关注 Nike、AI、体育科技。",
+      "publishedAt": "2026-08-14T20:55:03.000Z",
+      "tags": [
+        "Nike",
+        "AI",
+        "体育科技"
+      ],
+      "priority": 1,
+      "featured": true,
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdloyRU5sVW54YXlYVjZDUV93SWJPbEFDSlNpYWpyejZUaGNuUy0xTzFLVXBSemdKa1BVc3JUTG53aG5UMlA2WDNHUjVzdDZKRDdwWnR2QmlKYXBHOEN0eWdETE9YZFJFM0hsSFlnVElnclJRRUNfRG8xUEhQdWljcDBDQTZOWENnb3BMUUNn?oc=5",
+      "searchQuery": "An AI Bama Rush Hopeful Is Going Viral in ‘Nike’ Sneakers That Technically Don’t Exist WWD",
+      "id": "wk33-brand-001"
     },
     {
       "category": "brand-dynamics",
       "region": "asia-pacific",
       "language": "en",
-      "source": "SGB Media Online",
+      "source": "ET BrandEquity",
       "sourceKind": "media",
-      "titleOriginal": "EXEC: Italy’s Macron Sportswear Delivers 10 Percent Growth in First Half",
-      "titleZh": "EXEC：意大利 Macron 运动服饰上半年增长 10%",
-      "summaryZh": "SGB Media Online 报道，适合跟踪品牌新品、供应链与区域扩张动作；当前信号更偏向品牌供应链与工厂布局，可优先关注 营收、供应链、品牌动作。",
-      "publishedAt": "2026-08-04T21:11:48.000Z",
+      "titleOriginal": "Sportswear brand On misses quarterly sales view as consumers cut back",
+      "titleZh": "由于消费者削减开支，运动服装品牌 On 错过了季度销售预期",
+      "summaryZh": "ET BrandEquity 报道，适合跟踪品牌新品、供应链与区域扩张动作；当前信号更偏向品牌供应链与工厂布局，可优先关注 On、营收、消费。",
+      "publishedAt": "2026-08-11T12:57:05.000Z",
       "tags": [
+        "On",
         "营收",
-        "供应链",
-        "品牌动作"
+        "消费"
       ],
-      "priority": 2,
+      "priority": 1,
       "featured": false,
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAzRUx0MUgxUV81V3F0QjZBZ2V6RUJoR0lPT2VHMnJDaG9OY1pKa1IyRUJVZkRUWlR2RUFDMk5ZLXdUTUJ3S1FnN3pBQUlWS0xXZ1paZ2g0aHY5OEJsalRSOC1DaVR5OHNKS3BkNU95aWNEZmVRWHJxS1Fn?oc=5",
-      "searchQuery": "EXEC: Italy’s Macron Sportswear Delivers 10 Percent Growth in First Half SGB Media Online",
-      "id": "wk32-brand-004"
+      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxOQWRmc1VUTTE3ZFZyVmkzNUwtQUF1UGg0NFd2ME1Wdlk4bVktOHd0aDBqWU9oVkd6WG1uSnlaUEtLNTlKR2ppMWFDMS03THlfa2ZKdkYwX05xZVptbHlBZXZHTDVkTXV0X0VjOExPNEtnd2VKNkZHLVdzNWIxZmFLS2Z3b1BwNTZIdkhybXZQWTRKOW1nLURVVmhtdlVJYXQ5VXl2QzhOTE9YRUo0NjlKeDhDYW03TU1fbFRSS2pvU3NjdTdEWTg3aFJjRVFtVnJHeWRidHJwLWNqTng3MVhqTEVPZmdRR2U2cGZTazY4X216TXg5UEkyWm5pY2F2Y2t5RmF2U2c1SVlURkQwX04yNUdULVktemY1aUQtR3N1Z1hGS0UyU2FiNTl0MFdGTEE?oc=5",
+      "searchQuery": "Sportswear brand On misses quarterly sales view as consumers cut back ET BrandEquity",
+      "id": "wk33-brand-002"
+    },
+    {
+      "category": "brand-dynamics",
+      "region": "asia-pacific",
+      "language": "en",
+      "source": "FashionNetwork - The World's Fashion Business News",
+      "sourceKind": "media",
+      "titleOriginal": "Sportswear brand On misses quarterly sales view as consumers cut back",
+      "titleZh": "由于消费者削减开支，运动服装品牌 On 错过了季度销售预期",
+      "summaryZh": "FashionNetwork - The World's Fashion Business News 报道，适合跟踪品牌新品、供应链与区域扩张动作；当前信号更偏向品牌供应链与工厂布局，可优先关注 On、营收、消费。",
+      "publishedAt": "2026-08-11T10:17:11.000Z",
+      "tags": [
+        "On",
+        "营收",
+        "消费"
+      ],
+      "priority": 1,
+      "featured": false,
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQ2lXakhOOF82elkwdjJJNlo0SU1YNlJXLUVTWThrX0cxU2Y2OHVOb05fYXRvTTktODVuRkwxUXVtMDJTLV95aHBrMk5yem1TRmFzaUdLWkZwS2ZyNXlpU3E0TlFYQWNWR1FSVUxkNUpMZGIxZy0zeGo4cXdKWVR3bXZWNmpZWXg1a0RoVFhSRWZEY2poeHlqUHNVQjFyLU1QZ0dFQ29GTWt2dEQ1OGVqalpYdUF5N2kt?oc=5",
+      "searchQuery": "Sportswear brand On misses quarterly sales view as consumers cut back FashionNetwork - The World's Fashion Business News",
+      "id": "wk33-brand-003"
+    },
+    {
+      "category": "brand-dynamics",
+      "region": "asia-pacific",
+      "language": "en",
+      "source": "TradingView",
+      "sourceKind": "media",
+      "titleOriginal": "Sportswear brand On misses quarterly sales view as consumer demand weakens",
+      "titleZh": "由于消费者需求减弱，运动服装品牌 On 错过了季度销售预期",
+      "summaryZh": "TradingView 报道，适合跟踪品牌新品、供应链与区域扩张动作；当前信号更偏向品牌供应链与工厂布局，可优先关注 On、营收、消费。",
+      "publishedAt": "2026-08-11T09:33:49.000Z",
+      "tags": [
+        "On",
+        "营收",
+        "消费"
+      ],
+      "priority": 1,
+      "featured": false,
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxORDhsNG1vWEp1U3owbnBBb1JWai1KaV9zbklzMEY2dFlIVUpfTWFaeWh4NWZMMlJYSjFjcEJRNzNJU29McUVOZTlXRnRGSW0wVXJNS1E5ZG41bzdZeEtUX2RzUUF2ZkM5QlI4dWFPaDVoeGZndUN4VW1TZGthbm1kQ3pNTFVOTXpoWlZrMm1hYXRMcEFwUXg2cXRLWUUxUExhMEFaRF92OFIyTkktOS14enk5alYtN0VneXVUa3E5eWRRaV9hcmdYVXhNLUY2cGVoTVZRaVRHRlFDZzZE?oc=5",
+      "searchQuery": "Sportswear brand On misses quarterly sales view as consumer demand weakens TradingView",
+      "id": "wk33-brand-004"
     }
   ]
 }
