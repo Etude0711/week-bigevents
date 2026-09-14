@@ -1,16 +1,16 @@
 {
   "title": "全球体育与健身行业周报",
-  "weekLabel": "2026 第36周",
+  "weekLabel": "2026 第37周",
   "weekRange": {
-    "start": "2026-08-31",
-    "end": "2026-09-06"
+    "start": "2026-09-07",
+    "end": "2026-09-13"
   },
-  "generatedAt": "2026-09-07T05:54:48.150Z",
+  "generatedAt": "2026-09-14T06:00:25.845Z",
   "disclaimer": "当前页面已接入自动周更流程。资讯由 GitHub Actions 按 sourceFeeds 配置自动抓取 Google News RSS 生成，中文标题与摘要为程序化整理结果；正式对外使用前建议运营团队做一次人工复核。",
   "briefHighlights": [
     "聚合近 7 日体育产业、体育赛事、健身市场、品牌动态共 16 条资讯。",
     "当前自动样例覆盖 16 家来源、5 个地区、3 种语言。",
-    "高优先级条目 9 条，重点信号包括 新品发布、女性体育、票务。",
+    "高优先级条目 9 条，重点信号包括 场馆升级、票务、世界杯。",
     "当前页面已适配 GitHub Actions 周更流程，前端继续复用同一份 news.json / news.js 数据结构。"
   ],
   "automationSteps": [
@@ -96,127 +96,106 @@
       "category": "sports-industry",
       "region": "china",
       "language": "zh",
-      "source": "nju.edu.cn",
+      "source": "体坛加",
       "sourceKind": "media",
-      "titleOriginal": "透视“现金网体育”：体育产业数字化结算与生态协同进入落地前夜",
-      "titleZh": "透视“现金网体育”：体育产业数字化结算与生态协同进入落地前夜",
-      "summaryZh": "nju.edu.cn 报道，适合跟踪产业规模、资本和技术投入变化；当前信号更偏向区域产业政策、场馆升级与文体融合，可优先关注 体育科技、场馆升级、产业观察。",
-      "publishedAt": "2026-09-06T16:06:31.000Z",
+      "titleOriginal": "2026中国体育产业峰会揭晓天富娱乐平台网页版榜单，XX科技连续三年位列前五，AI驱动体育生态升级",
+      "titleZh": "2026中国体育产业峰会揭晓天富娱乐平台网页版榜单，XX科技连续三年位列前五，AI驱动体育生态升级",
+      "summaryZh": "体坛加 报道，适合跟踪产业规模、资本和技术投入变化；当前信号更偏向区域产业政策、场馆升级与文体融合，可优先关注 AI、体育科技、场馆升级。",
+      "publishedAt": "2026-09-10T14:49:50.000Z",
       "tags": [
+        "AI",
         "体育科技",
-        "场馆升级",
-        "产业观察"
+        "场馆升级"
       ],
-      "priority": 2,
-      "featured": false,
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5EcThRMjhMVkFNOVY5TGVKc01BYVBYdjVQVkd5STZJSlA2R2xjY2ZCVlMteldMaG1PX3hXNFh6VFdTeGlUeWdjd1k5MXh0OFJwNEVnZVln?oc=5",
-      "searchQuery": "透视“现金网体育”：体育产业数字化结算与生态协同进入落地前夜 nju.edu.cn",
-      "id": "wk36-industry-001"
+      "priority": 1,
+      "featured": true,
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9TOHF5R1FfUDdvbDBvQmRFSENoQ0hhWG1oT3R5SVpBSkFicVpjYmNBcVhaV0s4aS1mOXF1VnZhN3NIeDJjLXBJd0hGSmxhaU0?oc=5",
+      "searchQuery": "2026中国体育产业峰会揭晓天富娱乐平台网页版榜单，XX科技连续三年位列前五，AI驱动体育生态升级 体坛加",
+      "id": "wk37-industry-001"
     },
     {
       "category": "sports-industry",
       "region": "china",
       "language": "zh",
-      "source": "新华网",
+      "source": "泉州新闻",
       "sourceKind": "media",
-      "titleOriginal": "国新办发布会解读“十五五”体育强国建设“任务书”",
-      "titleZh": "国新办发布会解读“十五五”体育强国建设“任务书”",
-      "summaryZh": "新华网 报道，适合跟踪产业规模、资本和技术投入变化；当前信号更偏向区域产业政策、场馆升级与文体融合，可优先关注 新品发布、场馆升级、产业观察。",
-      "publishedAt": "2026-09-03T14:52:31.000Z",
+      "titleOriginal": "泉州台商区举行体育用品科创大会 加速培育产业新生态",
+      "titleZh": "泉州台商区举行体育用品科创大会 加速培育产业新生态",
+      "summaryZh": "泉州新闻 报道，适合跟踪产业规模、资本和技术投入变化；当前信号更偏向区域产业政策、场馆升级与文体融合，可优先关注 场馆升级、产业观察、商业化。",
+      "publishedAt": "2026-09-12T07:02:10.000Z",
       "tags": [
-        "新品发布",
         "场馆升级",
-        "产业观察"
+        "产业观察",
+        "商业化"
       ],
-      "priority": 2,
+      "priority": 3,
       "featured": false,
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNXN1ZGZlVzNraTlDNmFDeTYya3RDa3VKSF9SXzhTZFNpbmxkY3F3YTExUXpuMTJ2bFNpc3lsSEtRVDFDcTFHMk1qajJVR1VUMndMX09nWHJhOWVsVk1OX2tZUFhpalZ5dHZ5cUVyTWZfWFl1dzNNT0xBYjhSWUktNA?oc=5",
-      "searchQuery": "国新办发布会解读“十五五”体育强国建设“任务书” 新华网",
-      "id": "wk36-industry-002"
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5YX3JRNW8xcnhhQmg1YzFqWEhLWkItWVBlck5FZTZlMTlIT3NuSU1tVEsxM0lNRmJIVUM4cEdzQ3hOejlKOThSRFBnaUk3V1NmMmdLbWVXVmdzOHVELXEwUA?oc=5",
+      "searchQuery": "泉州台商区举行体育用品科创大会 加速培育产业新生态 泉州新闻",
+      "id": "wk37-industry-002"
     },
     {
       "category": "sports-industry",
       "region": "global",
       "language": "en",
-      "source": "Forbes",
-      "sourceKind": "brand",
-      "titleOriginal": "Nike, RAJ Epicenter Week And The Business Of Women’s Sports",
-      "titleZh": "Forbes：宏观产业规模 / 技术应用与商业化",
-      "summaryZh": "Forbes 报道，适合跟踪产业规模、资本和技术投入变化；当前信号更偏向宏观产业规模、技术应用与商业化，可优先关注 Nike、女性体育、场馆升级。",
-      "publishedAt": "2026-08-31T19:00:21.000Z",
+      "source": "The Hollywood Reporter",
+      "sourceKind": "media",
+      "titleOriginal": "Sydney Sweeney Faces Backlash for Sexualized Novig Ad: “Exactly Why Women in Sports Aren’t Taken Seriously”",
+      "titleZh": "The Hollywood Reporter：宏观产业规模 / 技术应用与商业化",
+      "summaryZh": "The Hollywood Reporter 报道，适合跟踪产业规模、资本和技术投入变化；当前信号更偏向宏观产业规模、技术应用与商业化，可优先关注 女性体育、产业观察、商业化。",
+      "publishedAt": "2026-09-12T01:50:59.000Z",
       "tags": [
-        "Nike",
         "女性体育",
-        "场馆升级"
+        "产业观察",
+        "商业化"
       ],
-      "priority": 2,
+      "priority": 3,
       "featured": false,
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYVkwRDlOSE5EWTk2OWNaR3dUVlhOSktqdV9pX1JLTzNFbFF6dlIyQ1lQT25FQTFsVExSTWhJTXJoOWxKV2FYal9HV3NFQWNDUVZxQUpmV2Y1ODIzSjRNMUFOZ0VuLUs0UHZfUW1nb0g5N1ZVYjFlSHRLaXYwY2xsRWF5OHhtazVwSlE3cnZ2QmhUOEdGUFgzdUt2QmF6SkE1dWFqX1pVMC14MW5Rc2dRUA?oc=5",
-      "searchQuery": "Nike, RAJ Epicenter Week And The Business Of Women’s Sports Forbes",
-      "id": "wk36-industry-003"
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZmMxdC1FTnNzUUkyX2EwckFRRHBveDdnaHdqSUpfYUxFdDNMYVBLckRSQXFsSGU5X3NKVHlpUy1hZ05YbGl2Sl9JR21xUk9idXNMa3ZjSGVnbVFlNlk4c0YyMG5Oak5FZy0zeWZIcUxwMTd3c3RhV1V5NWNPVDQ0elh0alhvODdzMUdJLUdRM3BURnYzUW9fa29qdlRhbzB2dFFhOGp3YUtwS2d1LW9DbUVfdEYyWE0?oc=5",
+      "searchQuery": "Sydney Sweeney Faces Backlash for Sexualized Novig Ad: “Exactly Why Women in Sports Aren’t Taken Seriously” The Hollywood Reporter",
+      "id": "wk37-industry-003"
     },
     {
       "category": "sports-industry",
-      "region": "global",
-      "language": "en",
-      "source": "Daily Trojan",
+      "region": "china",
+      "language": "zh",
+      "source": "eeo.com.cn",
       "sourceKind": "media",
-      "titleOriginal": "WINS opens doors for women in the sports industry",
-      "titleZh": "Daily Trojan：宏观产业规模 / 技术应用与商业化",
-      "summaryZh": "Daily Trojan 报道，适合跟踪产业规模、资本和技术投入变化；当前信号更偏向宏观产业规模、技术应用与商业化，可优先关注 扩张、女性体育、产业观察。",
-      "publishedAt": "2026-08-31T07:09:26.000Z",
+      "titleOriginal": "2026服贸会直击：体育产业出海，从中国制造到中国服务",
+      "titleZh": "2026服贸会直击：体育产业出海，从中国制造到中国服务",
+      "summaryZh": "eeo.com.cn 报道，适合跟踪产业规模、资本和技术投入变化；当前信号更偏向区域产业政策、场馆升级与文体融合，可优先关注 场馆升级、产业观察、商业化。",
+      "publishedAt": "2026-09-11T13:42:00.000Z",
       "tags": [
-        "扩张",
-        "女性体育",
-        "产业观察"
+        "场馆升级",
+        "产业观察",
+        "商业化"
       ],
-      "priority": 2,
+      "priority": 3,
       "featured": false,
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNR2VycUNmQzdBV0xHSUdtUjZIc0Z5ZDZuc2VYV3VhTGgtWG9haEppcDAzZFdwTGN3MHlKZWVCQmZsWTJDbnpFaVFWRW1sOEhQV1lUMVY5R2NZem5qTDdDZ082T1VnZzFmNi1aaklnWWowV3BWbVFpRVc2LU5DYVhqV043V0EwQXhhTVh0NzFzQTE2RnduaWRkOHdrMEw?oc=5",
-      "searchQuery": "WINS opens doors for women in the sports industry Daily Trojan",
-      "id": "wk36-industry-004"
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9OdDZxMGt2LXUtbU1MRFVaN0g1Wksta3BpeE9sQkJNODRwYjcxZGRmYU9PUC1XY2VSQ3IxajZiZktoWGRsUTF3QUNfUHAzUTIzVjVCMVpuSmM?oc=5",
+      "searchQuery": "2026服贸会直击：体育产业出海，从中国制造到中国服务 eeo.com.cn",
+      "id": "wk37-industry-004"
     },
     {
       "category": "sports-events",
       "region": "global",
       "language": "en",
-      "source": "US Soccer",
+      "source": "The New York Times",
       "sourceKind": "media",
-      "titleOriginal": "U.S. Under-20 Women's National Team Opens 2026 FIFA U-20 Women's World Cup with 2-1 Loss to Italy in Lodz, Poland",
-      "titleZh": "US Soccer：票务 / 公平性 / 主办城市与赛事商业化",
-      "summaryZh": "US Soccer 报道，适合跟踪赛事运营、票务机制与城市联动节点；当前信号更偏向票务、公平性、主办城市与赛事商业化，可优先关注 世界杯、票务、扩张。",
-      "publishedAt": "2026-09-06T19:05:41.000Z",
+      "titleOriginal": "Team USA moves on to World Cup semifinals after blowout win over Hungary",
+      "titleZh": "The New York Times：票务 / 公平性 / 主办城市与赛事商业化",
+      "summaryZh": "The New York Times 报道，适合跟踪赛事运营、票务机制与城市联动节点；当前信号更偏向票务、公平性、主办城市与赛事商业化，可优先关注 世界杯、票务、赛事运营。",
+      "publishedAt": "2026-09-10T16:49:36.000Z",
       "tags": [
         "世界杯",
         "票务",
-        "扩张"
+        "赛事运营"
       ],
       "priority": 1,
       "featured": true,
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdURuVmlHS2dMc1NYQkdRRFd3TkRYdmVjUFRsUDFTZHo1R2xrZC1EbnR0bmZ3eHYydHdWRi1uQ091ejJuNU1GbG5odEx6LXdTc3BlLWtMVUdxVGpZREpydDBHZXpfa2pmQWdNZjRaOXRwNy0wZVMzdFQ3cGFUZ1U3MDZTUDZobmJzbFlaZGRKMEhDRS1lYmtCcXRKM2VVY3VyWF9ld09nWjJST213YVJvekdEQ2toY3ZWSHlMV2Z5RTk0U0hGMjhJRm1lanBzd2FX?oc=5",
-      "searchQuery": "U.S. Under-20 Women's National Team Opens 2026 FIFA U-20 Women's World Cup with 2-1 Loss to Italy in Lodz, Poland US Soccer",
-      "id": "wk36-events-001"
-    },
-    {
-      "category": "sports-events",
-      "region": "global",
-      "language": "en",
-      "source": "WNBA",
-      "sourceKind": "media",
-      "titleOriginal": "WNBA Primer: 2026 FIBA Women's Basketball World Cup",
-      "titleZh": "WNBA：票务 / 公平性 / 主办城市与赛事商业化",
-      "summaryZh": "WNBA 报道，适合跟踪赛事运营、票务机制与城市联动节点；当前信号更偏向票务、公平性、主办城市与赛事商业化，可优先关注 世界杯、票务、女性体育。",
-      "publishedAt": "2026-09-03T20:21:30.000Z",
-      "tags": [
-        "世界杯",
-        "票务",
-        "女性体育"
-      ],
-      "priority": 1,
-      "featured": true,
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB4NGNocVpRNHBHemUzOXR6UmJKRVo3Sm13cUlzNVMwbl8yZk5nSnJGeWd4V2l5SjRyM2U5bVdqRXRZajRoWnBaRjRCc3RGNk1keFFCeURtTm1DUW5PbWFGWUUyRU1PRFF3?oc=5",
-      "searchQuery": "WNBA Primer: 2026 FIBA Women's Basketball World Cup WNBA",
-      "id": "wk36-events-002"
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSmt2SXlBdjRhQTNoT04xOGk5ZW5sanNpUWxYbnVPOEJ3WW9sYmJDbUcxYUdFSmdnc1JadTJEZFJYanM4ZGFWckQ3M0cyZG9FLVVNNUwtS2gzY0dCcGtkMmJBZmx6eUdMbUQwUFpvNEhxMXR4dVNTS1NvOEVjRllfUTNkMlBPc1FyUUxBa3ZfQTlVcDVfZXo3NA?oc=5",
+      "searchQuery": "Team USA moves on to World Cup semifinals after blowout win over Hungary The New York Times",
+      "id": "wk37-events-001"
     },
     {
       "category": "sports-events",
@@ -224,20 +203,41 @@
       "language": "en",
       "source": "ESPN",
       "sourceKind": "media",
-      "titleOriginal": "2026 FIBA Women's World Cup: Team USA analysis, rankings, rosters",
+      "titleOriginal": "FIFA: 2030 World Cup final host country decision to be made 'in due course'",
       "titleZh": "ESPN：票务 / 公平性 / 主办城市与赛事商业化",
-      "summaryZh": "ESPN 报道，适合跟踪赛事运营、票务机制与城市联动节点；当前信号更偏向票务、公平性、主办城市与赛事商业化，可优先关注 世界杯、票务、女性体育。",
-      "publishedAt": "2026-09-03T16:50:00.000Z",
+      "summaryZh": "ESPN 报道，适合跟踪赛事运营、票务机制与城市联动节点；当前信号更偏向票务、公平性、主办城市与赛事商业化，可优先关注 世界杯、票务、赛事运营。",
+      "publishedAt": "2026-09-10T15:43:00.000Z",
       "tags": [
         "世界杯",
         "票务",
-        "女性体育"
+        "赛事运营"
       ],
       "priority": 1,
       "featured": false,
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZURIZXo5anNLNU9JcFBvN1BnTERJNy1TamlLQ0xHS1owSDhkUWtJRktwU3piaU5QYS1zcG9saVRSazV1T0ZIUDVncjVKZTRuMFRhenYzYUZINWVqNEdRVkdmUDlOeVZSQTV1TThmTTk3Y29NSl9XMFFVSk9qWnJiMjBXN3JqU1k5Ul9aOFU5VFYxR0xJaTRCRGJGTWdqZEZDcU1xRE1scFJwMVZjVGFmNXRESHBOT2VmOEVmSmx2TWNwN2ladWc?oc=5",
-      "searchQuery": "2026 FIBA Women's World Cup: Team USA analysis, rankings, rosters ESPN",
-      "id": "wk36-events-003"
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTzhMUTFhWnNjY3hZdW1MRUYxMDlvZmxOV01pSjRNbFZudDJIcVBuNTZGMFNYTDRGeUdWMnpVZFVFQjVMTVlSXzR6MUxiVzNuLS16blNIVC1wZjVfVnJuQTl1TWZsZm5qUkNiTUJWZUtIckhMMVVfVnQ3VHc1LXJodXVZTHlPQWM1RkRieUZfT21QaE9wNTYtRVk0b2pyTXNZc0JKeXBUcVYwWWlzU29CRTdUYmt3czMxdnowQQ?oc=5",
+      "searchQuery": "FIFA: 2030 World Cup final host country decision to be made 'in due course' ESPN",
+      "id": "wk37-events-002"
+    },
+    {
+      "category": "sports-events",
+      "region": "global",
+      "language": "en",
+      "source": "Reuters",
+      "sourceKind": "institution",
+      "titleOriginal": "Casablanca will host 2030 World Cup final, says Moroccan federation chief",
+      "titleZh": "Reuters：票务 / 公平性 / 主办城市与赛事商业化",
+      "summaryZh": "Reuters 报道，适合跟踪赛事运营、票务机制与城市联动节点；当前信号更偏向票务、公平性、主办城市与赛事商业化，可优先关注 世界杯、票务、赛事运营。",
+      "publishedAt": "2026-09-10T13:50:25.000Z",
+      "tags": [
+        "世界杯",
+        "票务",
+        "赛事运营"
+      ],
+      "priority": 1,
+      "featured": false,
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUGYyZWpLekQzV2ZfNlVoUzVpUEh4Q0tLb3hpVGwzaGo0ODFBcHB6dUNhUHJCSzVPdFo1YUIta2QyVU51QUNDbng0d05Pa1hGcmcwaGE0dGh3S2t1aXMzSUp4SXczeWJKNWxtWC15dDNIdUxzYkpOZ2Z4aW84YmZLVUF1dmhmV1dZTEFfWEh3N1hsQmhNQlRpWjVBV1MwV1NjSWozaGFUVUhMMkp6WEFZTEUzM2JTSVJUVVBPOTdrWQ?oc=5",
+      "searchQuery": "Casablanca will host 2030 World Cup final, says Moroccan federation chief Reuters",
+      "id": "wk37-events-003"
     },
     {
       "category": "sports-events",
@@ -245,94 +245,73 @@
       "language": "en",
       "source": "USA Basketball",
       "sourceKind": "media",
-      "titleOriginal": "Paige Bueckers’ World Cup Debut Brings USA Basketball Journey Full Circle",
+      "titleOriginal": "USA Poised for Women's World Cup Knockout Stage",
       "titleZh": "USA Basketball：票务 / 公平性 / 主办城市与赛事商业化",
-      "summaryZh": "USA Basketball 报道，适合跟踪赛事运营、票务机制与城市联动节点；当前信号更偏向票务、公平性、主办城市与赛事商业化，可优先关注 世界杯、票务、新品发布。",
-      "publishedAt": "2026-09-01T14:03:08.000Z",
+      "summaryZh": "USA Basketball 报道，适合跟踪赛事运营、票务机制与城市联动节点；当前信号更偏向票务、公平性、主办城市与赛事商业化，可优先关注 世界杯、票务、女性体育。",
+      "publishedAt": "2026-09-09T16:01:10.000Z",
       "tags": [
         "世界杯",
         "票务",
-        "新品发布"
+        "女性体育"
       ],
       "priority": 1,
       "featured": false,
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPOENsT0xhOTNIb09XODJyMkRKTW9hYnI4RWJpekFlR2J6cFFzRmdLYlRtOFJLclRsN09fMHBXa29EV3czV1F5ZmF2LUVRaHlNT0pXVXFkUm1MR0pFRmVUMVJJS2hVdldyTkJ6NExWaEQzQTNPTVJwVFZaaUZoRHo4WXZ4MHREaHVPWkJN?oc=5",
-      "searchQuery": "Paige Bueckers’ World Cup Debut Brings USA Basketball Journey Full Circle USA Basketball",
-      "id": "wk36-events-004"
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8ycmJGOFBVbm1WczE0bkZMUXo5d1Rhem9nc3hJRExMMXhrNjFsNzZCUGpuaG5peHV0M1FfdTFFWGZyR1gtN1Y2S2xoUUVuR0M3SHpjZnV3Skl3aTRxaTNMNnlQMm4xVzlqLUtz?oc=5",
+      "searchQuery": "USA Poised for Women's World Cup Knockout Stage USA Basketball",
+      "id": "wk37-events-004"
     },
     {
       "category": "fitness-market",
       "region": "north-america",
       "language": "en",
-      "source": "Athletech News",
-      "sourceKind": "media",
-      "titleOriginal": "Why the Fitness Industry Is Taking the Hamptons Seriously for Brand Growth",
-      "titleZh": "Athletech News：商用器材 / 品牌扩张与健身消费",
-      "summaryZh": "Athletech News 报道，适合跟踪健身消费、设备渠道和健康管理趋势；当前信号更偏向商用器材、品牌扩张与健身消费，可优先关注 体育科技、营收、消费。",
-      "publishedAt": "2026-09-03T13:02:59.000Z",
+      "source": "Health & Fitness Association",
+      "sourceKind": "institution",
+      "titleOriginal": "August Foot Traffic Posts Strongest Monthly Gain of 2026",
+      "titleZh": "Health & Fitness Association：商用器材 / 品牌扩张与健身消费",
+      "summaryZh": "Health & Fitness Association 报道，适合跟踪健身消费、设备渠道和健康管理趋势；当前信号更偏向商用器材、品牌扩张与健身消费，可优先关注 消费、商用健身、设备。",
+      "publishedAt": "2026-09-10T18:44:39.000Z",
       "tags": [
-        "体育科技",
-        "营收",
-        "消费"
+        "消费",
+        "商用健身",
+        "设备"
       ],
       "priority": 1,
       "featured": true,
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNXzVELUpsVVJCbnpWdmFzcEVsU0toMGw0dFJuS1l1TVNmWVBfMS1HOElWSVhZREo1S0sxQ2R4N1FJZG0wWVIzR1lFdlNWOHB6aXBIUFVVU0dZT2R6a2dTX1ZjQUVqTzkxUlZFWTJua1FGeUU5M2lJa0RDaF91b0VSVWFsb1drX3dVY1Rsc1BOc0phcTlhekI5OGF0ZHlYelMweE5Z?oc=5",
-      "searchQuery": "Why the Fitness Industry Is Taking the Hamptons Seriously for Brand Growth Athletech News",
-      "id": "wk36-fitness-001"
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOR0NDR0VtVmxsNFAxOWtqR3VINlhlYTc3NFJJTHdETmxxSnlXUWd0RnNLdnR1UUNiU0owdkdwQnA0UVZhYjMzRFN1VzB4RXlINjhzV0J2eDBWTFpWUmdEUDRmalV4emJQX0todV96LWNqRmZnZG5XQmNlTnQ0S1pZRHZyS1VQUTBOLTd3S0M0Y0NCdmFhc3JsZw?oc=5",
+      "searchQuery": "August Foot Traffic Posts Strongest Monthly Gain of 2026 Health & Fitness Association",
+      "id": "wk37-fitness-001"
     },
     {
       "category": "fitness-market",
       "region": "latin-america",
       "language": "es",
-      "source": "GYM FACTORY Revista",
+      "source": "Women's Health",
       "sourceKind": "media",
-      "titleOriginal": "Total Fitness eleva un 27% su EBITDA y supera por primera vez los 10 millones de libras",
-      "titleZh": "GYM FACTORY Revista：拉美精品工作室与智能健身",
-      "summaryZh": "GYM FACTORY Revista 报道，适合跟踪健身消费、设备渠道和健康管理趋势；当前信号更偏向拉美精品工作室与智能健身，可优先关注 商用健身、精品工作室、供应链。",
-      "publishedAt": "2026-09-02T04:03:33.000Z",
+      "titleOriginal": "Los 8 mejores smartwatches de mujer que comprar en 2026: buenos, bonitos y para todos los bolsillos",
+      "titleZh": "Women's Health：拉美精品工作室与智能健身",
+      "summaryZh": "Women's Health 报道，适合跟踪健身消费、设备渠道和健康管理趋势；当前信号更偏向拉美精品工作室与智能健身，可优先关注 精品工作室、健康管理、女性体育。",
+      "publishedAt": "2026-09-08T07:00:00.000Z",
       "tags": [
-        "商用健身",
         "精品工作室",
-        "供应链"
+        "健康管理",
+        "女性体育"
       ],
       "priority": 1,
       "featured": false,
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVXJKTnc2VzVJSEZXeDZWenpUYkRfS2dpT21GcmllVzNDRmN0Z1QwNGl2cy03WUkyaC1YMzBaVjQ4end1U0ZHZXA0M0h2N280d1B4clFUMDlBZmRnVVpzVWJTYXJaTkpiRC1uQlp4aDJTaktQdnF6VXBfVEZXb2hPaVphUENrSDZXOHE4U0NPYUVpNG1wVmJhRVJMUXcxenhFQ2dYWmlIUnZWeW85ZThRRkliX3dFNFI2dUhHQ09R?oc=5",
-      "searchQuery": "Total Fitness eleva un 27% su EBITDA y supera por primera vez los 10 millones de libras GYM FACTORY Revista",
-      "id": "wk36-fitness-002"
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNnAtZFB0VHlhZ1c1TTlCUllzNWM3YUU5Q18yblByOXBlZ3BPVHJGZUNldk05T2JlYk9Cck43YzRVaVFHM28ycEdNcFA0eXNRSW1lUmNCQkt0MFN1ZXVGQ3BnS0JNU091dVBnNEJmSEJoLWkwRE1aRW9OQm5FQ0JjRDVKaDZDRFNtM3g3bV80RC03R1J5M19zUUNFa2VmSHVjdkE?oc=5",
+      "searchQuery": "Los 8 mejores smartwatches de mujer que comprar en 2026: buenos, bonitos y para todos los bolsillos Women's Health",
+      "id": "wk37-fitness-002"
     },
     {
       "category": "fitness-market",
       "region": "north-america",
       "language": "en",
-      "source": "Club Solutions Magazine",
+      "source": "Yahoo Finance",
       "sourceKind": "media",
-      "titleOriginal": "Don't Confuse the Icing with the Cake: The Latest Science on Recovery Tech vs. Fundamentals",
-      "titleZh": "Club Solutions Magazine：商用器材 / 品牌扩张与健身消费",
-      "summaryZh": "Club Solutions Magazine 报道，适合跟踪健身消费、设备渠道和健康管理趋势；当前信号更偏向商用器材、品牌扩张与健身消费，可优先关注 体育科技、消费、商用健身。",
-      "publishedAt": "2026-08-31T12:00:00.000Z",
-      "tags": [
-        "体育科技",
-        "消费",
-        "商用健身"
-      ],
-      "priority": 1,
-      "featured": false,
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTE5pX21kbVRTemd4UW1IeGdXaFlwUktTZS0zZU9wNDI3bjk3eEhsa3RIcXQ1ejF2b2xFUmtOYU54LWxfOHR2cDZOcHl2WkFJVXhTSU8xaUtmVEZudi02RUswU0R0cjVVRVdCU1I5eTNnUnh0SFY5dGFHMG5sbTNzMWdpdmJPam9GUEZfNlZOV21fMTRKYnExNTRIbllkTHdBMTBPSVZhV3FsMjJxNm94T2p1el9qY2xfNHR4ZGwxRktGd2hYeXUzR3lwTQ?oc=5",
-      "searchQuery": "Don't Confuse the Icing with the Cake: The Latest Science on Recovery Tech vs. Fundamentals Club Solutions Magazine",
-      "id": "wk36-fitness-003"
-    },
-    {
-      "category": "fitness-market",
-      "region": "north-america",
-      "language": "en",
-      "source": "StockStory",
-      "sourceKind": "media",
-      "titleOriginal": "3 Consumer Stocks with Open Questions",
-      "titleZh": "StockStory：商用器材 / 品牌扩张与健身消费",
-      "summaryZh": "StockStory 报道，适合跟踪健身消费、设备渠道和健康管理趋势；当前信号更偏向商用器材、品牌扩张与健身消费，可优先关注 消费、商用健身、设备。",
-      "publishedAt": "2026-09-04T10:32:27.000Z",
+      "titleOriginal": "22-year-old built a $160K/month fitness app in just one year...",
+      "titleZh": "Yahoo Finance：商用器材 / 品牌扩张与健身消费",
+      "summaryZh": "Yahoo Finance 报道，适合跟踪健身消费、设备渠道和健康管理趋势；当前信号更偏向商用器材、品牌扩张与健身消费，可优先关注 消费、商用健身、设备。",
+      "publishedAt": "2026-09-11T20:33:09.000Z",
       "tags": [
         "消费",
         "商用健身",
@@ -340,93 +319,114 @@
       ],
       "priority": 2,
       "featured": false,
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOUJvOVZfdjJ2QkNKdllHYlBaeDR5cEsyNWVOUVBRUnQ0cmVMazRXV1VzclNMNXA3ZmZ1aVNxNUZ5akVaMVl4R3JWVUhNMFU4TXBtWm1uNnk4cmduekxhbWdGRHNHT3pFTDd3N0NxbGp1WXMzOUlVY1M3eXJkLUxEWkgxZGpDRUFYcTZxd0NYWXpkS1MzbEMwTGRRQnE?oc=5",
-      "searchQuery": "3 Consumer Stocks with Open Questions StockStory",
-      "id": "wk36-fitness-004"
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE12dEg0U25keHM0dGZ5REVzZVh2a2xfRjJRa0tPcWRNdHBVa1ZQSV83Z1NCajlodDFLZHR3MW1yV2luM05sU3l5TC1YRVg1MkN4SFdxVmhJbHB5V0lDSzRyaHBZb3hVbHRMYU1iMWkxS1lLcTZwTkU4YlZB?oc=5",
+      "searchQuery": "22-year-old built a $160K/month fitness app in just one year... Yahoo Finance",
+      "id": "wk37-fitness-003"
+    },
+    {
+      "category": "fitness-market",
+      "region": "north-america",
+      "language": "en",
+      "source": "William Blair",
+      "sourceKind": "media",
+      "titleOriginal": "GLP-1s and Fitness Clubs: The Structural Case for a Larger Market",
+      "titleZh": "William Blair：商用器材 / 品牌扩张与健身消费",
+      "summaryZh": "William Blair 报道，适合跟踪健身消费、设备渠道和健康管理趋势；当前信号更偏向商用器材、品牌扩张与健身消费，可优先关注 消费、商用健身、设备。",
+      "publishedAt": "2026-09-10T13:55:14.000Z",
+      "tags": [
+        "消费",
+        "商用健身",
+        "设备"
+      ],
+      "priority": 2,
+      "featured": false,
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMlJ6aERJZkc4eXhWTVhYc0pMSlpidzJaM2RHRVJYZHM2cWhCeUs3OTB4bVVrdlM5SWYzNV83aVBfRV96cTYzbkliVWxBVk9WcnMwdEVvbnRkQ2ZkUEZ3UEdKb2dRT19jSG16NmdfM3lfZ2Y4djdhUU5vU1UyOEJ5RmFDU3V0U29zalFKVjh1ZURTaUpJdmFXeThMMlZka2lrdDNJ?oc=5",
+      "searchQuery": "GLP-1s and Fitness Clubs: The Structural Case for a Larger Market William Blair",
+      "id": "wk37-fitness-004"
     },
     {
       "category": "brand-dynamics",
-      "region": "asia-pacific",
+      "region": "global",
       "language": "en",
-      "source": "KrASIA",
-      "sourceKind": "media",
-      "titleOriginal": "Anta’s multibrand strategy continues to deliver in H1 2026 as its AI ambitions take shape",
-      "titleZh": "KrASIA：品牌供应链与工厂布局",
-      "summaryZh": "KrASIA 报道，适合跟踪品牌新品、供应链与区域扩张动作；当前信号更偏向品牌供应链与工厂布局，可优先关注 AI、供应链、品牌动作。",
-      "publishedAt": "2026-08-31T12:30:31.000Z",
+      "source": "Gear Patrol",
+      "sourceKind": "brand",
+      "titleOriginal": "The Adidas Samba Undergoes Easily Its Most Technical Transformation in 75 Years",
+      "titleZh": "Gear Patrol：鞋服设计 / 营销与法务动态",
+      "summaryZh": "Gear Patrol 报道，适合跟踪品牌新品、供应链与区域扩张动作；当前信号更偏向鞋服设计、营销与法务动态，可优先关注 Adidas、体育科技、法务。",
+      "publishedAt": "2026-09-11T20:34:15.000Z",
       "tags": [
-        "AI",
-        "供应链",
-        "品牌动作"
+        "Adidas",
+        "体育科技",
+        "法务"
       ],
       "priority": 1,
       "featured": true,
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSDVMR1podS16blU2Nm1nbmFIZTBoNERxWVNqR0RUbjlnX1lrQTZoM0l2SjhrUlJjQkNDc1R0cXVqY2gwc0NyWFZDdU5tdFA5TWJKeFNjb3RqQVROZmp0dGsxalZkWUxWRnZGeFl4YUt3SkxYWW9QbHVmM0Zxa1N1STMyRUhCa2ZmNE5DMFFWMXJkd2VlZWd6ZzRVN1F1dlVjdWNjSTZWWk9OOEVG?oc=5",
-      "searchQuery": "Anta’s multibrand strategy continues to deliver in H1 2026 as its AI ambitions take shape KrASIA",
-      "id": "wk36-brand-001"
-    },
-    {
-      "category": "brand-dynamics",
-      "region": "global",
-      "language": "en",
-      "source": "adidas News",
-      "sourceKind": "brand",
-      "titleOriginal": "adidas Originals and Pharrell Williams Launch the VIRGINIA Watermoc Pack",
-      "titleZh": "adidas News：鞋服设计 / 营销与法务动态",
-      "summaryZh": "adidas News 报道，适合跟踪品牌新品、供应链与区域扩张动作；当前信号更偏向鞋服设计、营销与法务动态，可优先关注 Adidas、法务、新品发布。",
-      "publishedAt": "2026-08-31T07:00:00.000Z",
-      "tags": [
-        "Adidas",
-        "法务",
-        "新品发布"
-      ],
-      "priority": 1,
-      "featured": false,
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPZlg1bWh3MTMzS0d5dlFtNXpYWnh1bDBmZlJXUE5POVRzeFowdGhuT08yZ1dmTnpVZzd3eFdLdFFPYnZfUDNqNm9YYUhjSFh4YVR5clo3cXBKVkF0TUxhUDhqSnd1QXNNRzdlbEV4dTRCdVZsYUF1dXRtdWdiZG9UZS16OVdlX0w2d3lvUV9mZXFqYWdlNk15MEFyLTV6dWxxd2dfYlI0NTV0M0ZmWmpCNGZYZ29pZUcxTlZxbFdqU3AyTUlmWmI3Um1XWkcxUXdzQnFpODNDeDVaS05CVnc?oc=5",
-      "searchQuery": "adidas Originals and Pharrell Williams Launch the VIRGINIA Watermoc Pack adidas News",
-      "id": "wk36-brand-002"
-    },
-    {
-      "category": "brand-dynamics",
-      "region": "global",
-      "language": "en",
-      "source": "WWD",
-      "sourceKind": "brand",
-      "titleOriginal": "Larry June’s First Adidas Sneaker Release Offers a Vibrant Retro Runner",
-      "titleZh": "WWD：鞋服设计 / 营销与法务动态",
-      "summaryZh": "WWD 报道，适合跟踪品牌新品、供应链与区域扩张动作；当前信号更偏向鞋服设计、营销与法务动态，可优先关注 Adidas、法务、新品发布。",
-      "publishedAt": "2026-09-04T18:00:49.000Z",
-      "tags": [
-        "Adidas",
-        "法务",
-        "新品发布"
-      ],
-      "priority": 2,
-      "featured": false,
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOazNZUzJMSjNxMDY5MnJWZk5IcmtnLXJCUGE2UVZWTXpKbDcyRXNVSmRtMWoyM1hOR1V1R2tGb0F5SlI0UTNHWkU5UzRJajAyWGpLT1l3NHFnZWpINVgwZHZydnZKYzhOWGZSYjlaaXlpYUZGM1luelNtNXJuYUlycWhqckJad2QtclhWUEk0OUhBdkdWRzdwaUgwM054dzUyVVNwTGVZRlk5UDBLUlM0?oc=5",
-      "searchQuery": "Larry June’s First Adidas Sneaker Release Offers a Vibrant Retro Runner WWD",
-      "id": "wk36-brand-003"
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBQREVDOXptRGdpeUV5WnJZOGtNV1Bud0lLWFF5dGVjRGlVaFhTWm5Tb1U3YXhJMi1MQnp0V0hLWVRxNm5KZWlkN0E3M21tT3M1anBjTVR5ME10RzZlUV9CZVZ2clpxbVNfTEM1ZWtBNmRyUQ?oc=5",
+      "searchQuery": "The Adidas Samba Undergoes Easily Its Most Technical Transformation in 75 Years Gear Patrol",
+      "id": "wk37-brand-001"
     },
     {
       "category": "brand-dynamics",
       "region": "asia-pacific",
       "language": "en",
-      "source": "The Straits Times",
+      "source": "finance.biggo.com",
       "sourceKind": "media",
-      "titleOriginal": "BYD launches privilege programme and two new EVs",
-      "titleZh": "The Straits Times：品牌供应链与工厂布局",
-      "summaryZh": "The Straits Times 报道，适合跟踪品牌新品、供应链与区域扩张动作；当前信号更偏向品牌供应链与工厂布局，可优先关注 供应链、新品发布、品牌动作。",
-      "publishedAt": "2026-09-04T05:06:00.000Z",
+      "titleOriginal": "Sportswear Brand New Product Restocking Drives Xinli's August Revenue to NT$148 Million, a Record Monthly High",
+      "titleZh": "finance.biggo.com：品牌供应链与工厂布局",
+      "summaryZh": "finance.biggo.com 报道，适合跟踪品牌新品、供应链与区域扩张动作；当前信号更偏向品牌供应链与工厂布局，可优先关注 营收、供应链、场馆升级。",
+      "publishedAt": "2026-09-10T11:35:00.000Z",
+      "tags": [
+        "营收",
+        "供应链",
+        "场馆升级"
+      ],
+      "priority": 1,
+      "featured": false,
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA1SVJxRXlhNzg5aUVVZ2JRTmUyekpIUzYxcDZjM0ljU3lyNVhtem1XOG9EY1BvQUloLVFvU1l4WGd4bHJfMkdMWWMzMkFwMlAzMkF0azZEOTJxWVl1Q1VhZmNBdzJObHk4UDlreV84UlNRZVNSTUE?oc=5",
+      "searchQuery": "Sportswear Brand New Product Restocking Drives Xinli's August Revenue to NT$148 Million, a Record Monthly High finance.biggo.com",
+      "id": "wk37-brand-002"
+    },
+    {
+      "category": "brand-dynamics",
+      "region": "asia-pacific",
+      "language": "en",
+      "source": "The Business of Fashion",
+      "sourceKind": "media",
+      "titleOriginal": "A Look at Investors’ Dwindling Faith in Sportswear",
+      "titleZh": "The Business of Fashion：品牌供应链与工厂布局",
+      "summaryZh": "The Business of Fashion 报道，适合跟踪品牌新品、供应链与区域扩张动作；当前信号更偏向品牌供应链与工厂布局，可优先关注 供应链、投资回报、品牌动作。",
+      "publishedAt": "2026-09-11T16:06:42.000Z",
       "tags": [
         "供应链",
-        "新品发布",
+        "投资回报",
         "品牌动作"
       ],
       "priority": 2,
       "featured": false,
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOFpzVzFRYTg2R2hBeXQta1ZRNjV5SW5ycnJVZi1sUWRRQllvUHdBM3gyelZIZTRrN2F5bm1zb1B4UEVLalJJVnRyX2YzSUhCWGpMclZNb2Fkek1SQXpvVmxySjdQdzlOQUZ1X1ExSEhzTlltLW1MMXdsclFwTVpwcmM1VEsyWngwRWtKX25tbC1VVjJLWUE?oc=5",
-      "searchQuery": "BYD launches privilege programme and two new EVs The Straits Times",
-      "id": "wk36-brand-004"
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMFljQVU1SWFweFdXaGFCcjlKVnZRdi1ETnJpMTBBS1hldE90Y2RzUldkTVh3YWx5YVUtVUhJLWVQd05UUnZsX0RiM001TlpfZ0V3b1FzbG9BbEU5WFVRNEpXY0JjenoyN2MycmY4LUZmSk83cWdMeGZDMjdxNFd4Y3hOZkZ2WWpTcm93eEZCTzMwTlNUSEdhcDFDcUFXRjBFM013?oc=5",
+      "searchQuery": "A Look at Investors’ Dwindling Faith in Sportswear The Business of Fashion",
+      "id": "wk37-brand-003"
+    },
+    {
+      "category": "brand-dynamics",
+      "region": "asia-pacific",
+      "language": "en",
+      "source": "36 Kr",
+      "sourceKind": "media",
+      "titleOriginal": "Sports Brands Bid Farewell to the High-Growth Era: Key Industry Shifts & New Development Trends",
+      "titleZh": "36 Kr：品牌供应链与工厂布局",
+      "summaryZh": "36 Kr 报道，适合跟踪品牌新品、供应链与区域扩张动作；当前信号更偏向品牌供应链与工厂布局，可优先关注 营收、供应链、品牌动作。",
+      "publishedAt": "2026-09-07T08:10:32.000Z",
+      "tags": [
+        "营收",
+        "供应链",
+        "品牌动作"
+      ],
+      "priority": 2,
+      "featured": false,
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE11RzU0ejFMcE5TZGFjYXpCUWNQbkVYQ1dpWkF6SWh2NEpGcFgzWEs2QVoyOVRzV0Zja3ItVjFyd2V2NkdVSExodjVuNmxrU0U3eU5N?oc=5",
+      "searchQuery": "Sports Brands Bid Farewell to the High-Growth Era: Key Industry Shifts & New Development Trends 36 Kr",
+      "id": "wk37-brand-004"
     }
   ]
 }
