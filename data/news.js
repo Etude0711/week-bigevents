@@ -1,16 +1,16 @@
 window.__WEEKLY_BRIEF_DATA__ = {
   "title": "全球体育与健身行业周报",
-  "weekLabel": "2026 第42周",
+  "weekLabel": "2026 第43周",
   "weekRange": {
-    "start": "2026-10-12",
-    "end": "2026-10-18"
+    "start": "2026-10-19",
+    "end": "2026-10-25"
   },
-  "generatedAt": "2026-10-19T05:56:52.562Z",
+  "generatedAt": "2026-10-26T05:56:02.773Z",
   "disclaimer": "当前页面已接入自动周更流程。资讯由 GitHub Actions 按 sourceFeeds 配置自动抓取 Google News RSS 生成，中文标题与摘要为程序化整理结果；正式对外使用前建议运营团队做一次人工复核。",
   "briefHighlights": [
     "聚合近 7 日体育产业、体育赛事、健身市场、品牌动态共 16 条资讯。",
-    "当前自动样例覆盖 16 家来源、4 个地区、2 种语言。",
-    "高优先级条目 8 条，重点信号包括 票务、赛事运营、商用健身。",
+    "当前自动样例覆盖 15 家来源、4 个地区、2 种语言。",
+    "高优先级条目 9 条，重点信号包括 消费、产业观察、场馆升级。",
     "当前页面已适配 GitHub Actions 周更流程，前端继续复用同一份 news.json / news.js 数据结构。"
   ],
   "automationSteps": [
@@ -94,77 +94,77 @@ window.__WEEKLY_BRIEF_DATA__ = {
   "items": [
     {
       "category": "sports-industry",
-      "region": "global",
-      "language": "en",
-      "source": "Maryville University",
-      "sourceKind": "media",
-      "titleOriginal": "Partnership with World Wide Technology Raceway Opens Doors to Motor Sports Industry for First-Year Students",
-      "titleZh": "Maryville University：宏观产业规模 / 技术应用与商业化",
-      "summaryZh": "Maryville University 报道，适合跟踪产业规模、资本和技术投入变化；当前信号更偏向宏观产业规模、技术应用与商业化，可优先关注 体育科技、扩张、产业观察。",
-      "publishedAt": "2026-10-15T20:39:06.000Z",
+      "region": "china",
+      "language": "zh",
+      "source": "烟台市人民政府",
+      "sourceKind": "institution",
+      "titleOriginal": "2026黄渤海城市体育联盟（烟台）“劲踏杯”匹克球邀请赛圆满落幕",
+      "titleZh": "2026黄渤海城市体育联盟（烟台）“劲踏杯”匹克球邀请赛圆满落幕",
+      "summaryZh": "烟台市人民政府 报道，适合跟踪产业规模、资本和技术投入变化；当前信号更偏向区域产业政策、场馆升级与文体融合，可优先关注 场馆升级、产业观察、商业化。",
+      "publishedAt": "2026-10-26T02:18:00.000Z",
       "tags": [
-        "体育科技",
-        "扩张",
-        "产业观察"
+        "场馆升级",
+        "产业观察",
+        "商业化"
       ],
       "priority": 2,
       "featured": false,
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOajVLY3BpZGkyQWplWEN2ZjY1RFp0MmVBYVpFUkZlU1ZfUlVNSGZobFFsa293aVFPZGtfUHk0TGktUWhhSnBqdWN6MTlJU1FxRzNjdnpseXVZWUpZRnYyeU8tc3RYdzN4cG85LWJCTklhaldBRlNLR2FiZWtTd3FIOTRHTm9kaGZWTGVGQ0FFcXFSdFp4UEpIeDU1X0RIUWFWRHlJbVpkVHU4Y3pIUGQwbWdnOXQ4aTVyZ3VPdTVyb3U?oc=5",
-      "searchQuery": "Partnership with World Wide Technology Raceway Opens Doors to Motor Sports Industry for First-Year Students Maryville University",
-      "id": "wk42-industry-001"
-    },
-    {
-      "category": "sports-industry",
-      "region": "global",
-      "language": "en",
-      "source": "Tulane Law School",
-      "sourceKind": "media",
-      "titleOriginal": "Tulane Women in Sports Law Symposium Returns for 10th Year",
-      "titleZh": "Tulane Law School：宏观产业规模 / 技术应用与商业化",
-      "summaryZh": "Tulane Law School 报道，适合跟踪产业规模、资本和技术投入变化；当前信号更偏向宏观产业规模、技术应用与商业化，可优先关注 女性体育、投资回报、产业观察。",
-      "publishedAt": "2026-10-14T15:42:37.000Z",
-      "tags": [
-        "女性体育",
-        "投资回报",
-        "产业观察"
-      ],
-      "priority": 2,
-      "featured": false,
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZ1dudm5lanFuTGxKMjk5Zm9aWU1ldlBTbk9Xb0Q0QVozSXFXVTFBb2VnZ0puQ3FBTjV0dDFyall4UllLajZpVWVzQXZpOWFlTl9BMEwyd2tKZTkzZFpxT0FUZ0ZOVzA4UVE2RklwTzF4cDJZbk9yTThISTlkV2lKb0U3UE4yUQ?oc=5",
-      "searchQuery": "Tulane Women in Sports Law Symposium Returns for 10th Year Tulane Law School",
-      "id": "wk42-industry-002"
-    },
-    {
-      "category": "sports-industry",
-      "region": "global",
-      "language": "en",
-      "source": "Sports Business Journal",
-      "sourceKind": "media",
-      "titleOriginal": "The GIST expands newsletter into career resource for women across sports, launches podcast",
-      "titleZh": "Sports Business Journal：宏观产业规模 / 技术应用与商业化",
-      "summaryZh": "Sports Business Journal 报道，适合跟踪产业规模、资本和技术投入变化；当前信号更偏向宏观产业规模、技术应用与商业化，可优先关注 新品发布、扩张、女性体育。",
-      "publishedAt": "2026-10-14T14:00:07.000Z",
-      "tags": [
-        "新品发布",
-        "扩张",
-        "女性体育"
-      ],
-      "priority": 2,
-      "featured": false,
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPbUwzT2lCTm52d21ldWJBUEp2RnRtbGxFYW8xNzdGTnBRVUhWVDRETENkUGVKSVJJal9tV1gyR2FUS0VpeWJUWG44S1ZkNFRIUHFvMlhxb3hlMml1VENEX2tyVUhqSm5EaEhJUVduQ0N4ODlSenZTN2lMT2wtQW1IUmtLMGh5M3N6RThwa2JIblNVb1lnNGplWTZzNzRfXzN0X2VrVkdSM1lDOHJMbFJmRHdOM25xZy1wN3FoV3BrTzhsbXBSY1luanZxNkhCOE1uQWNYeldqUmk3WEU5Rm8xdUhB?oc=5",
-      "searchQuery": "The GIST expands newsletter into career resource for women across sports, launches podcast Sports Business Journal",
-      "id": "wk42-industry-003"
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVFhpaHpBTGVNSlBraEJyODBQYjJPak5zbTZfNHR0RUg2RlUxYnM4Ulk1blZnUkp3aVpOVkdJUlJDU09uZ0pVUFk5dUZ4TjJESC1Ic2RYckM0TXEzNEduOVFBVkV4M25jMVlvSDNFc1MtZVZKQ09HNGhPS2VSY2RPeDNRWE8yMHZzMUw0akxUQkZvZ1E?oc=5",
+      "searchQuery": "2026黄渤海城市体育联盟（烟台）“劲踏杯”匹克球邀请赛圆满落幕 烟台市人民政府",
+      "id": "wk43-industry-001"
     },
     {
       "category": "sports-industry",
       "region": "china",
       "language": "zh",
-      "source": "China Daily",
+      "source": "新京报",
       "sourceKind": "media",
-      "titleOriginal": "武侯国际体育城面向全球启动产业生态伙伴合作招募- 中国日报网",
-      "titleZh": "武侯国际体育城面向全球启动产业生态伙伴合作招募- 中国日报网",
-      "summaryZh": "China Daily 报道，适合跟踪产业规模、资本和技术投入变化；当前信号更偏向区域产业政策、场馆升级与文体融合，可优先关注 场馆升级、产业观察、商业化。",
-      "publishedAt": "2026-10-17T05:01:12.000Z",
+      "titleOriginal": "顶级赛事点燃“双奥之城”，北京以赛促消费谋产业新局",
+      "titleZh": "顶级赛事点燃“双奥之城”，北京以赛促消费谋产业新局",
+      "summaryZh": "新京报 报道，适合跟踪产业规模、资本和技术投入变化；当前信号更偏向区域产业政策、场馆升级与文体融合，可优先关注 消费、场馆升级、产业观察。",
+      "publishedAt": "2026-10-25T08:52:00.000Z",
+      "tags": [
+        "消费",
+        "场馆升级",
+        "产业观察"
+      ],
+      "priority": 2,
+      "featured": false,
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5TcWNYWnFSRkJaSUZwRUZJNm9CVnd5M1dMTG91RGF2Wk0xcFJaMWFnRm54SUJSNzZEQnVUTi16b3RITG5HRVozQmNFWl9BOS1uSHZxeVhhblpMN09rbG1DZXpsVHE?oc=5",
+      "searchQuery": "顶级赛事点燃“双奥之城”，北京以赛促消费谋产业新局 新京报",
+      "id": "wk43-industry-002"
+    },
+    {
+      "category": "sports-industry",
+      "region": "china",
+      "language": "zh",
+      "source": "北京市人民政府门户网站",
+      "sourceKind": "institution",
+      "titleOriginal": "关于对《“十五五”时期东城区体育事业和体育产业发展规划（征求意见稿）》公开征集意见的公告",
+      "titleZh": "关于对《“十五五”时期东城区体育事业和体育产业发展规划（征求意见稿）》公开征集意见的公告",
+      "summaryZh": "北京市人民政府门户网站 报道，适合跟踪产业规模、资本和技术投入变化；当前信号更偏向区域产业政策、场馆升级与文体融合，可优先关注 场馆升级、产业观察、商业化。",
+      "publishedAt": "2026-10-19T10:13:07.000Z",
+      "tags": [
+        "场馆升级",
+        "产业观察",
+        "商业化"
+      ],
+      "priority": 2,
+      "featured": false,
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRndvcVRVclpRci1aVjQwemVxaHMweHdRMF83SXNpeTMyYXY2N25sZzlaNnpQNVRfZmliVENkNnprbkZFNVJubWNjSVRlNGE0aGlVMmVfcjRyS2NFbnJGT1hsVllsZGN4bm00MEZncW5rTW5KZDdMSmV1b3RZT3ZSVzY3Tkw?oc=5",
+      "searchQuery": "关于对《“十五五”时期东城区体育事业和体育产业发展规划（征求意见稿）》公开征集意见的公告 北京市人民政府门户网站",
+      "id": "wk43-industry-003"
+    },
+    {
+      "category": "sports-industry",
+      "region": "china",
+      "language": "zh",
+      "source": "中国新闻网",
+      "sourceKind": "media",
+      "titleOriginal": "2026年江西省户外运动和体育产业发展大会在南昌湾里开幕",
+      "titleZh": "2026年江西省户外运动和体育产业发展大会在南昌湾里开幕",
+      "summaryZh": "中国新闻网 报道，适合跟踪产业规模、资本和技术投入变化；当前信号更偏向区域产业政策、场馆升级与文体融合，可优先关注 场馆升级、产业观察、商业化。",
+      "publishedAt": "2026-10-24T09:22:02.000Z",
       "tags": [
         "场馆升级",
         "产业观察",
@@ -172,30 +172,30 @@ window.__WEEKLY_BRIEF_DATA__ = {
       ],
       "priority": 3,
       "featured": false,
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBRUlpvaS11dVFDcXJybmpBWGRqeDIwaWpJaTIyd0I4WEVOWjVNV0Jvd2RrUTFaYk1WUE9GNWdod2M2V0FQRjN1RGxFQi11YWNYX1J6QXZFbGZ6YW9IQmNjQUxTSmRTNXJQYi1rd3pQeXRjZFpVbV95dER0Ymg?oc=5",
-      "searchQuery": "武侯国际体育城面向全球启动产业生态伙伴合作招募- 中国日报网 China Daily",
-      "id": "wk42-industry-004"
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5HNlQxTlZOdFZqSmZFdlQ1ZWtsQW5zS1JSSURkRVRZNlJmbVc5TTBseW14aUFfQ3N5VUVhM0xwUjlPRUw3dlh4VjFyWlpPWkhRY1FBMkNxUmNTU2lXb2tfbHBFaVVRWUpD?oc=5",
+      "searchQuery": "2026年江西省户外运动和体育产业发展大会在南昌湾里开幕 中国新闻网",
+      "id": "wk43-industry-004"
     },
     {
       "category": "sports-events",
       "region": "global",
       "language": "en",
-      "source": "ESPN",
+      "source": "US Soccer",
       "sourceKind": "media",
-      "titleOriginal": "Netflix buys 2030 World Cup broadcast rights in co-host Spain",
-      "titleZh": "ESPN：票务 / 公平性 / 主办城市与赛事商业化",
-      "summaryZh": "ESPN 报道，适合跟踪赛事运营、票务机制与城市联动节点；当前信号更偏向票务、公平性、主办城市与赛事商业化，可优先关注 世界杯、票务、赛事运营。",
-      "publishedAt": "2026-10-13T13:39:00.000Z",
+      "titleOriginal": "U.S U-17 Women's National Team Falls, 3-2, to China PR to Finish Group Play at 2026 FIFA U-17 Women's World Cup in Morocco",
+      "titleZh": "US Soccer：票务 / 公平性 / 主办城市与赛事商业化",
+      "summaryZh": "US Soccer 报道，适合跟踪赛事运营、票务机制与城市联动节点；当前信号更偏向票务、公平性、主办城市与赛事商业化，可优先关注 世界杯、票务、女性体育。",
+      "publishedAt": "2026-10-25T21:51:04.000Z",
       "tags": [
         "世界杯",
         "票务",
-        "赛事运营"
+        "女性体育"
       ],
       "priority": 1,
       "featured": true,
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWWlQV0ZfTFpydjFkWllnWFpZcVNSWV9XbjQ3ZHhkdl8xeTgxRzUyRlo2dzFteE81UU1pX0kxekpBSy1RZldqWm9JQnBGR2k3aFBmd0VnWmt2SC1iM2NxMFFZa0xjVHpXX0NrUGNtczZ3TW4xSU1OaDE0SVlNa09tUlNvU2hMSlpjem44Zi1iT2ZSdVhaMkxTX3RJY0xZMXE3M0EtYWxTYVd2M0tCREtZVlczT3d5LUhUWXlEVDlfcUNkdw?oc=5",
-      "searchQuery": "Netflix buys 2030 World Cup broadcast rights in co-host Spain ESPN",
-      "id": "wk42-events-001"
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQLTlMNEJlMFB5NWJZUkxxX2VmeEdNMTViaVFMalNhN1dRYkFzYWloU29VX1ktS09LbW01X0pMbHl6ZTJxZjJ2XzVvX2twVGs3dHpTcUo0M0dtLVZiU2ZYWVI3cGdjQkF4ZmJYRGg0VmFPTlk0aExXeHBTTkVuVm43NW1MSm5TR0llTHh2b29HeHlXUFdJRmVyWUFmYkM3QUc0QmxhZ0sweU5JWXA0RTczQ053?oc=5",
+      "searchQuery": "U.S U-17 Women's National Team Falls, 3-2, to China PR to Finish Group Play at 2026 FIFA U-17 Women's World Cup in Morocco US Soccer",
+      "id": "wk43-events-001"
     },
     {
       "category": "sports-events",
@@ -203,20 +203,20 @@ window.__WEEKLY_BRIEF_DATA__ = {
       "language": "en",
       "source": "The New York Times",
       "sourceKind": "media",
-      "titleOriginal": "Netflix secures Spanish broadcasting rights for 2030 World Cup",
-      "titleZh": "The New York Times：票务 / 公平性 / 主办城市与赛事商业化",
-      "summaryZh": "The New York Times 报道，适合跟踪赛事运营、票务机制与城市联动节点；当前信号更偏向票务、公平性、主办城市与赛事商业化，可优先关注 世界杯、票务、赛事运营。",
-      "publishedAt": "2026-10-13T13:33:57.000Z",
+      "titleOriginal": "United States to host inaugural Women’s Club World Cup in 2028 as first seven teams confirmed - The Athletic",
+      "titleZh": "United States to host inaugural Women’s Club World Cup in 2028 as first seven teams confirmed",
+      "summaryZh": "The New York Times 报道，适合跟踪赛事运营、票务机制与城市联动节点；当前信号更偏向票务、公平性、主办城市与赛事商业化，可优先关注 世界杯、票务、女性体育。",
+      "publishedAt": "2026-10-23T15:48:35.000Z",
       "tags": [
         "世界杯",
         "票务",
-        "赛事运营"
+        "女性体育"
       ],
       "priority": 1,
-      "featured": false,
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYU9XenNUWm5fUVV4UnZaMVc4cXZoMW5FTTFGLXBZQUc5NlZadTdJVGpKMkRWanByMzFIWmh4UFM0WS16V3paSmNjTWhjRXkzRDBRZ2VTUVhCd0VRdnVrTTdYRktWV0Z0SUlzd0JpYlNWYVFRc3VGTlBNY1BocmtEdlFOWkFRVVBiTFFIdnJ0SUtZQQ?oc=5",
-      "searchQuery": "Netflix secures Spanish broadcasting rights for 2030 World Cup The New York Times",
-      "id": "wk42-events-002"
+      "featured": true,
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOLUVSQU5HNkpmSFhBOGtqb2lTS3VzcGlIZ0pvMy10bkFCZ0lYNlZvUjhzYk5wNDdNenkyZ2lhNlY2WHpsVjF3Rll2SmxvNG5lTVJrZlV4eFdEUDNzYmd6SVhkYWVBeDBVOEwycGdFdGowTXNTaUE3ZVVNSEdiTzRSMFJpbkdldw?oc=5",
+      "searchQuery": "United States to host inaugural Women’s Club World Cup in 2028 as first seven teams confirmed - The Athletic The New York Times",
+      "id": "wk43-events-002"
     },
     {
       "category": "sports-events",
@@ -224,209 +224,209 @@ window.__WEEKLY_BRIEF_DATA__ = {
       "language": "en",
       "source": "Reuters",
       "sourceKind": "media",
-      "titleOriginal": "Netflix secures rights to air 2030 World Cup in Spain, Andorra",
+      "titleOriginal": "FIFA opens bidding for 2030 and 2034 World Cup media rights covering US and Puerto Rico",
       "titleZh": "Reuters：票务 / 公平性 / 主办城市与赛事商业化",
-      "summaryZh": "Reuters 报道，适合跟踪赛事运营、票务机制与城市联动节点；当前信号更偏向票务、公平性、主办城市与赛事商业化，可优先关注 世界杯、票务、赛事运营。",
-      "publishedAt": "2026-10-13T11:54:00.000Z",
+      "summaryZh": "Reuters 报道，适合跟踪赛事运营、票务机制与城市联动节点；当前信号更偏向票务、公平性、主办城市与赛事商业化，可优先关注 世界杯、票务、扩张。",
+      "publishedAt": "2026-10-22T21:33:48.000Z",
       "tags": [
         "世界杯",
         "票务",
-        "赛事运营"
+        "扩张"
       ],
       "priority": 1,
       "featured": false,
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQ2VBRnNlNWtlYXplQ1pST3JROGJ1cGN4ejdGV0g4WFVmS3lWSDhzVDk0U2Yya21FSnRGZGpCR1p1UDBlNmdWamJfTVZNS2p6bkdiSnJYNXRscXlpd3FqWFJMWEFUSUlXeExFcEQ5clY4YzNuSDJmVkxrSUY5NDEzTWI3TTltRVl3bk9fQmhob0RnWXVoLTRxRmk5ODZHQ1hNMVlVS3FZX3Q?oc=5",
-      "searchQuery": "Netflix secures rights to air 2030 World Cup in Spain, Andorra Reuters",
-      "id": "wk42-events-003"
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYXBOcHFMMDVhZTNkUTIyNlBVbk9pUUtvRW5fTjJ5cmJDUWhrdmVKb09jS1JwYnBZeGxCOE1PZndSVmJGV3VNbkJPOUwyV0hHeUtCZ0Z5YTMwcXRwS2w2Zi1WNC1nd0xiWGo3OTYwTU1felZGYkxyN1VWN2ZjelE0c1NvUlB4OGFzYXFRYTZTYmhRN19vUWlKZElqajVvUTlRSHRMcFE5QzRQUWMzVGRUX0ItX3h2ZWVaYUExNFJfOEh6R3Fhck93azVmajdIYkE?oc=5",
+      "searchQuery": "FIFA opens bidding for 2030 and 2034 World Cup media rights covering US and Puerto Rico Reuters",
+      "id": "wk43-events-003"
     },
     {
       "category": "sports-events",
       "region": "global",
       "language": "en",
-      "source": "Deadline",
+      "source": "ESPN",
       "sourceKind": "media",
-      "titleOriginal": "Netflix Scores Exclusive Rights To Stream Every FIFA World Cup 2030 Game In Spain",
-      "titleZh": "Deadline：票务 / 公平性 / 主办城市与赛事商业化",
-      "summaryZh": "Deadline 报道，适合跟踪赛事运营、票务机制与城市联动节点；当前信号更偏向票务、公平性、主办城市与赛事商业化，可优先关注 世界杯、票务、赛事运营。",
-      "publishedAt": "2026-10-13T11:17:00.000Z",
+      "titleOriginal": "U.S. to host inaugural 2028 Women's Club World Cup",
+      "titleZh": "ESPN：票务 / 公平性 / 主办城市与赛事商业化",
+      "summaryZh": "ESPN 报道，适合跟踪赛事运营、票务机制与城市联动节点；当前信号更偏向票务、公平性、主办城市与赛事商业化，可优先关注 世界杯、票务、女性体育。",
+      "publishedAt": "2026-10-22T15:54:00.000Z",
       "tags": [
         "世界杯",
         "票务",
-        "赛事运营"
+        "女性体育"
       ],
       "priority": 1,
       "featured": false,
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY2s0TXhMbTJtZGJkTTZqdWNtTUstdDNrVnJlb2Z1UExZalpqc0FUNGxkSjI5Q00tT25KQnlaTVZ2M0NKbDc1azN1eDNHUHJueG9GTkR0V1VnRHVWR0ZXcG8zTG9nRjd2Zk5nbWFRRnJSY0F4aTRTajlvd2lBZWk5cEcyLWttSERSWkprQg?oc=5",
-      "searchQuery": "Netflix Scores Exclusive Rights To Stream Every FIFA World Cup 2030 Game In Spain Deadline",
-      "id": "wk42-events-004"
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdEdHMUdlS0pROTNVcEk5aDdJdklqRldhdGxJQ1FhaFBYbEYxdnFpZkpHTGRQeVNsSUtxNnRMUkNVazcwM013VzRxTklLNmNUR2VjOHk1WndPcGRSRnpBempvUElSTUVXeXhxUE5mU3F1WmNzcFhRS2dpRVM5ckJPVXdGM25XaXpVR0xGajJ1VXVFMWw2YUhnbg?oc=5",
+      "searchQuery": "U.S. to host inaugural 2028 Women's Club World Cup ESPN",
+      "id": "wk43-events-004"
     },
     {
       "category": "fitness-market",
       "region": "north-america",
       "language": "en",
       "source": "Athletech News",
-      "sourceKind": "media",
-      "titleOriginal": "World Gym Plans 30 Thailand Clubs as Global Fitness Giants Target Market",
+      "sourceKind": "brand",
+      "titleOriginal": "Adidas-Backed ATHX Games Expands Across US",
       "titleZh": "Athletech News：商用器材 / 品牌扩张与健身消费",
-      "summaryZh": "Athletech News 报道，适合跟踪健身消费、设备渠道和健康管理趋势；当前信号更偏向商用器材、品牌扩张与健身消费，可优先关注 体育科技、消费、商用健身。",
-      "publishedAt": "2026-10-16T15:45:17.000Z",
+      "summaryZh": "Athletech News 报道，适合跟踪健身消费、设备渠道和健康管理趋势；当前信号更偏向商用器材、品牌扩张与健身消费，可优先关注 Adidas、体育科技、消费。",
+      "publishedAt": "2026-10-21T17:28:31.000Z",
       "tags": [
-        "体育科技",
-        "消费",
-        "商用健身"
-      ],
-      "priority": 1,
-      "featured": true,
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUDVtTG53Q0E0LTkxUmpvcWhlNXB5RUJGNUtZLTlkZEtFc0lublhUYlVVUG9DU0JfaUZyMkxmdmQtc2dTYmdEcHc4NGRqWmd5Y3pTaUdwQUZvRnJnY1U1WVphYTg2YlQ2NTlfYVVoUnk0ZDk5SG9ETVhHQm5WNWd2Ul90QjVJcUtvbEYzMjhjNk1Rei1CQWVDQnowc3ZCOVFN?oc=5",
-      "searchQuery": "World Gym Plans 30 Thailand Clubs as Global Fitness Giants Target Market Athletech News",
-      "id": "wk42-fitness-001"
-    },
-    {
-      "category": "fitness-market",
-      "region": "north-america",
-      "language": "en",
-      "source": "Newsweek",
-      "sourceKind": "media",
-      "titleOriginal": "Fitness Industry Embraces Healthy Aging as Experts Warn on Longevity Claims",
-      "titleZh": "Newsweek：商用器材 / 品牌扩张与健身消费",
-      "summaryZh": "Newsweek 报道，适合跟踪健身消费、设备渠道和健康管理趋势；当前信号更偏向商用器材、品牌扩张与健身消费，可优先关注 消费、商用健身、设备。",
-      "publishedAt": "2026-10-14T14:24:00.000Z",
-      "tags": [
-        "消费",
-        "商用健身",
-        "设备"
-      ],
-      "priority": 1,
-      "featured": true,
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNk9BQmZ6Y0NIZ3ZoU1lJSHVYZ2JNTHh5TmtqRU9GWUo5T05WQXhfNVowZnpvQWNLenBtQ2ZoTXlqS0lWOWozR1B1dzQ0S2FmY0RmWnJueEVmWXlfV214SkpPN25HWnlEQmQzVldWZFgzOE9UVmpwZlA0dDdQTDAxbkw4MnJ6LU9NTmNKT1FONVA4anc?oc=5",
-      "searchQuery": "Fitness Industry Embraces Healthy Aging as Experts Warn on Longevity Claims Newsweek",
-      "id": "wk42-fitness-002"
-    },
-    {
-      "category": "fitness-market",
-      "region": "north-america",
-      "language": "en",
-      "source": "Health & Fitness Association",
-      "sourceKind": "institution",
-      "titleOriginal": "Alan Schwartz and Steven Schwartz Named to 2027 HFA Hall of Fame",
-      "titleZh": "Health & Fitness Association：商用器材 / 品牌扩张与健身消费",
-      "summaryZh": "Health & Fitness Association 报道，适合跟踪健身消费、设备渠道和健康管理趋势；当前信号更偏向商用器材、品牌扩张与健身消费，可优先关注 消费、商用健身、设备。",
-      "publishedAt": "2026-10-12T17:18:28.000Z",
-      "tags": [
-        "消费",
-        "商用健身",
-        "设备"
-      ],
-      "priority": 1,
-      "featured": false,
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQlVheXpwaXUxWkRKV1I0UFJFZXRjSE5nQWRwVVZPNm9DeFl4d1lyWTZQTUYzd0FXb1JJNHRuMWJyS2hJVFRWdnFWQ3RWYWVwclZwbGZlSUUzMXY5MDYxblB3RV9XVzZGZklTVW5odFFISnpoelI3aHJTM2VsN0FKV0pQcUM0N3dKSTlHRE1mR2dIYnpmS1FJd1JJVkpVa1FScnlN?oc=5",
-      "searchQuery": "Alan Schwartz and Steven Schwartz Named to 2027 HFA Hall of Fame Health & Fitness Association",
-      "id": "wk42-fitness-003"
-    },
-    {
-      "category": "fitness-market",
-      "region": "china",
-      "language": "zh",
-      "source": "CBNData-第一财经商业数据中心",
-      "sourceKind": "media",
-      "titleOriginal": "健身房换道，旧模式速死",
-      "titleZh": "健身房换道，旧模式速死",
-      "summaryZh": "CBNData-第一财经商业数据中心 报道，适合跟踪健身消费、设备渠道和健康管理趋势；当前信号更偏向器材、展会和出海案例，可优先关注 商用健身、设备、场馆升级。",
-      "publishedAt": "2026-10-16T04:20:13.000Z",
-      "tags": [
-        "商用健身",
-        "设备",
-        "场馆升级"
-      ],
-      "priority": 2,
-      "featured": false,
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBMbmZrS293aHBpTldZUzBORWstRFdQYk5Ca1oxcDJ6SnJvdmJHUDJxRWlmWUdCS1FRaU00bWc2bUltRjNBYmh4b0dFVjRGSWhEM21LYw?oc=5",
-      "searchQuery": "健身房换道，旧模式速死 CBNData-第一财经商业数据中心",
-      "id": "wk42-fitness-004"
-    },
-    {
-      "category": "brand-dynamics",
-      "region": "asia-pacific",
-      "language": "en",
-      "source": "Consumer Goods Technology",
-      "sourceKind": "media",
-      "titleOriginal": "Sportswear Company On Deploys AI Agent Workflows",
-      "titleZh": "Consumer Goods Technology：品牌供应链与工厂布局",
-      "summaryZh": "Consumer Goods Technology 报道，适合跟踪品牌新品、供应链与区域扩张动作；当前信号更偏向品牌供应链与工厂布局，可优先关注 AI、体育科技、消费。",
-      "publishedAt": "2026-10-13T13:14:18.000Z",
-      "tags": [
-        "AI",
+        "Adidas",
         "体育科技",
         "消费"
       ],
       "priority": 1,
       "featured": true,
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5fc25yN2w1WTVBNTZSQ1BsYzQ5Ri0ydzJ4V1MwVjA4M3I3UWFVWFZXdE5VekdBcE1sZzhkak8xNjh5amFNM2Z2cV9UTDVaV3B6a1ByYUQxak1WUnQzcnU5dTVlcGVjV0taR1pvTVJLd3RQUHdoSDRGaVI2UQ?oc=5",
-      "searchQuery": "Sportswear Company On Deploys AI Agent Workflows Consumer Goods Technology",
-      "id": "wk42-brand-001"
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbWZmUU9weFNxVXBtd09xempqazVhSUQyalV6OGk3NnZjdWRhaEFzbHNKQnZqQU1yRUNvUVZLUXRkN0dzV3lJWW5QZ2xScWZaX0c0NVc2aWFOdW11R0pqSjc4SGhtUmliaW0teTdNZm5zYkxNX2l5ZGY3eENnd0NDcjRYTno5Vmk2WVVRektzS3lvMWNBUWpvVWhfQXM?oc=5",
+      "searchQuery": "Adidas-Backed ATHX Games Expands Across US Athletech News",
+      "id": "wk43-fitness-001"
     },
     {
-      "category": "brand-dynamics",
-      "region": "global",
+      "category": "fitness-market",
+      "region": "north-america",
       "language": "en",
-      "source": "About Nike",
-      "sourceKind": "brand",
-      "titleOriginal": "New Doernbecher Freestyle Collection Celebrates 22 Years of Empowering Kids Through Design",
-      "titleZh": "About Nike：签名鞋 / 明星合作与新品发布",
-      "summaryZh": "About Nike 报道，适合跟踪品牌新品、供应链与区域扩张动作；当前信号更偏向签名鞋、明星合作与新品发布，可优先关注 Nike、知识产权、新品发布。",
-      "publishedAt": "2026-10-17T02:00:00.000Z",
+      "source": "Sporting Goods Intelligence Europe",
+      "sourceKind": "media",
+      "titleOriginal": "Market Analysis: Fitness grows where athletes return",
+      "titleZh": "Sporting Goods Intelligence Europe：商用器材 / 品牌扩张与健身消费",
+      "summaryZh": "Sporting Goods Intelligence Europe 报道，适合跟踪健身消费、设备渠道和健康管理趋势；当前信号更偏向商用器材、品牌扩张与健身消费，可优先关注 消费、商用健身、设备。",
+      "publishedAt": "2026-10-19T13:02:35.000Z",
       "tags": [
-        "Nike",
-        "知识产权",
-        "新品发布"
+        "消费",
+        "商用健身",
+        "设备"
+      ],
+      "priority": 1,
+      "featured": false,
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQa0QtYlZNanFMNm83OTM3ZlV2a2JjWUVaMzZOb1JUSUZuT0RJMXhVQnk3VHNpeHRSQ0J5eE8yOWxqbUc5TXdocXhnNjNPa3ZJUnJDd2Q2bnVfd1RBbnM1UHV6SzlvcjVMbGpmYjJfRk9FMy1KdmtHOXFSa2Z0U2pjXzB1bklCZXB0YkFnX2JfYTZ5VVRQTXptWXlwS25aQ3lkcWlXMlI2X202aC1WRjh2ejYyVlRYT0ls?oc=5",
+      "searchQuery": "Market Analysis: Fitness grows where athletes return Sporting Goods Intelligence Europe",
+      "id": "wk43-fitness-002"
+    },
+    {
+      "category": "fitness-market",
+      "region": "north-america",
+      "language": "en",
+      "source": "Automotive News",
+      "sourceKind": "media",
+      "titleOriginal": "Valeo CEO: China is the ‘fitness center’ of the global auto industry",
+      "titleZh": "Automotive News：商用器材 / 品牌扩张与健身消费",
+      "summaryZh": "Automotive News 报道，适合跟踪健身消费、设备渠道和健康管理趋势；当前信号更偏向商用器材、品牌扩张与健身消费，可优先关注 消费、商用健身、设备。",
+      "publishedAt": "2026-10-19T09:40:00.000Z",
+      "tags": [
+        "消费",
+        "商用健身",
+        "设备"
+      ],
+      "priority": 1,
+      "featured": false,
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNd1lJMXZ1d2tLcEJuSENIbTYtU2dKMW02MzN1OUVUYVlwdFlXZUdyRE9UQXNNdXN3dzNBbk01NlVkcGEwbERMaHVncm9Vd0R4YUlKZV9OV1R1SmlRZkdIRjdZNzdWWFRkVGFiUlBsM3VBbHNZazNCemlpTGJaTUMtMzUtOFBJNHN4aTNR?oc=5",
+      "searchQuery": "Valeo CEO: China is the ‘fitness center’ of the global auto industry Automotive News",
+      "id": "wk43-fitness-003"
+    },
+    {
+      "category": "fitness-market",
+      "region": "north-america",
+      "language": "en",
+      "source": "BGR",
+      "sourceKind": "media",
+      "titleOriginal": "The Likely Reason Why Amazon Discontinued The Halo Fitness Band",
+      "titleZh": "BGR：商用器材 / 品牌扩张与健身消费",
+      "summaryZh": "BGR 报道，适合跟踪健身消费、设备渠道和健康管理趋势；当前信号更偏向商用器材、品牌扩张与健身消费，可优先关注 消费、商用健身、设备。",
+      "publishedAt": "2026-10-26T00:25:35.000Z",
+      "tags": [
+        "消费",
+        "商用健身",
+        "设备"
       ],
       "priority": 2,
       "featured": false,
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPekE2WG5xeDA3SEY4RTFDX3RUR0Zqd19BRTdIR1RGYUFJVFRFWGUzeEhwSU9ydy1vTFJEY3ptUFdDNHF6d2hFVXFGR3dPak1wS2VDcWpHcGJNOUFYZi1ETnZaanJFNTlOaVNIOXNQUG1BSG1HTmpnV2ZDcGZTUEVQMmVxUFcwWl9GOU9MMEN2UUptZG91RFZlelN4YW9lY0VKTWxtVy1SYzVDMy13TE9XanJTZTktRGN4VjdZOXA2VWFtTllWZ2c5cW1WMA?oc=5",
-      "searchQuery": "New Doernbecher Freestyle Collection Celebrates 22 Years of Empowering Kids Through Design About Nike",
-      "id": "wk42-brand-002"
-    },
-    {
-      "category": "brand-dynamics",
-      "region": "global",
-      "language": "en",
-      "source": "CNBC",
-      "sourceKind": "brand",
-      "titleOriginal": "Nike's India campus is a long-term growth bet amid turnaround",
-      "titleZh": "CNBC：签名鞋 / 明星合作与新品发布",
-      "summaryZh": "CNBC 报道，适合跟踪品牌新品、供应链与区域扩张动作；当前信号更偏向签名鞋、明星合作与新品发布，可优先关注 Nike、营收、新品发布。",
-      "publishedAt": "2026-10-16T11:00:01.000Z",
-      "tags": [
-        "Nike",
-        "营收",
-        "新品发布"
-      ],
-      "priority": 2,
-      "featured": false,
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1WWERBMnItNVN3a2piN0pid3dkSWpLQkxwdThORXRMcWYxS0c2LTE5bG51ZG1hSjdwZTQ0WHE4MHZ3eWJvR0EwUVY3VkhzMmIySGJOeUVST2p0WjM5Q2NnSllXNlNJZ1dEY1JQMUR5MmtnZWJL0gF6QVVfeXFMUFVmSXhIRVQ0bENnMlVlTUFLMlZiZnRGbV9SSHdPVldneTZlSEQwbGVwRnRVeUhzYm5ReEZraVoyeTlaY0o0LURhRU14TEVFV2JQdkdhZkVyZmVUdGNqVjdNZUVZZm9GalJ1RVhicEVxN1JrNzBrelIyZFE?oc=5",
-      "searchQuery": "Nike's India campus is a long-term growth bet amid turnaround CNBC",
-      "id": "wk42-brand-003"
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB0WmhEMndqYnZidnhQVUNlWmZYVzVhSWNVcFRWZlZWcEhfX25DTW4xd05kMEg3UjlJVFVXTldhZnZCUTAzclBtMGczaWVkTElERGpZcDZCM2c1UWxwaHp2cU00MklkTHJjQWh1OTY4VWdhMUEtNmc?oc=5",
+      "searchQuery": "The Likely Reason Why Amazon Discontinued The Halo Fitness Band BGR",
+      "id": "wk43-fitness-004"
     },
     {
       "category": "brand-dynamics",
       "region": "asia-pacific",
       "language": "en",
-      "source": "36Kr",
+      "source": "ispo.com",
       "sourceKind": "media",
-      "titleOriginal": "How Has 77-Year-Old ASICS Achieved Such Explosive Growth?",
-      "titleZh": "36Kr：品牌供应链与工厂布局",
-      "summaryZh": "36Kr 报道，适合跟踪品牌新品、供应链与区域扩张动作；当前信号更偏向品牌供应链与工厂布局，可优先关注 营收、供应链、品牌动作。",
-      "publishedAt": "2026-10-14T02:22:16.000Z",
+      "titleOriginal": "Reimagining sportswear content with AI",
+      "titleZh": "ispo.com：品牌供应链与工厂布局",
+      "summaryZh": "ispo.com 报道，适合跟踪品牌新品、供应链与区域扩张动作；当前信号更偏向品牌供应链与工厂布局，可优先关注 AI、供应链、品牌动作。",
+      "publishedAt": "2026-10-23T08:49:32.000Z",
       "tags": [
-        "营收",
+        "AI",
         "供应链",
+        "品牌动作"
+      ],
+      "priority": 1,
+      "featured": true,
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1NUzM4X2VQT3kzekRUaDh3S2dFd1NHRzhmdnRtQXRoRXd1WGNITkZ1YjdUYTVhaWp6MDBjdTdySTdMYWlhS3FISjhYV0JjTXlXS1N2eUJ5elRDR3VlUEtkNVluaXdadjFYZkk4Qk9mbXdHZWZyNHhGcw?oc=5",
+      "searchQuery": "Reimagining sportswear content with AI ispo.com",
+      "id": "wk43-brand-001"
+    },
+    {
+      "category": "brand-dynamics",
+      "region": "global",
+      "language": "en",
+      "source": "Reuters",
+      "sourceKind": "brand",
+      "titleOriginal": "7-Eleven ends lawsuit against Nike over shoes with store's colors",
+      "titleZh": "Reuters：签名鞋 / 明星合作与新品发布",
+      "summaryZh": "Reuters 报道，适合跟踪品牌新品、供应链与区域扩张动作；当前信号更偏向签名鞋、明星合作与新品发布，可优先关注 Nike、法务、新品发布。",
+      "publishedAt": "2026-10-20T16:14:46.000Z",
+      "tags": [
+        "Nike",
+        "法务",
+        "新品发布"
+      ],
+      "priority": 1,
+      "featured": false,
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWEx3NUxwUmRia2V1VjBTelY3eFZ0eEJjYXE3YVJfbUNUYWkzNTlKZHBFbGhyUmJrb3Y4bVZFWllvTzQyWTBlSmhPVDZpYVZLVlVYT1NfeHdwSnlqMHk3cGlWbmE4Z1lNZWpadW9WV3JTZG83eHhBODVvTkY1MFM0V3J5UG84U2RpRWtTNzVfbTF5ZjNnWGVhbnVDc1RsczdpZ3J5TmJCbVFxMzY2cUFpZ3JrM3M3dXpQa0tnSw?oc=5",
+      "searchQuery": "7-Eleven ends lawsuit against Nike over shoes with store's colors Reuters",
+      "id": "wk43-brand-002"
+    },
+    {
+      "category": "brand-dynamics",
+      "region": "global",
+      "language": "en",
+      "source": "Highsnobiety",
+      "sourceKind": "brand",
+      "titleOriginal": "adidas’ Exquisitely Woven Samba Is a Texture Trove",
+      "titleZh": "Highsnobiety：鞋服设计 / 营销与法务动态",
+      "summaryZh": "Highsnobiety 报道，适合跟踪品牌新品、供应链与区域扩张动作；当前信号更偏向鞋服设计、营销与法务动态，可优先关注 Adidas、法务、品牌动作。",
+      "publishedAt": "2026-10-25T19:03:19.000Z",
+      "tags": [
+        "Adidas",
+        "法务",
         "品牌动作"
       ],
       "priority": 2,
       "featured": false,
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE95TzMtWC1FLXZMVU04THBmMTU3QjZjS2xRMDVLcWZvYnBiYmRfajRMWEJybTVRMWhUX2dRbWhZVThhUnBwU3dyTVFZMFgtRENNQ240?oc=5",
-      "searchQuery": "How Has 77-Year-Old ASICS Achieved Such Explosive Growth? 36Kr",
-      "id": "wk42-brand-004"
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKMU5UNVA4NUpNUk1IR2lvLS1jcnlraGJYdHNJNHlxQjFxRENMS211WTNTb3R1cWhlNGlWZ1pNcXQ2Q2x0cHVGTlh1Z3NuUE85dGxBSXZOM1RPMlNrSC04ZGJQLWRBWkFRQzc0NQ?oc=5",
+      "searchQuery": "adidas’ Exquisitely Woven Samba Is a Texture Trove Highsnobiety",
+      "id": "wk43-brand-003"
+    },
+    {
+      "category": "brand-dynamics",
+      "region": "global",
+      "language": "en",
+      "source": "Yahoo",
+      "sourceKind": "brand",
+      "titleOriginal": "Molly-Mae’s Adidas Samba Slate Sneaker Arrives as the Matcha Colorway Sells Out in Minutes",
+      "titleZh": "Yahoo：鞋服设计 / 营销与法务动态",
+      "summaryZh": "Yahoo 报道，适合跟踪品牌新品、供应链与区域扩张动作；当前信号更偏向鞋服设计、营销与法务动态，可优先关注 Adidas、法务、品牌动作。",
+      "publishedAt": "2026-10-23T17:20:16.000Z",
+      "tags": [
+        "Adidas",
+        "法务",
+        "品牌动作"
+      ],
+      "priority": 2,
+      "featured": false,
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVk9xeEVrVEhpUkdFWmJjd0RXd1gxazBQTHRTZnhnNVAybURlS283TTJNUDJRWmlLWlo3ZWpEanZCekVIU0czUzlmRm0yTThiNzMxREItbG1RVjE3T1kzVzhILXlfMVF6UmhjVEt3VFZvS256V2FYSE5FVlhPUGU4cDNVandYXzhad3JpQlk1QlA5NmFiRHc?oc=5",
+      "searchQuery": "Molly-Mae’s Adidas Samba Slate Sneaker Arrives as the Matcha Colorway Sells Out in Minutes Yahoo",
+      "id": "wk43-brand-004"
     }
   ]
 };
